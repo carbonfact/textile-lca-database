@@ -1,27 +1,6 @@
-# 3D Knitting
+# Life Cycle Inventory
 
-## 1. Background
-
-### 1.1 Context
-
-This document describes the modelling approach for **3D knitting**, focusing on machines that directly knit complete 3D garments without sewing.
-
-It ensures methodological consistency with the other knitting process models (flat, circular, hosiery) while accounting for the distinctive features of 3D knitting.
-
-### 1.2 Scope and functional unit
-
-- **Functional unit:** 1 kg of 3D knitted fabric (WHOLEGARMENT-type).
-- **System boundary:** Gate-to-gate process, from yarn input to finished 3D garment.
-- **Included:** Yarn losses, lubricants, electricity (direct + indirect), capital goods and their EoL, textile waste.
-- **Excluded:** Fibre production, finishing, packaging, transport.
-
----
-
-## 2. Process Description
-
-3D knitting machines (e.g., **Shima Seiki SWG-XR**, **MACH2XS**, **Stoll CMS 3D**) integrate design and garment shaping in one process, eliminating most cutting and sewing.
-
-This results in minimal material waste but higher **specific energy demand (kWh/kg)** due to longer cycle times and lower productivity per unit mass compared to circular knitting.
+> Part of [3D Knitting Methodology](README.md)
 
 ## 3. Inventory Data -- 3D Knitting (mix)
 
@@ -154,18 +133,3 @@ The model therefore applies **0.02 kg/kg** textile waste, equivalent to ~2% of y
 | **Machine mass allocation** | 0.0004 kg/kg | Derived from 1,200--1,400 kg machine |
 | **EoL (steel)** | 0.0003 kg/kg | 85% share |
 | **Textile waste** | 0.02 kg/kg | <5% material losses |
-
-## 8. References
-
-- Advanced Knitting Technology (2021). *Circular and 3D Knitting Yarn Realisation Benchmarks.*
-- Ahmed, R. (2024). *Circular Knitting Yarn Waste and Setup Trials.* NTNU Thesis.
-- Hasanbeigi, A., & Price, L. (2015). *Energy Efficiency in the Textile Industry.* LBNL.
-- Emdadul Haq, M. et al. (2022). *Lubricant consumption in knitting machines.* *PrimeAsia Journal.*
-- K&G Garment (2025). *What is seamless knitting?* <https://kggarment.com>
-- Laursen, S. E., et al. (2007). *EDIPTEX -- Environmental Assessment of Textiles.* Danish EPA.
-- Maity, S. et al. (2021). *Textile Energy Efficiency.* Elsevier.
-- Sandin, G. et al. (2019). *Mistra Future Fashion Report.* IVL.
-- Shima Seiki (2025). *WHOLEGARMENT SWG-XR / MACH2XS technical datasheets.*
-- Stoll / Karl Mayer (2025). *CMS 3D machine catalogue.*
-- van der Velden, N. M. et al. (2014). *LCA Benchmarking Study on Textiles.* *Int. J. LCA.*
-- GIZ (2023). *Sustainable Apparel Report -- Cutting Waste Reduction.*

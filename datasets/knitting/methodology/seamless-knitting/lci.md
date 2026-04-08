@@ -1,36 +1,6 @@
-# Seamless Knitting
+# Life Cycle Inventory
 
-## 1. Background
-
-### 1.1 Context
-
-Seamless knitting represents a highly integrated textile production technology where entire garments are produced directly on knitting machines, removing almost all cutting and sewing operations.
-
-This innovation (in this case we base our model on the machines from **Shima Seiki (WHOLEGARMENT)** and **Santoni (SM8 series)**) achieves near-zero fabric waste and higher material efficiency compared to traditional knitwear production.
-
-However, the process is more energy-intensive per kilogram of fabric due to complex knitting paths, longer cycle times, and higher frictional resistance, particularly with fine yarns.
-
-Average machine characteristics (literature and datasheets):
-
-- **Machine weight:** 750--1,400 kg
-- **Installed power:** 1.5--2.2 kW (varies with gauge)
-- **Knitting speed:** 1.3--1.6 m/s
-- **Production rate:** 0.7--2.0 garments/h
-- **Energy range:** ~0.9--17 kWh/kg garment
-
-*(Sources: Shima Seiki 2025; Knox 2011; Maity 2021; NTNU 2024)*
-
-### 1.2 Scope and Functional Unit
-
-The seamless knitting model includes:
-
-- **Direct electricity consumption** of the machine;
-- **Indirect energy use** (compressors, HVAC, lighting, automation);
-- **Lubricant use** and air emissions;
-- **Capital goods and end-of-life allocation**;
-- **Material losses (yarn waste)** during operation.
-
-The **functional unit** is **1 kg of knitted garment** produced under average industrial conditions.
+> Part of [Seamless Knitting Methodology](README.md)
 
 ## 2. Methodological Overview
 
@@ -163,19 +133,3 @@ Accordingly, waste-to-treatment in the LCI is set at **0.025 kg textile waste pe
 | EoL steel | 0.0003 | kg | Machine end-of-life |
 | EoL others | 0.0001 | kg | Machine end-of-life |
 | Textile waste | 0.025 | kg | Process and start-up losses |
-
-## 6. References
-
-- AATCC (2023). *Sustainable Apparel Production Benchmarking.*
-- Advanced Knitting Technology (2021). *Knitting Process Efficiency Analysis.*
-- Emdadul Haq et al. (2022). *PrimeAsia Journal.*
-- Hasanbeigi & Price (2015). *Energy Efficiency Improvement in Textile Industry.*
-- K&G Garment (2025). *What is Seamless Knitting?*
-- Knox (2011). *Knitted Garment Production Analysis.* NTU Repository.
-- Laursen et al. (2007). *EDIPTEX -- Environmental Assessment of Textiles.*
-- Maity et al. (2021). *Circular Knitting Power Consumption.*
-- Rakib Ahmed (2024). *Knitting Waste Analysis.* NTNU Thesis.
-- Sandin et al. (2019). *Mistra Future Fashion Report.* IVL.
-- Santoni (2023). *SM8-TR1S Datasheet.*
-- Shima Seiki (2025). *WHOLEGARMENT Product Catalogue.*
-- van der Velden et al. (2014). *LCA Benchmarking of Textiles.*

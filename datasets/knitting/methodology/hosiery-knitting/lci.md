@@ -1,42 +1,6 @@
-# Hosiery Knitting
+# Life Cycle Inventory
 
-## 1. Background
-
-### 1.1 Context
-
-This document presents the modelling assumptions and data sources for **hosiery knitting**, representing the production of socks or similar small-diameter tubular knitted goods.
-
-The model follows the same methodological principles applied in flat and circular knitting, ensuring coherence across all knitting process datasets.
-
-### 1.2 Scope and functional unit
-
-- **Functional unit:** 1 kg of hosiery fabric (average of mixed cotton and synthetic yarns).
-- **System boundary:** Gate-to-gate hosiery knitting.
-- **Included:**
-  - Yarn losses, lubricants and related emissions
-  - Electricity consumption (direct and indirect)
-  - Machine depreciation (capital goods) and end-of-life (EoL)
-  - Textile waste to treatment
-- **Excluded:**
-  - Fibre and yarn production (modelled upstream)
-  - Sewing, dyeing, finishing and packaging
-  - Factory building and auxiliary systems beyond indirect energy allocation
-
-## 2. Technical Overview
-
-### 2.1 Process characteristics
-
-Hosiery knitting uses small-diameter single-cylinder circular knitting machines designed for automatic toe closure and optional linking.
-
-Production rates, power consumption and material losses are highly dependent on the gauge, feed configuration and automation level.
-
-Key benchmarks:
-
-- **Output:** ~300--400 pairs/day per standard machine; premium multi-feed models can exceed 800 pairs/day (~33 pairs/h).
-- **Machine weight:** typically **230--320 kg**.
-- **Energy:** **0.5--1.2 kWh/kg** (machine electricity only).
-- **Lubricant consumption:** **0.05--0.10 L/kg**, depending on lubrication system efficiency.
-- **Yarn waste:** **2--5%**, depending on toe-closing system and yarn type.
+> Part of [Hosiery Knitting Methodology](README.md)
 
 ## 3. Inventory Data
 
@@ -162,16 +126,3 @@ The LCI therefore assumes **2--5% total yarn waste**, and **0.02 kg/kg textile w
 | **Machine mass allocation** | 0.0004 kg/kg | 300 kg machine amortised |
 | **EoL (steel)** | 0.00035 kg/kg | 85% share |
 | **Textile waste** | 0.02 kg/kg | <5% utilisation loss |
-
-## 8. References
-
-- AATCC (2023). *Cutting Waste in Textile Manufacturing.* In: GIZ Sustainable Apparel Series.
-- Accio (2023). *Socks Knitting Machine Benchmark.* <https://www.accio.com/plp/socks_knitting_machine>
-- Emdadul Haq, M., et al. (2022). *Lubricant consumption in hosiery production.* *PrimeAsia Journal*.
-- Hasanbeigi, A. & Price, L. (2015). *Energy Efficiency in the Textile Industry.* Lawrence Berkeley National Laboratory.
-- K&G Garment (2025). *What is seamless knitting?* <https://kggarment.com/blogs/news/what-is-seamless-knitting-a-complete-guide-for-brands>
-- Laursen, S. E., et al. (2007). *EDIPTEX -- Environmental Assessment of Textiles.* Danish EPA.
-- Lonati S.p.A. (2023). *GE516DF / GE616DF Technical Catalogue.*
-- Maity, S., et al. (2021). *Textile Energy Efficiency.* Elsevier.
-- Sandin, G., et al. (2019). *Environmental Assessment of Swedish Fashion Consumption.* Mistra.
-- van der Velden, N. M., Patel, M. K., & Vogtlander, J. G. (2014). *LCA Benchmarking Study on Textiles.* *Int. J. Life Cycle Assess.*
