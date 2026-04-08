@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Carbonfact Textile LCA Database
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Laurent
+    family-names: Vandepaer
+    affiliation: Carbonfact
+  - given-names: Vincent
+    family-names: Carrieres
+    affiliation: Carbonfact
+  - name: Carbonfact Science Team
+    website: https://www.carbonfact.com
+url: https://github.com/carbonfact/textile-lca-database
+repository-code: https://github.com/carbonfact/textile-lca-database
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2026-04-08'
+keywords:
+  - life-cycle-assessment
+  - LCA
+  - textile
+  - environmental-footprint
+  - emission-factors
+  - open-data

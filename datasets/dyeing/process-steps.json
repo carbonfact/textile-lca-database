@@ -1,0 +1,3270 @@
+{
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FIBER/ACID/BATCH/PACKAGE#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.0165538306476716
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 156.57283117943606
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 47.736722132462745
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0012446874961297828
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.582364807147279
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 5.0000237581627575e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 4.437774485718027e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.3004188695943777
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 9.083202100258664
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.8417203681513936e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.739287507922815e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01039097812007971
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.666733835153981e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003421601281521678
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.031087504458184336
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.8637576940776437
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.07,
+            "ter": 2.07,
+            "tir": 2.07,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fiber dyeing, Exhaust, Package, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fiber dyeing, Exhaust, Package, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/ACID/BATCH/PACKAGE#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.017771275197379657
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 460.19091725317
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 56.05956741923371
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0012713493041238688
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.184468675512869
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.3703715880578592e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.3238880183092213e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2833489017773971
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 10.752327066557338
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.5562397753415665e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.1163036961971114e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.011946771453500647
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.8871188465370814e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004170430498325088
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03376844087873237
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.0481727469389646
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.1,
+            "ter": 2.1,
+            "tir": 2.1,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Package, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Package, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/CONTINUOUS/PAD_STEAM#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.013771395818324164
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 262.69510990954757
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 44.28058308372946
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0009503586132243035
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.2935744511858487
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 8.061411710992614e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.420582487326072e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.21235962574424402
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 5.785393322939862
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.2078299657197077e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.060426218090213e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.009251147107398362
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.465848961928773e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0029220249979920797
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02561096418133361
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.596913460769018
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.09,
+            "ter": 2.09,
+            "tir": 2.09,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Continuous, Pad steam, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Continuous, Pad steam, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/DISPERSE/CONTINUOUS/THERMOSOL#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.0128139415255729
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 253.86689756649125
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 41.005298907070696
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.000833333807217689
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.089605055077758
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 7.488105203351298e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.421950604637098e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.1801391269732905
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 5.1375828390895775
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.0902767300460357e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.573228280950642e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.008443163420993544
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.3768290280712014e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.002624581563463341
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.022968974324962053
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.5256839888413722
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.05,
+            "ter": 2.05,
+            "tir": 2.05,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Continuous, Thermosol, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Continuous, Thermosol, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/SOFTFLOW_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.011489505046282883
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 840.676934474002
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 48.30394707228085
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0007807320257936256
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.175572903784043
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.4178293187108378e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.4278201120605865e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.11983879622560092
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 11.998560581177193
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.2776514757772309e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 6.252144648319672e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.010751300495840591
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.3298274503979416e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003988126963279045
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.023068493895927005
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.1557146949322763
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.57,
+            "ter": 2.57,
+            "tir": 2.2,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Softflow jet, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Softflow jet, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/DISPERSE/BATCH/CONVENTIONAL_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.021191776978447242
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1247.5393495699886
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 65.45790435816863
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.001500014594361103
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.758447469054419
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.581822179470368e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.6462450541751568e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2627996045838432
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 14.094588826877985
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.550785147151422e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 7.342321129456058e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.014399301486580383
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.2200464211870207e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005858557267013757
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03728238693367748
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.590380981166522
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.23,
+            "ter": 2.23,
+            "tir": 2.13,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Conventional jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Conventional jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/DISPERSE/BATCH/SOFTFLOW_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.012704001539660496
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 627.0468731355863
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 49.62431849182327
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0006995204005619059
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.438927206697006
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.8051809221402478e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.8251050299043686e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.09901534043084811
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 9.957410987965241
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.3527115308295231e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.75540820477473e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.010596607956266964
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.4729533955115956e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0035849748748737332
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02285673212668954
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.9289178363866687
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.39,
+            "ter": 2.39,
+            "tir": 2.14,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Softflow jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Softflow jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/SOFTFLOW_JET#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.01673623376094579
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1043.3839445524968
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 69.59308483575052
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0010678314260685181
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.676269107367372
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.010743892322345e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.010563047820032e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.16366863330107895
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 15.757710601384323
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.6601042467821644e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 8.640607275573981e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.015179880259450055
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.9588071424558932e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005374600954133339
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03286964037258473
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.4830340287575343
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.5,
+            "ter": 2.5,
+            "tir": 2.18,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Softflow jet, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Softflow jet, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/DISPERSE/BATCH/HANK#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.021184982309444364
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 408.1426528075439
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 66.03405877293142
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0014346965032314717
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.848481340130332
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.2362563892548796e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.088860570039419e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.3103285073503568
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 17.63064530682602
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.431762082461954e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.3035053358980364e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.014441416361376204
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.235230676708303e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005117619131347299
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.040312514754829956
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 2.1913522563055947
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.24,
+            "ter": 2.24,
+            "tir": 2.11,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Hank, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Hank, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/DISPERSE/BATCH/BEAM#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.016618987247940944
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1079.9636074523378
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 54.384306660123016
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0009791878653049087
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.077680985799845
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.0510419745723285e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.1592684129606105e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.15481646756929685
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 10.95607344007794
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.7013554551992534e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.987198496628451e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.011471353311548055
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.917575840572738e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004444036018378532
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.030712414623113547
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.27536403560346
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.16,
+            "ter": 2.16,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Beam, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Beam, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/BEAM#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.013302954055018076
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1216.0225080039675
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 43.62361028788346
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0009081123552763439
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.2134808720202583
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.434718499198307e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.5438523463766317e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.1476780004741478
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 10.805169232654869
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.4101454953697375e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.354703560141968e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.009515655852432308
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.534601360587761e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004178672040351068
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02646224458637731
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.3193047656012853
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.24,
+            "ter": 2.24,
+            "tir": 2.24,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Beam, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Beam, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/DISPERSE/BATCH/PACKAGE#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.0163376124273861
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 556.6699332089006
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 53.3912638481124
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0010055582081564605
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.8224904730335383
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.6610546766269e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.4814069251873528e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.18511890539398024
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 19.34705934135576
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.234835452683515e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.8221969231359245e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01197859354136443
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.786020718029939e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004713459473107887
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.0316303268704093
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 2.5657454336295134
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.42,
+            "ter": 2.42,
+            "tir": 2.2,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Package, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Package, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/BATCH/SOFTFLOW_JET#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.014417384903630287
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 932.7658544324541
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 58.48454623915826
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0008515561759044683
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.9754449440006105
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.6112224476590494e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.7196284773789118e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.12824842283196408
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 15.120599209174923
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.6218047783000443e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 6.94445819875668e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.012921325929669476
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.747022616791794e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004710000398069986
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.029707920259841987
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.4513355775563663
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.49,
+            "ter": 2.49,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Softflow jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Softflow jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/ACID/BATCH/PACKAGE#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.016527165033342582
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 371.84656140390615
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 49.20594523304547
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0012878569863632372
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.669416846450619
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.108838142252597e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.071326828900104e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.30431543960377144
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 9.84656406949377
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.6038965028466607e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.1861318751877824e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.010709026201607174
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.6799360398516348e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003821776433500633
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03182335955505858
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.9858022065431324
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.09,
+            "ter": 2.09,
+            "tir": 2.09,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Package, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Package, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/BATCH/BEAM#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.016248413854068534
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1344.6071820891575
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 54.491193885029595
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0010153514261048802
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.073651786834028
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.756875856761968e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.943408606463005e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.1536129666830594
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 12.382558670254143
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.5113781601406066e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 6.314400041038701e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.011630620830284332
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.936095348415491e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004873473327176312
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03143793819206814
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.4693096578448275
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.2,
+            "ter": 2.2,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Beam, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Beam, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/BEAM#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.02010374925248311
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1355.3116083579616
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 67.20818108180298
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0012921813648485206
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.996023459085459
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.841347020403862e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.948552028724003e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.22186280749567833
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 13.881064223121035
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.8495969666284433e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 7.512747651043897e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.014255189213823193
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.3189645502187376e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005562808509470165
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03874186224067362
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.6017302830376547
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.18,
+            "ter": 2.18,
+            "tir": 2.18,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Beam, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Beam, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FIBER/VAT/BATCH/PACKAGE#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.01805417233940563
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1291.2331770543738
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 53.779401930271725
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0013758546573288267
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.0090903916444525
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.620646329176233e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.768961844292074e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2722811675236644
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 17.99135593702067
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.415708097342359e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 6.043262095303399e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.012208616911002943
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.9250199277555606e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.00562377304221859
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.035075990626726096
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.8877825945837938
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.24,
+            "ter": 2.24,
+            "tir": 2.17,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fiber dyeing, Exhaust, Package, Vat, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fiber dyeing, Exhaust, Package, Vat, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/VAT/BATCH/PACKAGE#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.02125203804589902
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 831.9773361590138
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 71.7516090444864
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0014918663965681807
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 5.1096169554782565
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.37475213971986e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.195493033296932e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.29553022859055283
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 28.579132884668837
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.617239325360357e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.7325561108523404e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01615527463828116
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.3647734220071494e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.006566491013979081
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.04439375332528896
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 3.818022603771049
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.48,
+            "ter": 2.48,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Package, Vat, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Package, Vat, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/VAT/BATCH/HANK#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.03559644653174175
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1386.7164048725974
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 119.09889746811174
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.002539918421730094
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 8.475278166333082
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.957423417614173e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.6599847822148043e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.5101591830476422
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 47.832616698173396
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 4.442425136415655e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.5541386650458575e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.02691902094253118
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 3.932980563120881e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.011000840823517342
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.07452805513900548
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 6.394657840710284
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.48,
+            "ter": 2.48,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Hank, Vat, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Hank, Vat, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/DISPERSE/BATCH/AIRFLOW_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.010541987391382571
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 258.3419936525535
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 31.410984411332294
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0007125419661484296
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 2.337166494137968
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 7.803349581528752e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.458568315461123e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.1472898417747088
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 5.018716398576264
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.223282009326403e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.9607525194523234e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.006744611967469393
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.0828109855223806e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.002349694047523148
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.018459416261994873
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.5373975880768249
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.12,
+            "ter": 2.12,
+            "tir": 2.12,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Airflow jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Airflow jet, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/CONVENTIONAL_JET#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.029599039427257008
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 2089.9907326688235
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 95.44777355938581
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0023609307280940063
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 6.790976691216096
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 6.025944814359805e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 6.053833624491429e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.43089806591063673
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 22.395587597916712
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 3.164310924059028e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.1606732683570385e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.021321072136009905
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 3.121746470681999e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.009012191912970032
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.056249228970838644
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 2.5336012985065217
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.29,
+            "ter": 2.29,
+            "tir": 2.18,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Conventional jet, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Conventional jet, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FIBER/REACTIVE/BATCH/PACKAGE#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.018125031695180073
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1284.389161245318
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 53.10168533643344
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0013633962680712401
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.965713118689252
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.6260123484328514e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 3.773083977125353e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.26611495365728066
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 18.002433260747516
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.4212050063895298e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.826109750224795e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.0122412281086695
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.9418586936138244e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005730607503257596
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03514647267629718
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.8790754880412566
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.23,
+            "ter": 2.23,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fiber dyeing, Exhaust, Package, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fiber dyeing, Exhaust, Package, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/REACTIVE/BATCH/HANK#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.024511223849186324
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 500.0509879738567
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 78.22576535549365
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0017074674900689748
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 5.748453212171087
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.4746315648815658e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.3387898136296034e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.3707830615124362
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 21.657359247336018
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.509739151096057e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.6419516470525967e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.017122168272866205
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.64991034649079e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.006140696399958123
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.04818378718412916
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 2.687097346925591
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.25,
+            "ter": 2.25,
+            "tir": 2.12,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Hank, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Hank, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/AIRFLOW_JET#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.014383050945356052
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 429.53018318360097
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 44.556258699090606
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.001081019211354738
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.256891377378596
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.3102351003551425e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.2125018092420449e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.23346392446239317
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 7.515879578559085
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.4630866274812026e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.555150162317065e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.009669019790985715
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.4852838162915693e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003443384639466328
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.027097171065568956
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.8079338252102349
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.16,
+            "ter": 2.16,
+            "tir": 2.16,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Airflow jet, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Airflow jet, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/VAT/CONTINUOUS/PAD_STEAM#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.015149083835704291
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 400.01953260369254
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 48.57320806560409
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0010794753335894836
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.6257725365316755
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.1276960529652087e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.1039873409615846e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.23614005558166568
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 6.720636553286918
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.51344411162262e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.07868141351111e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.010105236532360772
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.6383285502180616e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0034888774253063063
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02848561850983774
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.777722191251476
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.17,
+            "ter": 2.17,
+            "tir": 2.17,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Continuous, Pad steam, Vat, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Continuous, Pad steam, Vat, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FIBER/ACID/BATCH/PACKAGE#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.01818141436173707
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 231.40349611467244
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 55.23656626996667
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0012420246337090555
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.141622654716964
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 7.304243285727294e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 6.53337074493585e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2817061151176358
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 10.506618877597468
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.9794204083689347e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.7573660799255204e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.011833073695532262
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.9105155077928457e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003835047183335485
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03359337781568438
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.9666627787974088
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.09,
+            "ter": 2.09,
+            "tir": 2.09,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fiber dyeing, Exhaust, Package, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fiber dyeing, Exhaust, Package, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/AIRFLOW_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.00902727545696436
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 349.30404414520484
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 28.26944959445995
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.000686765724521219
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 2.038228675280969
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.0570710366538858e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 9.877180180536407e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.14457194432408194
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 5.184337213692853
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 9.827989653410365e-06
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.121824716884222e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.006216729590391404
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 9.316095731410488e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0023259259179198638
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.017172632833561616
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.5703503799402949
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.21,
+            "ter": 2.21,
+            "tir": 2.21,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Airflow jet, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Airflow jet, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/REACTIVE/BATCH/PACKAGE#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.023166504864778552
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 831.1398499120432
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 72.18896851848731
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.001536084560104746
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 5.187069974838997
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.3883945562616724e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.2040044102013695e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2919329552078197
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 29.849325940236014
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 3.274380664151192e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.732337712218592e-05
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01676756148123217
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.603517857343156e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.006912326590167954
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.04930499378086516
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 4.026774487023944
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.49,
+            "ter": 2.49,
+            "tir": 2.17,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Package, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Package, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/BATCH/AIRFLOW_JET#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.011137207555118715
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 982.014362844205
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 33.31066350239479
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0008538631452155162
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 2.4917508711835215
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.7470776863025442e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.8961098739236448e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.15982585835681237
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 7.02753273475048
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.4365055457547267e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.828990606132011e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.007365488359958333
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.202028035147525e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0033387911585094996
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02060937170953231
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.9440407568875266
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.19,
+            "ter": 2.19,
+            "tir": 2.19,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Airflow jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Airflow jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/BATCH/CONVENTIONAL_JET#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.025923883159044238
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1852.6465618848513
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 76.68808434438454
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0017599400155858028
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 5.542709522974189
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 5.220683000800308e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 5.444967016880394e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.30931808498579827
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 25.577391538062137
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 5.010596730657086e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 9.099433900618457e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.017985398068052178
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.8020708072288946e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.007859799112607153
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.04736417107628442
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 2.696176827582261
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.29,
+            "ter": 2.29,
+            "tir": 2.15,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Conventional jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Conventional jet, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/ACID/BATCH/CONVENTIONAL_JET#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.018983992156635085
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1662.0730161335478
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 61.9292716059498
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0015651189295467789
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.334459661886246
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 4.782243385523371e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 4.814367194541025e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.2675866941186573
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 16.13654723976624
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.1594252811930997e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 8.212555323511163e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.014080193061258031
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.00582183520879e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.006362158909320686
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.036443119372617405
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.8665437849839686
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.36,
+            "ter": 2.36,
+            "tir": 2.23,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Exhaust, Conventional jet, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Exhaust, Conventional jet, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FIBER/DISPERSE/BATCH/PACKAGE#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.019815465303784557
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 652.0241158355103
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 55.84541570321963
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.001507810014669434
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.190749916076743
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.885243688002447e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.9106681030349488e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.3419430770254419
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 13.366755843550223
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.4631687006241512e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.886662930064522e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.012453253297338113
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.9870806964258693e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0048171842043405215
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03704049356472896
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.375503267054587
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.11,
+            "ter": 2.11,
+            "tir": 2.11,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fiber dyeing, Exhaust, Package, Disperse, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fiber dyeing, Exhaust, Package, Disperse, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/ACID/BATCH/HANK#SYNTHETIC_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.017893645263962647
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 610.2703365539905
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 53.87116729029304
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0014135303727788994
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.980108970434223
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.8008551704864137e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.7579355760466643e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.32428719864529437
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 12.470292427224262
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.8146304481061724e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 5.0380598453600626e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01189289071744475
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.8307600123311574e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004585610655585336
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03502041914387811
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.2720753514227212
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.14,
+            "ter": 2.14,
+            "tir": 2.14,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Hank, Acid, Synthetic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Hank, Acid, Synthetic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/CONTINUOUS/PAD_STEAM#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.01493098438063864
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 449.239733685895
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 45.11595417559712
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0010603031554101568
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.391850171030041
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 1.2766336768143122e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.3194048589826752e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.23178961875726942
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 6.6119337039533015
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.5988013828857073e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.001656583537972e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.009556407782184565
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.5751022813631862e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0033115177018609274
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.0274091867955975
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.7577952343347178
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.09,
+            "ter": 2.09,
+            "tir": 2.09,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Continuous, Pad steam, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Continuous, Pad steam, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/GARMENT/REACTIVE/BATCH/FRONT_LOADER#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.019449452266797958
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1666.6542358849847
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 58.65893532085609
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.001537202571778286
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 4.4496205781669405
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 4.6338335700571453e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 4.917835145957591e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.30119582326365324
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 9.890108143959099
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.8417310206114986e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 6.198107573331893e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.012544273277149406
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 2.1021514129198087e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005455968074476667
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.03713585392881686
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.4847745814242317
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.11,
+            "ter": 2.11,
+            "tir": 2.11,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Garment dyeing, Exhaust, Front Loader, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Garment dyeing, Exhaust, Front Loader, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/INDIGO/CONTINUOUS/ROPE#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.03654298274986617
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 1879.8145451051425
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 104.49582079246542
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.002664045687863986
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 7.894678985932883
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 6.00928093178847e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 5.451640225171364e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.5162422965500824
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 28.151614312572693
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 5.064735111749454e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.0104752110370076e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.02385952716995803
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 3.855244493835249e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.010647234201561596
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.0709242518861866
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 3.1882832981832943
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.2,
+            "ter": 2.2,
+            "tir": 2.2,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Continuous, Rope, Indigo, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Continuous, Rope, Indigo, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/YARN/ACID/BATCH/HANK#WOOL_AND_SILK@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.02842075480302704
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 766.2836965277153
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 90.0834063209352
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0020222526874686376
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 6.720699389493403
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.279402652457033e-08
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 2.2044509749073735e-06
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.44750624704717507
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 17.36531730514095
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.4771388078638913e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 8.308568037967608e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01918494829272763
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 3.028620123321348e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.006721508005380074
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.054003517149379135
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.694360307763432
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.1,
+            "ter": 2.1,
+            "tir": 2.1,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Yarn dyeing, Exhaust, Hank, Acid, Animal Fibers, Medium Shade",
+            "sourceDetailsPublic": "Yarn dyeing, Exhaust, Hank, Acid, Animal Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL_PROCESS_STEP:COLORATION/DYEING/FABRIC/REACTIVE/SEMI-CONTINUOUS/CPB#NATURAL_FIBERS@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.012197919143635633
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 253.90440303887993
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 37.93943044379613
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0008482463120742728
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 2.8123590719908176
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 7.37018093850046e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.39476962028622e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.18270764097576672
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 5.353696974856803
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.1592030245880995e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.398175170104584e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.007952103550817475
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.30693996315393e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.002659455214075041
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.02325243690027793
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.7808088158719733
+        },
+        "dqr": {
+            "ger": 3.0,
+            "p": 2.12,
+            "ter": 2.12,
+            "tir": 2.12,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.092,
+        "source": {
+            "sourceDetailsInternal": "Fabric dyeing, Semi-continuous, CPB, Reactive, Cellulosic Fibers, Medium Shade",
+            "sourceDetailsPublic": "Fabric dyeing, Semi-continuous, CPB, Reactive, Cellulosic Fibers, Medium Shade",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    }
+}

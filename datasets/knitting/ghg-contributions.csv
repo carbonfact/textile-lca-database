@@ -1,0 +1,92 @@
+Activity,Exchange,Amount,Unit,GHG Impact (kgCO2eq/kg),Contribution (%),Total Activity Impact (kgCO2eq/kg)
+"3D Knitting, Average","market group for electricity, medium voltage",9.26,kilowatt hour,6.3473453255011005,96.329677557111,6.5891898389652015
+"3D Knitting, Average","market for building, hall",0.000486,square meter,0.18947481754683032,2.8755404257192625,6.5891898389652015
+"3D Knitting, Average",market for waste mineral oil,-0.00825,kilogram,0.023528984426036285,0.3570846340910917,6.5891898389652015
+"3D Knitting, Average",market for building machine,4.67e-07,unit,0.014805499195715627,0.22469377203496624,6.5891898389652015
+"3D Knitting, Average",lubricating oil production,0.00825,kilogram,0.014024653226263652,0.21284336267455534,6.5891898389652015
+"3D Knitting, Average",market for waste steel,-0.0003,kilogram,5.506653088218658e-06,8.357101893855056e-05,6.5891898389652015
+"3D Knitting, Average","treatment of waste electric and electronic equipment, shredding",-0.0001,kilogram,4.8922077021850925e-06,7.424596682971556e-05,6.5891898389652015
+"Circular Knitting, 120 dtex","market group for electricity, medium voltage",4.78,kilowatt hour,3.2764914331521724,98.4820274501069,3.3269942932603747
+"Circular Knitting, 120 dtex",market for waste mineral oil,-0.007,kilogram,0.019963986784310273,0.6000607462643419,3.3269942932603747
+"Circular Knitting, 120 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.44215251460036303,3.3269942932603747
+"Circular Knitting, 120 dtex",lubricating oil production,0.007,kilogram,0.011899705747443904,0.35767136034917807,3.3269942932603747
+"Circular Knitting, 120 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.11718261152668116,3.3269942932603747
+"Circular Knitting, 120 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006068859652598,3.3269942932603747
+"Circular Knitting, 120 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00029409173992846535,3.3269942932603747
+"Circular Knitting, 150 dtex","market group for electricity, medium voltage",4.72,kilowatt hour,3.2353639237955085,98.46303632876048,3.2858664981576213
+"Circular Knitting, 150 dtex",market for waste mineral oil,-0.007,kilogram,0.019963986784310273,0.6075714517161315,3.2858664981576213
+"Circular Knitting, 150 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.44768674979672507,3.2858664981576213
+"Circular Knitting, 150 dtex",lubricating oil production,0.007,kilogram,0.011899705747443904,0.3621481808258505,3.2858664981576213
+"Circular Knitting, 150 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.11864933649532403,3.2858664981576213
+"Circular Knitting, 150 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006144820990783641,3.2858664981576213
+"Circular Knitting, 150 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00029777276130531433,3.2858664981576213
+"Circular Knitting, 170 dtex","market group for electricity, medium voltage",4.69,kilowatt hour,3.2148001708375245,98.72861448275142,3.256199013508057
+"Circular Knitting, 170 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.45176565889359216,3.256199013508057
+"Circular Knitting, 170 dtex",market for waste mineral oil,-0.005,kilogram,0.014259990560763264,0.43793363064133795,3.256199013508057
+"Circular Knitting, 170 dtex",lubricating oil production,0.005,kilogram,0.00849978981642553,0.2610341008385819,3.256199013508057
+"Circular Knitting, 170 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.1197303599077609,3.256199013508057
+"Circular Knitting, 170 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006200806936870514,3.256199013508057
+"Circular Knitting, 170 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.000300485792292805,3.256199013508057
+"Circular Knitting, 200 dtex","market group for electricity, medium voltage",4.66,kilowatt hour,3.194236416252435,98.58185174533394,3.24018707267144
+"Circular Knitting, 200 dtex",market for waste mineral oil,-0.006,kilogram,0.017111988672760106,0.5281173058520898,3.24018707267144
+"Circular Knitting, 200 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.453998136475899,3.24018707267144
+"Circular Knitting, 200 dtex",lubricating oil production,0.006,kilogram,0.010199747799254758,0.3147888554115292,3.24018707267144
+"Circular Knitting, 200 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.12032202804178913,3.24018707267144
+"Circular Knitting, 200 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006231449289174758,3.24018707267144
+"Circular Knitting, 200 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00030197069443596103,3.24018707267144
+"Circular Knitting, 300 dtex","market group for electricity, medium voltage",4.6,kilowatt hour,3.1531089096124214,98.56361867856586,3.1990596042291135
+"Circular Knitting, 300 dtex",market for waste mineral oil,-0.006,kilogram,0.017111988672760106,0.5349068410647394,3.1990596042291135
+"Circular Knitting, 300 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.4598347873485817,3.1990596042291135
+"Circular Knitting, 300 dtex",lubricating oil production,0.006,kilogram,0.010199747799254758,0.3188358161808186,3.1990596042291135
+"Circular Knitting, 300 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.12186890150568568,3.1990596042291135
+"Circular Knitting, 300 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006311561498916549,3.1990596042291135
+"Circular Knitting, 300 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00030585286349261266,3.1990596042291135
+"Circular Knitting, 330 dtex","market group for electricity, medium voltage",4.59,kilowatt hour,3.146254325051723,98.56052911683189,3.1922051892824252
+"Circular Knitting, 330 dtex",market for waste mineral oil,-0.006,kilogram,0.017111988672760106,0.5360554117953397,3.1922051892824252
+"Circular Knitting, 330 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.4608221607323452,3.1922051892824252
+"Circular Knitting, 330 dtex",lubricating oil production,0.006,kilogram,0.010199747799254758,0.319520431628255,3.1922051892824252
+"Circular Knitting, 330 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.12213058268546122,3.1922051892824252
+"Circular Knitting, 330 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0006325113905140423,3.1922051892824252
+"Circular Knitting, 330 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00030650960148866937,3.1922051892824252
+"Circular Knitting, 370 dtex","market group for electricity, medium voltage",4.58,kilowatt hour,3.139399740078021,98.5574363453369,3.185350447913266
+"Circular Knitting, 370 dtex",market for waste mineral oil,-0.006,kilogram,0.017111988672760106,0.5372089806937955,3.185350447913266
+"Circular Knitting, 370 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.46181383081092847,3.185350447913266
+"Circular Knitting, 370 dtex",lubricating oil production,0.006,kilogram,0.010199747799254758,0.320208026276564,3.185350447913266
+"Circular Knitting, 370 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.12239340260787257,3.185350447913266
+"Circular Knitting, 370 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.000633872528657527,3.185350447913266
+"Circular Knitting, 370 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00030716919737292924,3.185350447913266
+"Circular Knitting, 45 dtex","market group for electricity, medium voltage",5.3,kilowatt hour,3.6329298314067424,98.50718455569411,3.6879846356310715
+"Circular Knitting, 45 dtex",market for waste mineral oil,-0.008,kilogram,0.022815984896894275,0.618657265446826,3.6879846356310715
+"Circular Knitting, 45 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.3988733788676467,3.6879846356310715
+"Circular Knitting, 45 dtex",lubricating oil production,0.008,kilogram,0.013599663725373908,0.3687559756616718,3.6879846356310715
+"Circular Knitting, 45 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.10571244686107635,3.6879846356310715
+"Circular Knitting, 45 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0005474822545549103,3.6879846356310715
+"Circular Knitting, 45 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.0002653052105976553,3.6879846356310715
+"Circular Knitting, 70 dtex","market group for electricity, medium voltage",5.0,kilowatt hour,3.427292294655823,98.4190354454945,3.482346965850822
+"Circular Knitting, 70 dtex",market for waste mineral oil,-0.008,kilogram,0.022815984896894275,0.6551898797172204,3.482346965850822
+"Circular Knitting, 70 dtex",market for building machine,4.64e-07,unit,0.014710388928261322,0.4224274339265104,3.482346965850822
+"Circular Knitting, 70 dtex",lubricating oil production,0.008,kilogram,0.013599663725373908,0.3905315541138555,3.482346965850822
+"Circular Knitting, 70 dtex","market for building, hall",1e-05,square meter,0.0038986587981861562,0.1119549211040095,3.482346965850822
+"Circular Knitting, 70 dtex",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0005798118805734373,3.482346965850822
+"Circular Knitting, 70 dtex","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00028097187041727225,3.482346965850822
+"Flat Knitting, Average","market group for electricity, medium voltage",5.66,kilowatt hour,3.879694874379781,97.69119920448884,3.9713862722257502
+"Flat Knitting, Average","market for building, hall",0.000139,square meter,0.054191357285206423,1.3645451127279808,3.9713862722257502
+"Flat Knitting, Average",market for building machine,4.64e-07,unit,0.014710388928261322,0.3704094217966094,3.9713862722257502
+"Flat Knitting, Average",market for waste mineral oil,-0.005,kilogram,0.014259990560763264,0.35906833491599144,3.9713862722257502
+"Flat Knitting, Average",lubricating oil production,0.005,kilogram,0.00849978981642553,0.21402576414864452,3.9713862722257502
+"Flat Knitting, Average",market for waste steel,-0.0011,kilogram,2.0191061430791684e-05,0.0005084134366883348,3.9713862722257502
+"Flat Knitting, Average","treatment of waste electric and electronic equipment, shredding",-0.0002,kilogram,9.784415404370185e-06,0.00024637279613918145,3.9713862722257502
+"Hosiery Knitting, Average","market group for electricity, medium voltage",5.66,kilowatt hour,3.879694874379781,97.8593524638112,3.9645621769411443
+"Hosiery Knitting, Average",market for building machine,1.33e-06,unit,0.04216555447153707,1.0635614372951991,3.9645621769411443
+"Hosiery Knitting, Average",market for waste mineral oil,-0.008,kilogram,0.022815984896894275,0.5754982234759132,3.9645621769411443
+"Hosiery Knitting, Average",lubricating oil production,0.008,kilogram,0.013599663725373908,0.34303065807550837,3.9645621769411443
+"Hosiery Knitting, Average","market for building, hall",1.61e-05,square meter,0.0062768406635215716,0.15832367821166232,3.9645621769411443
+"Hosiery Knitting, Average",market for waste steel,-0.00035,kilogram,6.424428573983572e-06,0.0001620463568802025,3.9645621769411443
+"Hosiery Knitting, Average","treatment of waste electric and electronic equipment, shredding",-6e-05,kilogram,2.935324622896477e-06,7.403906136140423e-05,3.9645621769411443
+"Seamless Knitting, Average","market group for electricity, medium voltage",5.96,kilowatt hour,4.0853324142572385,98.56207966585153,4.1449332523293645
+"Seamless Knitting, Average",market for waste mineral oil,-0.008,kilogram,0.022815984896894275,0.5504548205709267,4.1449332523293645
+"Seamless Knitting, Average",market for building machine,5.33e-07,unit,0.016897925209941277,0.4076766543935298,4.1449332523293645
+"Seamless Knitting, Average",lubricating oil production,0.008,kilogram,0.013599663725373908,0.3281033227189168,4.1449332523293645
+"Seamless Knitting, Average","market for building, hall",1.61e-05,square meter,0.0062768406635215716,0.15143405891986608,4.1449332523293645
+"Seamless Knitting, Average",market for waste steel,-0.0003,kilogram,5.506653088218658e-06,0.00013285263604966466,4.1449332523293645
+"Seamless Knitting, Average","treatment of waste electric and electronic equipment, shredding",-0.0001,kilogram,4.8922077021850925e-06,0.00011802862445217363,4.1449332523293645
