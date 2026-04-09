@@ -35,15 +35,6 @@ Each process directory contains 4 files:
 | `process-steps.json` | Machine-readable emission factor format. Structured JSON containing process parameters, exchange amounts, and metadata suitable for programmatic use. |
 | `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
 
-## Quick start
-
-```python
-import pandas as pd
-
-knitting = pd.read_csv("datasets/knitting/impact-scores.csv")
-print(knitting[["Activity", "GHG"]].to_string(index=False))
-```
-
 ## Impact indicators
 
 All datasets report results for the 16 EF 3.1 impact indicators:
@@ -136,6 +127,15 @@ If you use this database in your work, please cite it as:
   url       = {https://github.com/carbonfact/textile-lca-database},
   license   = {CC-BY-SA-4.0}
 }
+```
+
+## Quick start (Python)
+
+```python
+import pandas as pd
+
+knitting = pd.read_csv("datasets/knitting/impact-scores.csv")
+print(knitting[["Activity", "GHG"]].to_string(index=False))
 ```
 
 ## Roadmap
