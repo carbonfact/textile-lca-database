@@ -8,98 +8,98 @@ Ring spinning is the most widely used staple yarn technology. It produces high-q
 
 ## Datasets
 
-| Descriptor | Activity | GHG (kgCO2eq/kg) |
-|------------|----------|------------------:|
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=120@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 120 dtex, Ring Spinning | 6.51 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=150@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 150 dtex, Ring Spinning | 5.12 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=170@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 170 dtex, Ring Spinning | 4.48 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=200@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 200 dtex, Ring Spinning | 3.78 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=300@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 300 dtex, Ring Spinning | 2.50 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=330@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 330 dtex, Ring Spinning | 2.27 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=370@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 370 dtex, Ring Spinning | 2.02 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=45@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 45 dtex, Ring Spinning | 23.01 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=70@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 70 dtex, Ring Spinning | 13.36 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=120@WORLD` | Spinning to yarn, Coton Combed - Weaving, 120 dtex, Ring Spinning | 4.73 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=150@WORLD` | Spinning to yarn, Coton Combed - Weaving, 150 dtex, Ring Spinning | 3.67 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=170@WORLD` | Spinning to yarn, Coton Combed - Weaving, 170 dtex, Ring Spinning | 3.18 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=200@WORLD` | Spinning to yarn, Coton Combed - Weaving, 200 dtex, Ring Spinning | 2.65 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=300@WORLD` | Spinning to yarn, Coton Combed - Weaving, 300 dtex, Ring Spinning | 1.69 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=330@WORLD` | Spinning to yarn, Coton Combed - Weaving, 330 dtex, Ring Spinning | 1.52 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=370@WORLD` | Spinning to yarn, Coton Combed - Weaving, 370 dtex, Ring Spinning | 1.34 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=45@WORLD` | Spinning to yarn, Coton Combed - Weaving, 45 dtex, Ring Spinning | 14.68 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=70@WORLD` | Spinning to yarn, Coton Combed - Weaving, 70 dtex, Ring Spinning | 8.78 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=120@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 120 dtex, Ring Spinning | 4.31 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=150@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 150 dtex, Ring Spinning | 3.36 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=170@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 170 dtex, Ring Spinning | 2.93 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=200@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 200 dtex, Ring Spinning | 2.45 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=300@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 300 dtex, Ring Spinning | 1.58 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=330@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 330 dtex, Ring Spinning | 1.43 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=370@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 370 dtex, Ring Spinning | 1.26 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=45@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 45 dtex, Ring Spinning | 13.04 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=70@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 70 dtex, Ring Spinning | 7.90 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=120@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 120 dtex, Ring Spinning | 8.84 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=150@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 150 dtex, Ring Spinning | 6.94 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=170@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 170 dtex, Ring Spinning | 6.08 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=200@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 200 dtex, Ring Spinning | 5.13 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=300@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 300 dtex, Ring Spinning | 3.38 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=330@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 330 dtex, Ring Spinning | 3.07 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=370@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 370 dtex, Ring Spinning | 2.73 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=45@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 45 dtex, Ring Spinning | 31.36 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=70@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 70 dtex, Ring Spinning | 18.17 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=120@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 120 dtex, Ring Spinning | 6.62 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=150@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 150 dtex, Ring Spinning | 5.20 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=170@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 170 dtex, Ring Spinning | 4.55 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=200@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 200 dtex, Ring Spinning | 3.84 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=300@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 300 dtex, Ring Spinning | 2.53 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=330@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 330 dtex, Ring Spinning | 2.30 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=370@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 370 dtex, Ring Spinning | 2.05 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=45@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 45 dtex, Ring Spinning | 23.45 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=70@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 70 dtex, Ring Spinning | 13.59 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=120@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 120 dtex, Ring Spinning | 6.21 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=150@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 150 dtex, Ring Spinning | 4.87 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=170@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 170 dtex, Ring Spinning | 4.27 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=200@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 200 dtex, Ring Spinning | 3.60 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=300@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 300 dtex, Ring Spinning | 2.37 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=330@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 330 dtex, Ring Spinning | 2.15 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=370@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 370 dtex, Ring Spinning | 1.91 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=45@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 45 dtex, Ring Spinning | 21.99 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=70@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 70 dtex, Ring Spinning | 12.74 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=120@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 120 dtex, Ring Spinning | 4.77 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=150@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 150 dtex, Ring Spinning | 3.75 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=170@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 170 dtex, Ring Spinning | 3.29 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=200@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 200 dtex, Ring Spinning | 2.79 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=300@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 300 dtex, Ring Spinning | 1.85 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=330@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 330 dtex, Ring Spinning | 1.68 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=370@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 370 dtex, Ring Spinning | 1.51 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=45@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 45 dtex, Ring Spinning | 16.76 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=70@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 70 dtex, Ring Spinning | 9.74 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=120@WORLD` | Spinning to yarn, Spun Silk, 120 dtex, Ring Spinning | 7.40 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=150@WORLD` | Spinning to yarn, Spun Silk, 150 dtex, Ring Spinning | 5.81 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=170@WORLD` | Spinning to yarn, Spun Silk, 170 dtex, Ring Spinning | 5.09 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=200@WORLD` | Spinning to yarn, Spun Silk, 200 dtex, Ring Spinning | 4.29 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=300@WORLD` | Spinning to yarn, Spun Silk, 300 dtex, Ring Spinning | 2.83 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=330@WORLD` | Spinning to yarn, Spun Silk, 330 dtex, Ring Spinning | 2.57 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=370@WORLD` | Spinning to yarn, Spun Silk, 370 dtex, Ring Spinning | 2.28 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=45@WORLD` | Spinning to yarn, Spun Silk, 45 dtex, Ring Spinning | 26.23 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=70@WORLD` | Spinning to yarn, Spun Silk, 70 dtex, Ring Spinning | 15.20 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=120@WORLD` | Spinning to yarn, Woollen Wool, 120 dtex, Ring Spinning | 4.02 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=150@WORLD` | Spinning to yarn, Woollen Wool, 150 dtex, Ring Spinning | 3.22 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=170@WORLD` | Spinning to yarn, Woollen Wool, 170 dtex, Ring Spinning | 2.85 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=200@WORLD` | Spinning to yarn, Woollen Wool, 200 dtex, Ring Spinning | 2.45 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=300@WORLD` | Spinning to yarn, Woollen Wool, 300 dtex, Ring Spinning | 1.72 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=330@WORLD` | Spinning to yarn, Woollen Wool, 330 dtex, Ring Spinning | 1.58 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=370@WORLD` | Spinning to yarn, Woollen Wool, 370 dtex, Ring Spinning | 1.44 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=45@WORLD` | Spinning to yarn, Woollen Wool, 45 dtex, Ring Spinning | 13.49 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=70@WORLD` | Spinning to yarn, Woollen Wool, 70 dtex, Ring Spinning | 7.94 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=120@WORLD` | Spinning to yarn, Worsted Wool, 120 dtex, Ring Spinning | 4.95 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=150@WORLD` | Spinning to yarn, Worsted Wool, 150 dtex, Ring Spinning | 3.96 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=170@WORLD` | Spinning to yarn, Worsted Wool, 170 dtex, Ring Spinning | 3.50 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=200@WORLD` | Spinning to yarn, Worsted Wool, 200 dtex, Ring Spinning | 3.01 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=300@WORLD` | Spinning to yarn, Worsted Wool, 300 dtex, Ring Spinning | 2.09 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=330@WORLD` | Spinning to yarn, Worsted Wool, 330 dtex, Ring Spinning | 1.93 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=370@WORLD` | Spinning to yarn, Worsted Wool, 370 dtex, Ring Spinning | 1.75 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=45@WORLD` | Spinning to yarn, Worsted Wool, 45 dtex, Ring Spinning | 16.74 |
-| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=70@WORLD` | Spinning to yarn, Worsted Wool, 70 dtex, Ring Spinning | 9.84 |
+| Activity | GHG (kgCO2eq/kg) |
+|----------|------------------:|
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 120 dtex, Ring Spinning | 6.51 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 150 dtex, Ring Spinning | 5.12 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 170 dtex, Ring Spinning | 4.48 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 200 dtex, Ring Spinning | 3.78 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 300 dtex, Ring Spinning | 2.50 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 330 dtex, Ring Spinning | 2.27 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 370 dtex, Ring Spinning | 2.02 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 45 dtex, Ring Spinning | 23.01 |
+| Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 70 dtex, Ring Spinning | 13.36 |
+| Spinning to yarn, Coton Combed - Weaving, 120 dtex, Ring Spinning | 4.73 |
+| Spinning to yarn, Coton Combed - Weaving, 150 dtex, Ring Spinning | 3.67 |
+| Spinning to yarn, Coton Combed - Weaving, 170 dtex, Ring Spinning | 3.18 |
+| Spinning to yarn, Coton Combed - Weaving, 200 dtex, Ring Spinning | 2.65 |
+| Spinning to yarn, Coton Combed - Weaving, 300 dtex, Ring Spinning | 1.69 |
+| Spinning to yarn, Coton Combed - Weaving, 330 dtex, Ring Spinning | 1.52 |
+| Spinning to yarn, Coton Combed - Weaving, 370 dtex, Ring Spinning | 1.34 |
+| Spinning to yarn, Coton Combed - Weaving, 45 dtex, Ring Spinning | 14.68 |
+| Spinning to yarn, Coton Combed - Weaving, 70 dtex, Ring Spinning | 8.78 |
+| Spinning to yarn, Cotton Combed - Knitting, 120 dtex, Ring Spinning | 4.31 |
+| Spinning to yarn, Cotton Combed - Knitting, 150 dtex, Ring Spinning | 3.36 |
+| Spinning to yarn, Cotton Combed - Knitting, 170 dtex, Ring Spinning | 2.93 |
+| Spinning to yarn, Cotton Combed - Knitting, 200 dtex, Ring Spinning | 2.45 |
+| Spinning to yarn, Cotton Combed - Knitting, 300 dtex, Ring Spinning | 1.58 |
+| Spinning to yarn, Cotton Combed - Knitting, 330 dtex, Ring Spinning | 1.43 |
+| Spinning to yarn, Cotton Combed - Knitting, 370 dtex, Ring Spinning | 1.26 |
+| Spinning to yarn, Cotton Combed - Knitting, 45 dtex, Ring Spinning | 13.04 |
+| Spinning to yarn, Cotton Combed - Knitting, 70 dtex, Ring Spinning | 7.90 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 120 dtex, Ring Spinning | 8.84 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 150 dtex, Ring Spinning | 6.94 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 170 dtex, Ring Spinning | 6.08 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 200 dtex, Ring Spinning | 5.13 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 300 dtex, Ring Spinning | 3.38 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 330 dtex, Ring Spinning | 3.07 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 370 dtex, Ring Spinning | 2.73 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 45 dtex, Ring Spinning | 31.36 |
+| Spinning to yarn, Elastane (Spandex/Lycra), 70 dtex, Ring Spinning | 18.17 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 120 dtex, Ring Spinning | 6.62 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 150 dtex, Ring Spinning | 5.20 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 170 dtex, Ring Spinning | 4.55 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 200 dtex, Ring Spinning | 3.84 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 300 dtex, Ring Spinning | 2.53 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 330 dtex, Ring Spinning | 2.30 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 370 dtex, Ring Spinning | 2.05 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 45 dtex, Ring Spinning | 23.45 |
+| Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 70 dtex, Ring Spinning | 13.59 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 120 dtex, Ring Spinning | 6.21 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 150 dtex, Ring Spinning | 4.87 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 170 dtex, Ring Spinning | 4.27 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 200 dtex, Ring Spinning | 3.60 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 300 dtex, Ring Spinning | 2.37 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 330 dtex, Ring Spinning | 2.15 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 370 dtex, Ring Spinning | 1.91 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 45 dtex, Ring Spinning | 21.99 |
+| Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 70 dtex, Ring Spinning | 12.74 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 120 dtex, Ring Spinning | 4.77 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 150 dtex, Ring Spinning | 3.75 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 170 dtex, Ring Spinning | 3.29 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 200 dtex, Ring Spinning | 2.79 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 300 dtex, Ring Spinning | 1.85 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 330 dtex, Ring Spinning | 1.68 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 370 dtex, Ring Spinning | 1.51 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 45 dtex, Ring Spinning | 16.76 |
+| Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 70 dtex, Ring Spinning | 9.74 |
+| Spinning to yarn, Spun Silk, 120 dtex, Ring Spinning | 7.40 |
+| Spinning to yarn, Spun Silk, 150 dtex, Ring Spinning | 5.81 |
+| Spinning to yarn, Spun Silk, 170 dtex, Ring Spinning | 5.09 |
+| Spinning to yarn, Spun Silk, 200 dtex, Ring Spinning | 4.29 |
+| Spinning to yarn, Spun Silk, 300 dtex, Ring Spinning | 2.83 |
+| Spinning to yarn, Spun Silk, 330 dtex, Ring Spinning | 2.57 |
+| Spinning to yarn, Spun Silk, 370 dtex, Ring Spinning | 2.28 |
+| Spinning to yarn, Spun Silk, 45 dtex, Ring Spinning | 26.23 |
+| Spinning to yarn, Spun Silk, 70 dtex, Ring Spinning | 15.20 |
+| Spinning to yarn, Woollen Wool, 120 dtex, Ring Spinning | 4.02 |
+| Spinning to yarn, Woollen Wool, 150 dtex, Ring Spinning | 3.22 |
+| Spinning to yarn, Woollen Wool, 170 dtex, Ring Spinning | 2.85 |
+| Spinning to yarn, Woollen Wool, 200 dtex, Ring Spinning | 2.45 |
+| Spinning to yarn, Woollen Wool, 300 dtex, Ring Spinning | 1.72 |
+| Spinning to yarn, Woollen Wool, 330 dtex, Ring Spinning | 1.58 |
+| Spinning to yarn, Woollen Wool, 370 dtex, Ring Spinning | 1.44 |
+| Spinning to yarn, Woollen Wool, 45 dtex, Ring Spinning | 13.49 |
+| Spinning to yarn, Woollen Wool, 70 dtex, Ring Spinning | 7.94 |
+| Spinning to yarn, Worsted Wool, 120 dtex, Ring Spinning | 4.95 |
+| Spinning to yarn, Worsted Wool, 150 dtex, Ring Spinning | 3.96 |
+| Spinning to yarn, Worsted Wool, 170 dtex, Ring Spinning | 3.50 |
+| Spinning to yarn, Worsted Wool, 200 dtex, Ring Spinning | 3.01 |
+| Spinning to yarn, Worsted Wool, 300 dtex, Ring Spinning | 2.09 |
+| Spinning to yarn, Worsted Wool, 330 dtex, Ring Spinning | 1.93 |
+| Spinning to yarn, Worsted Wool, 370 dtex, Ring Spinning | 1.75 |
+| Spinning to yarn, Worsted Wool, 45 dtex, Ring Spinning | 16.74 |
+| Spinning to yarn, Worsted Wool, 70 dtex, Ring Spinning | 9.84 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 

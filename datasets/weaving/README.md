@@ -10,24 +10,24 @@ This process category covers weaving — the interlacing of warp and weft yarns 
 
 ## Datasets
 
-| Descriptor | Activity | GHG (kgCO2eq/kg) |
-|------------|----------|------------------:|
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING#CARPET@WORLD` | weaving of carpet production, at plant Carpet, Weaved | 5.90 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING#BACKING@WORLD` | weaving of primary backing service, Backing fabric, weaved production mix, at plant service, Backing fabric, weaved | 1.49 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=120@WORLD` | weaving, 120 dtex-108 denier-49/1 ne-83 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 9.10 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=150@WORLD` | weaving, 150 dtex-135 denier-40/1 ne-67 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 7.59 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=170@WORLD` | weaving, 170 dtex-153 denier-34/1 ne-59 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.89 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=200@WORLD` | weaving, 200 dtex-180 denier-30/1 ne-50 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.09 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=300@WORLD` | weaving, 300 dtex-270 denier-20/1 ne-33 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.62 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=330@WORLD` | weaving, 330 dtex-297 denier-18/1 ne-30 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.36 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=370@WORLD` | weaving, 370 dtex-333 denier-16/1 ne-27 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.08 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=45@WORLD` | weaving, 45 dtex-41 denier- 130/1 ne-222 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 21.69 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/AIR_JET#ANY?DTEX=70@WORLD` | weaving, 70 dtex-63 denier-84/1 ne-143 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 14.50 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/WATER_JET#ANY@WORLD` | weaving, generic water-jet service, Fabric,Weaved water-jet loom production mix, at plant service, Fabric,Weaved water-jet loom | 3.60 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/JACQUARD#ANY@WORLD` | weaving, jacquard service, Fabric, Weaved by jacquard loom production mix, at plant service, Fabric, Weaved by jacquard loom | 9.40 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/RAPIER#ANY@WORLD` | weaving, rapier service, Fabric, Weaved by rapier loom production mix, at plant service, Fabric, Weaved by rapier loom | 8.59 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING/SHUTTLE#ANY@WORLD` | weaving, shuttle service, Fabric, Weaved by shuttle loom production mix, at plant service, Fabric, Weaved by shuttle loom | 6.82 |
-| `COMPONENT_PROCESS_STEP:TEXTILE_FORMATION/WEAVING#SILK@WORLD` | weaving, silk service, Fabric, Silk production mix, at plant service, Fabric, Silk | 10.84 |
+| Activity | GHG (kgCO2eq/kg) |
+|----------|------------------:|
+| weaving of carpet production, at plant Carpet, Weaved | 5.90 |
+| weaving of primary backing service, Backing fabric, weaved production mix, at plant service, Backing fabric, weaved | 1.49 |
+| weaving, 120 dtex-108 denier-49/1 ne-83 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 9.10 |
+| weaving, 150 dtex-135 denier-40/1 ne-67 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 7.59 |
+| weaving, 170 dtex-153 denier-34/1 ne-59 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.89 |
+| weaving, 200 dtex-180 denier-30/1 ne-50 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.09 |
+| weaving, 300 dtex-270 denier-20/1 ne-33 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.62 |
+| weaving, 330 dtex-297 denier-18/1 ne-30 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.36 |
+| weaving, 370 dtex-333 denier-16/1 ne-27 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.08 |
+| weaving, 45 dtex-41 denier- 130/1 ne-222 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 21.69 |
+| weaving, 70 dtex-63 denier-84/1 ne-143 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 14.50 |
+| weaving, generic water-jet service, Fabric,Weaved water-jet loom production mix, at plant service, Fabric,Weaved water-jet loom | 3.60 |
+| weaving, jacquard service, Fabric, Weaved by jacquard loom production mix, at plant service, Fabric, Weaved by jacquard loom | 9.40 |
+| weaving, rapier service, Fabric, Weaved by rapier loom production mix, at plant service, Fabric, Weaved by rapier loom | 8.59 |
+| weaving, shuttle service, Fabric, Weaved by shuttle loom production mix, at plant service, Fabric, Weaved by shuttle loom | 6.82 |
+| weaving, silk service, Fabric, Silk production mix, at plant service, Fabric, Silk | 10.84 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 

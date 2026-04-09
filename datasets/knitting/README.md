@@ -10,21 +10,21 @@ This process category covers knitting — the interlocking of yarn loops to form
 
 ## Datasets
 
-| Descriptor | Activity | GHG (kgCO2eq/kg) |
-|------------|----------|------------------:|
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/3D#ANY@WORLD` | 3D Knitting, Average | 6.59 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=120@WORLD` | Circular Knitting, 120 dtex | 3.33 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=150@WORLD` | Circular Knitting, 150 dtex | 3.29 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=170@WORLD` | Circular Knitting, 170 dtex | 3.26 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=200@WORLD` | Circular Knitting, 200 dtex | 3.24 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=300@WORLD` | Circular Knitting, 300 dtex | 3.20 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=330@WORLD` | Circular Knitting, 330 dtex | 3.19 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=370@WORLD` | Circular Knitting, 370 dtex | 3.19 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=45@WORLD` | Circular Knitting, 45 dtex | 3.69 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/CIRCULAR#ANY?DTEX=70@WORLD` | Circular Knitting, 70 dtex | 3.48 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/FLAT#ANY@WORLD` | Flat Knitting, Average | 3.97 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/HOSIERY#ANY@WORLD` | Hosiery Knitting, Average | 3.96 |
-| `MATERIAL_PROCESS_STEP:FABRIC_FORMATION/KNITTING/SEAMLESS#ANY@WORLD` | Seamless Knitting, Average | 4.14 |
+| Activity | GHG (kgCO2eq/kg) |
+|----------|------------------:|
+| 3D Knitting, Average | 6.59 |
+| Circular Knitting, 120 dtex | 3.33 |
+| Circular Knitting, 150 dtex | 3.29 |
+| Circular Knitting, 170 dtex | 3.26 |
+| Circular Knitting, 200 dtex | 3.24 |
+| Circular Knitting, 300 dtex | 3.20 |
+| Circular Knitting, 330 dtex | 3.19 |
+| Circular Knitting, 370 dtex | 3.19 |
+| Circular Knitting, 45 dtex | 3.69 |
+| Circular Knitting, 70 dtex | 3.48 |
+| Flat Knitting, Average | 3.97 |
+| Hosiery Knitting, Average | 3.96 |
+| Seamless Knitting, Average | 4.14 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
