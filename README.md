@@ -91,6 +91,12 @@ Every dataset includes a Data Quality Rating (DQR) based on the PEF framework. D
 
 Scores range from 1 (best) to 5 (worst). The overall DQR is the weighted average of these four dimensions. Datasets with a DQR below 3.0 are considered high quality under PEF guidelines.
 
+## Background database & pre-calculated scores
+
+If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
+
+The lifecycle inventories in this repository are built on top of **ecoinvent 3.12** as the background database. If you want to run these inventories in an LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA), you will need a valid [ecoinvent license](https://ecoinvent.org/offerings/).
+
 ## Versioning & changelog
 
 This project follows [Semantic Versioning](https://semver.org/). Major versions indicate breaking schema changes, minor versions add new datasets or processes, and patch versions fix data errors.
