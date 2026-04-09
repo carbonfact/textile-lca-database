@@ -21,6 +21,32 @@ $$
 \text{DQR} = \frac{P + TiR + TeR + GR}{4}
 $$
 
+## Quality levels
+
+| Overall DQR | Quality level |
+|---|---|
+| DQR < 1.5 | Excellent quality |
+| 1.5 < DQR < 2.0 | Very good quality |
+| 2.0 < DQR < 3.0 | Good quality |
+| 3.0 < DQR < 4.0 | Fair quality |
+| DQR > 4.0 | Poor quality |
+
+## Calculation steps
+
+The following procedure is applied to each process dataset, following the PEFCR approach:
+
+1. **Identify contributions to climate change** — For each activity, compute the percentage contribution of every exchange to the total GHG impact.
+
+2. **Select relevant exchanges** — Choose exchanges that cumulatively contribute to more than 80% of the climate change impact. These are the exchanges that will be individually scored.
+
+3. **Rescale contributions to 100%** — Normalize the selected exchanges so their contributions sum to 100%.
+
+4. **Assign data quality scores through expert judgment** — Rate each selected exchange on the four dimensions (P, TiR, TeR, GR) using a data source hierarchy: primary data > peer-reviewed journals > industry reports > machinery data.
+
+5. **Compute weighted average DQR** — Calculate the overall process DQR as a weighted average across the selected exchanges, where the weights are the rescaled GHG contribution percentages.
+
+All exchanges below the 80% cumulative threshold receive a default score of 3 on all four dimensions.
+
 ---
 
 ## Dyeing
