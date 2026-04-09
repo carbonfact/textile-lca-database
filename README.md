@@ -140,10 +140,25 @@ If you use this database in your work, please cite it as:
 
 ## Roadmap
 
+**Published**
 - [x] Spinning (159 datasets)
 - [x] Knitting (13 datasets)
 - [x] Weaving (16 datasets)
 - [x] Dyeing (38 datasets)
-- [ ] Finishing
-- [ ] Synthetic Leather
-- [ ] Nonwoven
+
+**Textile processes**
+- [ ] Printing
+- [ ] Fabric Finishing
+- [ ] Nonwoven Fabric Formation
+
+**Leather & materials**
+- [ ] Synthetic PU Leather (DMF-free & DMF-based)
+- [ ] Bovine Leather
+- [ ] Natural Rubber (STR Production)
+
+**Assembly**
+- [ ] Footwear Assembly
+- [ ] Snowboard Binding Assembly
+
+**Other**
+- [ ] Use Phase
