@@ -13,7 +13,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 
 The lifecycle inventories in this repository are built on top of **ecoinvent 3.12** as the background database. If you want to run these inventories in an LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA), you will need a valid [ecoinvent license](https://ecoinvent.org/offerings/).
 
-If you simply want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository — no ecoinvent license required. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
+If you simply want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
 
 ## What's included
 
