@@ -10,7 +10,11 @@
 | **Dtex range** | 45--600 dtex (energy values constant across dtex) |
 | **Total datasets** | 828 rows (18 processes x 46 dtex values) |
 
-## Contents
+**📄 [Download full methodology (PDF)](melt-spinning.pdf)**
+
+The PDF contains the complete methodology documentation exported from our internal knowledge base, including all tables, figures, and formatting.
+
+### Markdown reference
 
 | Tab | Description |
 |---|---|

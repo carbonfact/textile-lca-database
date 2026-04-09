@@ -9,7 +9,11 @@
 | **Dtex range** | 45--600 dtex |
 | **Total datasets** | 875 individual process datasets |
 
-## Contents
+**📄 [Download full methodology (PDF)](ring-spun.pdf)**
+
+The PDF contains the complete methodology documentation exported from our internal knowledge base, including all tables, figures, and formatting.
+
+### Markdown reference
 
 | Tab | Description |
 |---|---|

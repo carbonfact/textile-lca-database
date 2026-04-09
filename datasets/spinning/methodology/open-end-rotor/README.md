@@ -8,7 +8,11 @@
 | **Fibre types** | Cotton, CVC, PC, Cotton/man-made, Wool/man-made, Linen blends, Polyester, Poly blends, Acrylic/PAN, Polyamides, Polyamide blends, MMCF, Silk blends |
 | **Dtex range** | 40--600 dtex |
 
-## Contents
+**📄 [Download full methodology (PDF)](open-end-rotor.pdf)**
+
+The PDF contains the complete methodology documentation exported from our internal knowledge base, including all tables, figures, and formatting.
+
+### Markdown reference
 
 | Tab | Description |
 |---|---|
