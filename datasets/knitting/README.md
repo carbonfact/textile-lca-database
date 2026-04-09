@@ -28,27 +28,6 @@ This process category covers knitting — the interlocking of yarn loops to form
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
-## GHG Contribution Analysis
-
-Representative charts showing top GHG contributors. All charts available in the [charts/](charts/) folder.
-
-### 3D Knitting Average
-![3D Knitting Average](charts/ghg-3d-knitting-average.png)
-
-### Circular Knitting 170 Dtex
-![Circular Knitting 170 Dtex](charts/ghg-circular-knitting-170-dtex.png)
-
-### Flat Knitting Average
-![Flat Knitting Average](charts/ghg-flat-knitting-average.png)
-
-### Hosiery Knitting Average
-![Hosiery Knitting Average](charts/ghg-hosiery-knitting-average.png)
-
-### Seamless Knitting Average
-![Seamless Knitting Average](charts/ghg-seamless-knitting-average.png)
-
-> All 13 contribution charts: [charts/](charts/)
-
 ## Methodology
 
 The datasets model electricity consumption (direct and indirect), lubricating oil, yarn losses, textile waste, and machine infrastructure amortisation. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.

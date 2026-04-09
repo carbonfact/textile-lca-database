@@ -53,24 +53,6 @@ This process category covers fabric dyeing — the application of colour to text
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
-## GHG Contribution Analysis
-
-Representative charts showing top GHG contributors. All charts available in the [charts/](charts/) folder.
-
-### Fabric Dyeing Exhaust Airflow Jet Reactive Cellulosic Fibers Medium Shade
-![Fabric Dyeing Exhaust Airflow Jet Reactive Cellulosic Fibers Medium Shade](charts/ghg-fabric-dyeing-exhaust-airflow-jet-reactive-cellulosic-fibers-medium-shade.png)
-
-### Fabric Dyeing Continuous Pad Steam Reactive Cellulosic Fibers Medium Shade
-![Fabric Dyeing Continuous Pad Steam Reactive Cellulosic Fibers Medium Shade](charts/ghg-fabric-dyeing-continuous-pad-steam-reactive-cellulosic-fibers-medium-shade.png)
-
-### Fabric Dyeing Continuous Thermosol Disperse Synthetic Fibers Medium Shade
-![Fabric Dyeing Continuous Thermosol Disperse Synthetic Fibers Medium Shade](charts/ghg-fabric-dyeing-continuous-thermosol-disperse-synthetic-fibers-medium-shade.png)
-
-### Azo Reactive Dyes From Monochlorotriazine Production
-![Azo Reactive Dyes From Monochlorotriazine Production](charts/ghg-azo-reactive-dyes-from-monochlorotriazine-production.png)
-
-> All 43 contribution charts: [charts/](charts/)
-
 ## Methodology
 
 The datasets model electricity, thermal energy, auxiliary chemicals (24 specialty chemical categories), dyestuff production, water consumption, and wastewater treatment. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.

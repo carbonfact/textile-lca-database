@@ -31,24 +31,6 @@ This process category covers weaving — the interlacing of warp and weft yarns 
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
-## GHG Contribution Analysis
-
-Representative charts showing top GHG contributors. All charts available in the [charts/](charts/) folder.
-
-### Weaving 170 Dtex 153 Denier 34 1 Ne 59 Nm Service Fabric Weaved Production At Plant Service Fabric Weaved
-![Weaving 170 Dtex 153 Denier 34 1 Ne 59 Nm Service Fabric Weaved Production At Plant Service Fabric Weaved](charts/ghg-weaving-170-dtex-153-denier-34-1-ne-59-nm-service-fabric-weaved-production-at-plant-service-fabric-weaved.png)
-
-### Weaving Generic Water Jet Service Fabric Weaved Water Jet Loom Production Mix At Plant Service Fabric Weaved Water Jet Loom
-![Weaving Generic Water Jet Service Fabric Weaved Water Jet Loom Production Mix At Plant Service Fabric Weaved Water Jet Loom](charts/ghg-weaving-generic-water-jet-service-fabric-weaved-water-jet-loom-production-mix-at-plant-service-fabric-weaved-water-jet-loom.png)
-
-### Weaving Of Carpet Production At Plant Carpet Weaved
-![Weaving Of Carpet Production At Plant Carpet Weaved](charts/ghg-weaving-of-carpet-production-at-plant-carpet-weaved.png)
-
-### Weaving Rapier Service Fabric Weaved By Rapier Loom Production Mix At Plant Service Fabric Weaved By Rapier Loom
-![Weaving Rapier Service Fabric Weaved By Rapier Loom Production Mix At Plant Service Fabric Weaved By Rapier Loom](charts/ghg-weaving-rapier-service-fabric-weaved-by-rapier-loom-production-mix-at-plant-service-fabric-weaved-by-rapier-loom.png)
-
-> All 19 contribution charts: [charts/](charts/)
-
 ## Methodology
 
 The datasets model electricity consumption, sizing chemicals, yarn losses, lubricating oil, water consumption, and capital goods at the weaving step. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.

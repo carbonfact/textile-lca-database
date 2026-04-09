@@ -20,4 +20,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Data Quality Rating (DQR) scores following PEF methodology
 - Brightway/Activity Browser compatible inventory files
 - Methodology documentation for all processes
-- Contribution analysis charts for all 230 datasets

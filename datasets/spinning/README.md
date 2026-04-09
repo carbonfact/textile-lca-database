@@ -30,27 +30,6 @@
 | Acetate / Triacetate | | | ✓ |
 | Microfibers | | | ✓ |
 
-## GHG Contribution Analysis
-
-The charts below show GHG contributors for a representative subset of datasets. Contribution charts for all 159 datasets are in the [charts/](charts/) folder.
-
-### Ring Spinning -- Cotton Combed (Knitting), 170 dtex
-![Ring Spinning Cotton](charts/ghg-spinning-to-yarn-cotton-combed-knitting-170-dtex-ring-spinning.png)
-
-### Ring Spinning -- Polyester, 170 dtex
-![Ring Spinning Polyester](charts/ghg-spinning-to-yarn-polyester-pet-pbt-ptt-pla-etc-170-dtex-ring-spinning.png)
-
-### Open-End Rotor -- Cotton, 170 dtex
-![Open-End Rotor Cotton](charts/ghg-spinning-to-yarn-cotton-170-dtex-open-end-rotor.png)
-
-### Filament -- Polyester, Melt Spinning (FDY/DTY)
-![Filament Polyester](charts/ghg-spinning-to-filament-polyester-pet-pbt-ptt-pla-etc-melt-spinning-fdy-dty.png)
-
-### Filament -- MMCF, Wet Spinning
-![Filament MMCF](charts/ghg-spinning-to-filament-mmcf-rayon-viscose-lyocell-wet-spinning.png)
-
-> Contribution charts for all 159 datasets are in the [charts/](charts/) folder.
-
 ## Methodology
 
 The datasets model electricity consumption, machine infrastructure amortisation, and lubricating oil use at the spinning step. Electricity is the dominant input across all technologies. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.
