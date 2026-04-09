@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Knitting: 13 datasets (Flat, Circular, Seamless, Hosiery, 3D)
   - Weaving: 16 datasets (Air jet, Rapier, Water jet, Projectile)
   - Dyeing: 38 datasets (Exhaust, Continuous, Semi-continuous)
-- Full LCIA results for 16 EF 3.1 impact indicators per dataset
+- Emission factors (LCIA results) for 16 EF 3.1 impact indicators per dataset
 - GHG contribution analysis with per-exchange breakdown
 - Data Quality Rating (DQR) scores following PEF methodology
 - Brightway/Activity Browser compatible inventory files

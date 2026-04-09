@@ -36,7 +36,7 @@ Each process directory contains 4 files:
 
 | File | Description |
 |------|-------------|
-| `impact-scores.csv` | LCIA results across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. This is the primary results file. |
+| `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. This is the primary results file. |
 | `ghg-contributions.csv` | Per-exchange GHG contribution analysis showing which inputs and emissions drive the climate change impact of each dataset. |
 | `process-steps.json` | Machine-readable emission factor format. Structured JSON containing process parameters, exchange amounts, and metadata suitable for programmatic use. |
 | `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
