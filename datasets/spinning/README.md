@@ -32,8 +32,6 @@
 
 ## Methodology
 
-The datasets model electricity consumption, machine infrastructure amortisation, and lubricating oil use at the spinning step. Electricity is the dominant input across all technologies. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.
-
 Detailed methodology documentation: [methodology/](methodology/)
 
 ## Data Files
