@@ -38,23 +38,6 @@ All datasets use **ecoinvent 3.12** (cut-off system model) as the background dat
 
 Life Cycle Impact Assessment (LCIA) is performed using the **EF 3.1** characterisation method, reporting results for all 16 PEF impact indicators. See [impact-indicators.md](impact-indicators.md) for the full indicator list with codes, names, and units.
 
-## Data quality
-
-Every dataset includes a **Data Quality Rating (DQR)** based on the PEF methodology, scored across four dimensions:
-
-- **P** — Precision (quality of measurements and modelling)
-- **TiR** — Time representativeness (temporal relevance of data)
-- **TeR** — Technological representativeness (technology match)
-- **GR** — Geographical representativeness (regional relevance)
-
-The overall DQR is the arithmetic mean: DQR = (P + TiR + TeR + GR) / 4. Scores range from 1 (best) to 5 (worst). See [dqr-framework.md](dqr-framework.md) for the full DQR methodology.
-
-## Capital goods
-
-Machinery and building infrastructure are included as capital goods, amortised over their lifetime output using mass-based allocation. This follows EF guidelines (Fazio et al., 2020) and ecoinvent practice (Weidema et al., 2013). See:
-- [capital-goods.md](capital-goods.md) — Machinery amortisation framework
-- [building-infrastructure.md](building-infrastructure.md) — Building allocation framework
-
 ## Scenarios
 
 Where applicable, datasets are provided for three operating scenarios:
