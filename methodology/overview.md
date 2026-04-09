@@ -6,14 +6,9 @@ The Carbonfact Textile LCA Database follows a **gate-to-gate** modelling approac
 
 Each process is modelled as a standalone foreground unit process, linked to the ecoinvent 3.12 background database for upstream inputs (electricity, heat, chemicals, water, waste treatment) and characterised using the **Environmental Footprint (EF) 3.1** method across 16 impact indicators.
 
-## Functional units
+## Functional unit
 
-| Process | Functional unit |
-|---------|----------------|
-| Spinning | 1 kg of finished yarn at the spinning mill gate |
-| Knitting | 1 kg of knitted fabric |
-| Weaving | 1 kg of woven fabric |
-| Dyeing | 1 kg of dyed textile |
+All datasets use a functional unit of **1 kg of output product** at the factory gate.
 
 ## System boundaries
 
