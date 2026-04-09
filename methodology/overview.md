@@ -38,16 +38,6 @@ All datasets use **ecoinvent 3.12** (cut-off system model) as the background dat
 
 Life Cycle Impact Assessment (LCIA) is performed using the **EF 3.1** characterisation method, reporting results for all 16 PEF impact indicators. See [impact-indicators.md](impact-indicators.md) for the full indicator list with codes, names, and units.
 
-## Scenarios
-
-Where applicable, datasets are provided for three operating scenarios:
-
-| Scenario | Service life | Hours/day | Days/year | Description |
-|----------|-------------|-----------|-----------|-------------|
-| WCS (Worst Case) | 10 years | 8 h | 300 | Single shift, shorter lifetime |
-| Average | 15 years | 16 h | 300 | Double shift — **used as default** |
-| BCS (Best Case) | 20 years | 24 h | 365 | Continuous operation, longest lifetime |
-
 ## Parameterisation
 
 Many process parameters (electricity consumption, lubricant use, yarn waste) are parameterised by **yarn fineness (dtex)** and **fibre type**. This enables the database to cover a wide range of textile products from a consistent modelling framework. The parameterisation approach is documented in each process methodology:
