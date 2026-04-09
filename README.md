@@ -7,7 +7,7 @@
 
 ## What is this?
 
-The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes. It covers 230 datasets across 4 processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes GHG contribution breakdowns and data quality ratings.
+The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes GHG contribution breakdowns and data quality ratings.
 
 ### Background database & pre-calculated scores
 
@@ -23,6 +23,18 @@ If you simply want to **use the emission factors or pre-calculated impact scores
 | [Knitting](datasets/knitting/) | 13 | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
 | [Weaving](datasets/weaving/) | 16 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
+
+**Upcoming**
+
+- [ ] Printing
+- [ ] Fabric Finishing
+- [ ] Nonwoven Fabric Formation
+- [ ] Synthetic PU Leather (DMF-free & DMF-based)
+- [ ] Bovine Leather
+- [ ] Natural Rubber (STR Production)
+- [ ] Footwear Assembly
+- [ ] Snowboard Binding Assembly
+- [ ] Use Phase
 
 ## Data files
 
@@ -138,27 +150,3 @@ knitting = pd.read_csv("datasets/knitting/impact-scores.csv")
 print(knitting[["Activity", "GHG"]].to_string(index=False))
 ```
 
-## Roadmap
-
-**Published**
-- [x] Spinning (159 datasets)
-- [x] Knitting (13 datasets)
-- [x] Weaving (16 datasets)
-- [x] Dyeing (38 datasets)
-
-**Textile processes**
-- [ ] Printing
-- [ ] Fabric Finishing
-- [ ] Nonwoven Fabric Formation
-
-**Leather & materials**
-- [ ] Synthetic PU Leather (DMF-free & DMF-based)
-- [ ] Bovine Leather
-- [ ] Natural Rubber (STR Production)
-
-**Assembly**
-- [ ] Footwear Assembly
-- [ ] Snowboard Binding Assembly
-
-**Other**
-- [ ] Use Phase
