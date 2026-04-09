@@ -36,19 +36,6 @@ The datasets model electricity consumption, machine infrastructure amortisation,
 
 Detailed methodology documentation: [methodology/](methodology/)
 
-## Data Quality
-
-Due to the large number of datasets (159), the full DQR table is available in [impact-scores.csv](impact-scores.csv). DQR scores range as follows:
-
-| Dimension | Range |
-|-----------|-------|
-| P (Precision) | 2.00 -- 2.48 |
-| TiR (Time representativeness) | 2.00 -- 2.22 |
-| TeR (Technological representativeness) | 2.00 -- 2.48 |
-| GR (Geographical representativeness) | 3.0 |
-
-All datasets achieve an overall DQR well below 3.0, qualifying as high quality under PEF guidelines.
-
 ## Data Files
 
 | File | Description |
