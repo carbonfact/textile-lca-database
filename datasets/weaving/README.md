@@ -33,8 +33,6 @@ This process category covers weaving — the interlacing of warp and weft yarns 
 
 ## Methodology
 
-The datasets model electricity consumption, sizing chemicals, yarn losses, lubricating oil, water consumption, and capital goods at the weaving step. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.
-
 Detailed methodology documentation: [methodology/](methodology/)
 
 ## Data Files

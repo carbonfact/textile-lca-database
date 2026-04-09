@@ -30,8 +30,6 @@ This process category covers knitting — the interlocking of yarn loops to form
 
 ## Methodology
 
-The datasets model electricity consumption (direct and indirect), lubricating oil, yarn losses, textile waste, and machine infrastructure amortisation. Background data comes from ecoinvent 3.12 (Cut-Off system model) and impact assessment uses the EF 3.1 characterisation method.
-
 Detailed methodology documentation: [methodology/](methodology/)
 
 ## Data Files
