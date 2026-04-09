@@ -8,7 +8,7 @@ Each process is modelled as a standalone foreground unit process, linked to the 
 
 ## Functional unit
 
-All datasets use a functional unit of **1 kg of output product** at the factory gate.
+The functional unit is defined per process and specified in each process methodology documentation.
 
 ## System boundaries
 
