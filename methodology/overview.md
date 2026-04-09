@@ -74,6 +74,26 @@ Many process parameters (electricity consumption, lubricant use, yarn waste) are
 - [Weaving methodology](../datasets/weaving/methodology/)
 - [Dyeing methodology](../datasets/dyeing/methodology/)
 
+## Methodology documentation
+
+### Cross-cutting methodology
+
+| Document | Description |
+|----------|-------------|
+| [Impact indicators](impact-indicators.md) | Full table of 16 EF 3.1 indicators with codes, names, and units |
+| [Data Quality Rating framework](dqr-framework.md) | PEF DQR scoring methodology and calculation steps |
+| [Capital goods](capital-goods.md) | Machine amortisation approach |
+| [Building infrastructure](building-infrastructure.md) | Building allocation approach |
+
+### Process-specific methodology
+
+| Process | Documentation |
+|---------|---------------|
+| Spinning | [Ring Spun](../datasets/spinning/methodology/ring-spun/) · [Melt Spinning](../datasets/spinning/methodology/melt-spinning/) · [Open End Rotor](../datasets/spinning/methodology/open-end-rotor/) |
+| Knitting | [Flat](../datasets/knitting/methodology/flat-knitting/) · [Circular](../datasets/knitting/methodology/circular-knitting/) · [Seamless](../datasets/knitting/methodology/seamless-knitting/) · [Hosiery](../datasets/knitting/methodology/hosiery-knitting/) · [3D](../datasets/knitting/methodology/3d-knitting/) |
+| Weaving | [Weaving](../datasets/weaving/methodology/) |
+| Dyeing | [Dyeing](../datasets/dyeing/methodology/) |
+
 ## References
 
 - Fazio, S., Castellani, V., & Sala, S. (2020). *Guide for EF-compliant data sets (Version 2.0).* European Commission, JRC.
