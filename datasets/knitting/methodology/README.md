@@ -1,11 +1,11 @@
 # Knitting Methodology
 
-Process methodology documentation for all knitting technologies.
+Process methodology documentation for all knitting technologies. Each technology folder contains a downloadable PDF with the full methodology, plus markdown reference files.
 
-| Technology | Description |
-|---|---|
-| [Flat Knitting](flat-knitting/) | Computerised flat knitting for panels and shaped pieces |
-| [Circular Knitting](circular-knitting/) | Single and double jersey circular knitting |
-| [Seamless Knitting](seamless-knitting/) | Complete garment knitting (Shima Seiki WHOLEGARMENT, Santoni SM8) |
-| [Hosiery Knitting](hosiery-knitting/) | Small-diameter circular knitting for socks and hosiery |
-| [3D Knitting](3d-knitting/) | 3D / WHOLEGARMENT knitting for complete garments |
+| Technology | PDF | Description |
+|---|---|---|
+| [Flat Knitting](flat-knitting/) | [📄 PDF](flat-knitting/flat-knitting.pdf) | Computerised flat knitting for panels and shaped pieces |
+| [Circular Knitting](circular-knitting/) | [📄 PDF](circular-knitting/circular-knitting.pdf) | Single and double jersey circular knitting |
+| [Seamless Knitting](seamless-knitting/) | [📄 PDF](seamless-knitting/seamless-knitting.pdf) | Complete garment knitting (Shima Seiki WHOLEGARMENT, Santoni SM8) |
+| [Hosiery Knitting](hosiery-knitting/) | [📄 PDF](hosiery-knitting/hosiery-knitting.pdf) | Small-diameter circular knitting for socks and hosiery |
+| [3D Knitting](3d-knitting/) | [📄 PDF](3d-knitting/3d-knitting.pdf) | 3D / WHOLEGARMENT knitting for complete garments |

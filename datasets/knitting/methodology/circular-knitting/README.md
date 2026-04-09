@@ -3,8 +3,12 @@
 - **Functional unit:** 1 kg of knitted fabric
 - **Technology:** Single and double jersey circular knitting
 
-## Contents
+**📄 [Download full methodology (PDF)](circular-knitting.pdf)**
 
-- [Documentation](documentation.md) -- Background
-- [Life Cycle Inventory](lci.md) -- Methodological overview, building infrastructure, capital goods, electricity model, waste and material efficiency
-- [Annexes](annexes.md) -- References
+The PDF contains the complete methodology documentation exported from our internal knowledge base, including all tables, figures, and formatting.
+
+### Markdown reference
+
+- [Documentation](documentation.md) — Background
+- [Life Cycle Inventory](lci.md) — Methodological overview, building infrastructure, capital goods, electricity model, waste and material efficiency
+- [Annexes](annexes.md) — References
