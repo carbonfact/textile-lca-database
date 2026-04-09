@@ -2,153 +2,106 @@
 
 > Part of [Spinning](README.md)
 
-**90 datasets** | Functional unit: 1 kg yarn | 9 dtex levels (45--370) | 10 fibre families
+**90 datasets** | Functional unit: 1 kg yarn
 
 Ring spinning is the most widely used staple yarn technology. It produces high-quality yarns suitable for both knitting and weaving. Energy consumption is higher per kg than open-end rotor spinning but produces finer, stronger yarns.
 
-## Impact Scores
+## Datasets
 
-### Acrylic
+| Descriptor | Activity | GHG (kgCO2eq/kg) |
+|------------|----------|------------------:|
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=120@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 120 dtex, Ring Spinning | 6.51 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=150@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 150 dtex, Ring Spinning | 5.12 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=170@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 170 dtex, Ring Spinning | 4.48 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=200@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 200 dtex, Ring Spinning | 3.78 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=300@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 300 dtex, Ring Spinning | 2.50 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=330@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 330 dtex, Ring Spinning | 2.27 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=370@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 370 dtex, Ring Spinning | 2.02 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=45@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 45 dtex, Ring Spinning | 23.01 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ACRYLIC?DTEX=70@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 70 dtex, Ring Spinning | 13.36 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=120@WORLD` | Spinning to yarn, Coton Combed - Weaving, 120 dtex, Ring Spinning | 4.73 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=150@WORLD` | Spinning to yarn, Coton Combed - Weaving, 150 dtex, Ring Spinning | 3.67 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=170@WORLD` | Spinning to yarn, Coton Combed - Weaving, 170 dtex, Ring Spinning | 3.18 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=200@WORLD` | Spinning to yarn, Coton Combed - Weaving, 200 dtex, Ring Spinning | 2.65 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=300@WORLD` | Spinning to yarn, Coton Combed - Weaving, 300 dtex, Ring Spinning | 1.69 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=330@WORLD` | Spinning to yarn, Coton Combed - Weaving, 330 dtex, Ring Spinning | 1.52 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=370@WORLD` | Spinning to yarn, Coton Combed - Weaving, 370 dtex, Ring Spinning | 1.34 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=45@WORLD` | Spinning to yarn, Coton Combed - Weaving, 45 dtex, Ring Spinning | 14.68 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_WOVEN/RING#PLANT_FIBERS/COTTON?DTEX=70@WORLD` | Spinning to yarn, Coton Combed - Weaving, 70 dtex, Ring Spinning | 8.78 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=120@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 120 dtex, Ring Spinning | 4.31 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=150@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 150 dtex, Ring Spinning | 3.36 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=170@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 170 dtex, Ring Spinning | 2.93 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=200@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 200 dtex, Ring Spinning | 2.45 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=300@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 300 dtex, Ring Spinning | 1.58 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=330@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 330 dtex, Ring Spinning | 1.43 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=370@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 370 dtex, Ring Spinning | 1.26 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=45@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 45 dtex, Ring Spinning | 13.04 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/FOR_KNITTED/RING#PLANT_FIBERS/COTTON?DTEX=70@WORLD` | Spinning to yarn, Cotton Combed - Knitting, 70 dtex, Ring Spinning | 7.90 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=120@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 120 dtex, Ring Spinning | 8.84 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=150@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 150 dtex, Ring Spinning | 6.94 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=170@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 170 dtex, Ring Spinning | 6.08 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=200@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 200 dtex, Ring Spinning | 5.13 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=300@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 300 dtex, Ring Spinning | 3.38 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=330@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 330 dtex, Ring Spinning | 3.07 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=370@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 370 dtex, Ring Spinning | 2.73 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=45@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 45 dtex, Ring Spinning | 31.36 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/ELASTANE?DTEX=70@WORLD` | Spinning to yarn, Elastane (Spandex/Lycra), 70 dtex, Ring Spinning | 18.17 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=120@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 120 dtex, Ring Spinning | 6.62 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=150@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 150 dtex, Ring Spinning | 5.20 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=170@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 170 dtex, Ring Spinning | 4.55 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=200@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 200 dtex, Ring Spinning | 3.84 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=300@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 300 dtex, Ring Spinning | 2.53 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=330@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 330 dtex, Ring Spinning | 2.30 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=370@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 370 dtex, Ring Spinning | 2.05 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=45@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 45 dtex, Ring Spinning | 23.45 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#CELLULOSE_BASED_FIBERS/MMCF?DTEX=70@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 70 dtex, Ring Spinning | 13.59 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=120@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 120 dtex, Ring Spinning | 6.21 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=150@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 150 dtex, Ring Spinning | 4.87 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=170@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 170 dtex, Ring Spinning | 4.27 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=200@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 200 dtex, Ring Spinning | 3.60 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=300@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 300 dtex, Ring Spinning | 2.37 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=330@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 330 dtex, Ring Spinning | 2.15 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=370@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 370 dtex, Ring Spinning | 1.91 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=45@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 45 dtex, Ring Spinning | 21.99 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=70@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 70 dtex, Ring Spinning | 12.74 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=120@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 120 dtex, Ring Spinning | 4.77 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=150@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 150 dtex, Ring Spinning | 3.75 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=170@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 170 dtex, Ring Spinning | 3.29 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=200@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 200 dtex, Ring Spinning | 2.79 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=300@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 300 dtex, Ring Spinning | 1.85 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=330@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 330 dtex, Ring Spinning | 1.68 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=370@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 370 dtex, Ring Spinning | 1.51 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=45@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 45 dtex, Ring Spinning | 16.76 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#SYNTHETIC_FIBERS/POLYESTER?DTEX=70@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 70 dtex, Ring Spinning | 9.74 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=120@WORLD` | Spinning to yarn, Spun Silk, 120 dtex, Ring Spinning | 7.40 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=150@WORLD` | Spinning to yarn, Spun Silk, 150 dtex, Ring Spinning | 5.81 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=170@WORLD` | Spinning to yarn, Spun Silk, 170 dtex, Ring Spinning | 5.09 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=200@WORLD` | Spinning to yarn, Spun Silk, 200 dtex, Ring Spinning | 4.29 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=300@WORLD` | Spinning to yarn, Spun Silk, 300 dtex, Ring Spinning | 2.83 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=330@WORLD` | Spinning to yarn, Spun Silk, 330 dtex, Ring Spinning | 2.57 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=370@WORLD` | Spinning to yarn, Spun Silk, 370 dtex, Ring Spinning | 2.28 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=45@WORLD` | Spinning to yarn, Spun Silk, 45 dtex, Ring Spinning | 26.23 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/SILK?DTEX=70@WORLD` | Spinning to yarn, Spun Silk, 70 dtex, Ring Spinning | 15.20 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=120@WORLD` | Spinning to yarn, Woollen Wool, 120 dtex, Ring Spinning | 4.02 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=150@WORLD` | Spinning to yarn, Woollen Wool, 150 dtex, Ring Spinning | 3.22 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=170@WORLD` | Spinning to yarn, Woollen Wool, 170 dtex, Ring Spinning | 2.85 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=200@WORLD` | Spinning to yarn, Woollen Wool, 200 dtex, Ring Spinning | 2.45 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=300@WORLD` | Spinning to yarn, Woollen Wool, 300 dtex, Ring Spinning | 1.72 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=330@WORLD` | Spinning to yarn, Woollen Wool, 330 dtex, Ring Spinning | 1.58 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=370@WORLD` | Spinning to yarn, Woollen Wool, 370 dtex, Ring Spinning | 1.44 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=45@WORLD` | Spinning to yarn, Woollen Wool, 45 dtex, Ring Spinning | 13.49 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WOOLEN?DTEX=70@WORLD` | Spinning to yarn, Woollen Wool, 70 dtex, Ring Spinning | 7.94 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=120@WORLD` | Spinning to yarn, Worsted Wool, 120 dtex, Ring Spinning | 4.95 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=150@WORLD` | Spinning to yarn, Worsted Wool, 150 dtex, Ring Spinning | 3.96 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=170@WORLD` | Spinning to yarn, Worsted Wool, 170 dtex, Ring Spinning | 3.50 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=200@WORLD` | Spinning to yarn, Worsted Wool, 200 dtex, Ring Spinning | 3.01 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=300@WORLD` | Spinning to yarn, Worsted Wool, 300 dtex, Ring Spinning | 2.09 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=330@WORLD` | Spinning to yarn, Worsted Wool, 330 dtex, Ring Spinning | 1.93 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=370@WORLD` | Spinning to yarn, Worsted Wool, 370 dtex, Ring Spinning | 1.75 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=45@WORLD` | Spinning to yarn, Worsted Wool, 45 dtex, Ring Spinning | 16.74 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/RING#ANIMAL_FIBERS/WOOL_WORSTED?DTEX=70@WORLD` | Spinning to yarn, Worsted Wool, 70 dtex, Ring Spinning | 9.84 |
 
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.1150 | 57.23 | 304.7 | 0.0108 | 23.01 | 2.56e-09 | 1.35e-07 | 3.04 | 43.99 | 2.30e-05 | 1.44e-07 | 0.0683 | 1.09e-06 | 0.0236 | 0.2357 | 5.61 |
-| 70 | 0.0667 | 33.26 | 177.0 | 0.0063 | 13.36 | 1.49e-09 | 7.86e-08 | 1.76 | 25.57 | 1.35e-05 | 8.37e-08 | 0.0397 | 6.31e-07 | 0.0137 | 0.1368 | 3.26 |
-| 120 | 0.0325 | 16.25 | 86.31 | 0.0031 | 6.51 | 7.35e-10 | 3.83e-08 | 0.8572 | 12.51 | 6.65e-06 | 4.10e-08 | 0.0194 | 3.08e-07 | 0.0067 | 0.0667 | 1.59 |
-| 150 | 0.0255 | 12.78 | 67.83 | 0.0024 | 5.12 | 5.80e-10 | 3.01e-08 | 0.6728 | 9.84 | 5.26e-06 | 3.23e-08 | 0.0153 | 2.42e-07 | 0.0052 | 0.0524 | 1.25 |
-| 170 | 0.0223 | 11.20 | 59.42 | 0.0021 | 4.48 | 5.10e-10 | 2.64e-08 | 0.5887 | 8.63 | 4.63e-06 | 2.84e-08 | 0.0134 | 2.12e-07 | 0.0046 | 0.0459 | 1.09 |
-| 200 | 0.0189 | 9.46 | 50.15 | 0.0018 | 3.78 | 4.32e-10 | 2.23e-08 | 0.4963 | 7.29 | 3.93e-06 | 2.40e-08 | 0.0113 | 1.79e-07 | 0.0039 | 0.0387 | 0.9221 |
-| 300 | 0.0124 | 6.27 | 33.15 | 0.0012 | 2.50 | 2.90e-10 | 1.48e-08 | 0.3268 | 4.84 | 2.65e-06 | 1.60e-08 | 0.0075 | 1.19e-07 | 0.0026 | 0.0256 | 0.6093 |
-| 330 | 0.0113 | 5.71 | 30.13 | 0.0011 | 2.27 | 2.65e-10 | 1.34e-08 | 0.2967 | 4.41 | 2.42e-06 | 1.46e-08 | 0.0068 | 1.08e-07 | 0.0023 | 0.0233 | 0.5537 |
-| 370 | 0.0100 | 5.08 | 26.76 | 9.42e-04 | 2.02 | 2.37e-10 | 1.19e-08 | 0.2632 | 3.92 | 2.17e-06 | 1.30e-08 | 0.0061 | 9.59e-08 | 0.0021 | 0.0207 | 0.4918 |
-
-### Cotton Combed -- Knitting
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0652 | 32.52 | 172.7 | 0.0061 | 13.04 | 1.47e-09 | 7.68e-08 | 1.72 | 25.00 | 1.32e-05 | 8.16e-08 | 0.0387 | 6.17e-07 | 0.0134 | 0.1337 | 3.19 |
-| 70 | 0.0394 | 19.73 | 104.6 | 0.0037 | 7.90 | 9.04e-10 | 4.66e-08 | 1.04 | 15.17 | 8.04e-06 | 4.95e-08 | 0.0234 | 3.74e-07 | 0.0081 | 0.0810 | 1.93 |
-| 120 | 0.0215 | 10.82 | 57.08 | 0.0020 | 4.31 | 5.07e-10 | 2.55e-08 | 0.5661 | 8.33 | 4.48e-06 | 2.72e-08 | 0.0128 | 2.05e-07 | 0.0044 | 0.0442 | 1.06 |
-| 150 | 0.0168 | 8.47 | 44.54 | 0.0016 | 3.36 | 4.02e-10 | 1.99e-08 | 0.4409 | 6.52 | 3.54e-06 | 2.13e-08 | 0.0100 | 1.60e-07 | 0.0034 | 0.0345 | 0.8255 |
-| 170 | 0.0146 | 7.39 | 38.79 | 0.0014 | 2.93 | 3.54e-10 | 1.74e-08 | 0.3835 | 5.69 | 3.10e-06 | 1.86e-08 | 0.0087 | 1.40e-07 | 0.0030 | 0.0301 | 0.7195 |
-| 200 | 0.0122 | 6.20 | 32.44 | 0.0011 | 2.45 | 3.00e-10 | 1.46e-08 | 0.3201 | 4.78 | 2.63e-06 | 1.56e-08 | 0.0073 | 1.17e-07 | 0.0025 | 0.0252 | 0.6026 |
-| 300 | 0.0078 | 4.03 | 20.87 | 7.39e-04 | 1.58 | 2.04e-10 | 9.45e-09 | 0.2046 | 3.11 | 1.76e-06 | 1.02e-08 | 0.0047 | 7.62e-08 | 0.0016 | 0.0162 | 0.3895 |
-| 330 | 0.0071 | 3.65 | 18.86 | 6.67e-04 | 1.43 | 1.87e-10 | 8.56e-09 | 0.1845 | 2.82 | 1.61e-06 | 9.22e-09 | 0.0042 | 6.90e-08 | 0.0015 | 0.0146 | 0.3525 |
-| 370 | 0.0063 | 3.24 | 16.68 | 5.90e-04 | 1.26 | 1.69e-10 | 7.59e-09 | 0.1628 | 2.50 | 1.44e-06 | 8.19e-09 | 0.0038 | 6.13e-08 | 0.0013 | 0.0130 | 0.3123 |
-
-### Cotton Combed -- Weaving
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0734 | 36.59 | 194.4 | 0.0069 | 14.68 | 1.66e-09 | 8.65e-08 | 1.94 | 28.13 | 1.48e-05 | 9.18e-08 | 0.0435 | 6.94e-07 | 0.0150 | 0.1505 | 3.59 |
-| 70 | 0.0439 | 21.93 | 116.3 | 0.0041 | 8.78 | 1.00e-09 | 5.18e-08 | 1.16 | 16.86 | 8.92e-06 | 5.50e-08 | 0.0260 | 4.16e-07 | 0.0090 | 0.0900 | 2.15 |
-| 120 | 0.0236 | 11.85 | 62.58 | 0.0022 | 4.73 | 5.53e-10 | 2.80e-08 | 0.6210 | 9.12 | 4.89e-06 | 2.98e-08 | 0.0140 | 2.25e-07 | 0.0048 | 0.0485 | 1.16 |
-| 150 | 0.0183 | 9.22 | 48.56 | 0.0017 | 3.67 | 4.35e-10 | 2.17e-08 | 0.4810 | 7.10 | 3.84e-06 | 2.32e-08 | 0.0109 | 1.75e-07 | 0.0038 | 0.0376 | 0.8995 |
-| 170 | 0.0159 | 8.02 | 42.16 | 0.0015 | 3.18 | 3.82e-10 | 1.89e-08 | 0.4171 | 6.18 | 3.36e-06 | 2.02e-08 | 0.0095 | 1.52e-07 | 0.0033 | 0.0327 | 0.7815 |
-| 200 | 0.0132 | 6.70 | 35.12 | 0.0012 | 2.65 | 3.23e-10 | 1.58e-08 | 0.3468 | 5.16 | 2.83e-06 | 1.69e-08 | 0.0079 | 1.27e-07 | 0.0027 | 0.0272 | 0.6519 |
-| 300 | 0.0084 | 4.31 | 22.38 | 7.92e-04 | 1.69 | 2.16e-10 | 1.01e-08 | 0.2196 | 3.33 | 1.87e-06 | 1.09e-08 | 0.0050 | 8.16e-08 | 0.0017 | 0.0174 | 0.4172 |
-| 330 | 0.0076 | 3.89 | 20.13 | 7.12e-04 | 1.52 | 1.97e-10 | 9.12e-09 | 0.1972 | 3.00 | 1.70e-06 | 9.82e-09 | 0.0045 | 7.36e-08 | 0.0016 | 0.0156 | 0.3759 |
-| 370 | 0.0067 | 3.45 | 17.77 | 6.28e-04 | 1.34 | 1.78e-10 | 8.07e-09 | 0.1736 | 2.66 | 1.53e-06 | 8.70e-09 | 0.0040 | 6.51e-08 | 0.0014 | 0.0138 | 0.3324 |
-
-### Elastane
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.1568 | 77.99 | 415.4 | 0.0147 | 31.36 | 3.49e-09 | 1.84e-07 | 4.15 | 59.95 | 3.13e-05 | 1.96e-07 | 0.0929 | 1.48e-06 | 0.0321 | 0.3215 | 7.65 |
-| 70 | 0.0909 | 45.22 | 240.7 | 0.0085 | 18.17 | 2.03e-09 | 1.07e-07 | 2.40 | 34.77 | 1.82e-05 | 1.13e-07 | 0.0539 | 8.58e-07 | 0.0186 | 0.1863 | 4.44 |
-| 120 | 0.0442 | 22.04 | 117.1 | 0.0042 | 8.84 | 9.93e-10 | 5.21e-08 | 1.17 | 16.96 | 8.92e-06 | 5.53e-08 | 0.0262 | 4.18e-07 | 0.0091 | 0.0907 | 2.16 |
-| 150 | 0.0347 | 17.32 | 91.97 | 0.0033 | 6.94 | 7.82e-10 | 4.09e-08 | 0.9162 | 13.33 | 7.03e-06 | 4.35e-08 | 0.0206 | 3.29e-07 | 0.0071 | 0.0712 | 1.70 |
-| 170 | 0.0304 | 15.16 | 80.50 | 0.0029 | 6.08 | 6.86e-10 | 3.58e-08 | 0.8017 | 11.68 | 6.17e-06 | 3.81e-08 | 0.0180 | 2.88e-07 | 0.0062 | 0.0624 | 1.48 |
-| 200 | 0.0256 | 12.80 | 67.89 | 0.0024 | 5.13 | 5.80e-10 | 3.02e-08 | 0.6758 | 9.86 | 5.22e-06 | 3.22e-08 | 0.0152 | 2.43e-07 | 0.0053 | 0.0526 | 1.25 |
-| 300 | 0.0169 | 8.46 | 44.76 | 0.0016 | 3.38 | 3.87e-10 | 1.99e-08 | 0.4448 | 6.53 | 3.49e-06 | 2.13e-08 | 0.0100 | 1.60e-07 | 0.0035 | 0.0347 | 0.8258 |
-| 330 | 0.0153 | 7.68 | 40.61 | 0.0014 | 3.07 | 3.52e-10 | 1.81e-08 | 0.4034 | 5.93 | 3.18e-06 | 1.94e-08 | 0.0091 | 1.46e-07 | 0.0031 | 0.0315 | 0.7496 |
-| 370 | 0.0136 | 6.85 | 36.17 | 0.0013 | 2.73 | 3.15e-10 | 1.61e-08 | 0.3590 | 5.29 | 2.84e-06 | 1.73e-08 | 0.0081 | 1.30e-07 | 0.0028 | 0.0280 | 0.6676 |
-
-### MMCF (Rayon
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.1173 | 58.34 | 310.6 | 0.0110 | 23.45 | 2.61e-09 | 1.38e-07 | 3.10 | 44.86 | 2.35e-05 | 1.47e-07 | 0.0695 | 1.11e-06 | 0.0240 | 0.2404 | 5.72 |
-| 70 | 0.0680 | 33.84 | 180.1 | 0.0064 | 13.59 | 1.52e-09 | 8.00e-08 | 1.80 | 26.03 | 1.37e-05 | 8.52e-08 | 0.0403 | 6.42e-07 | 0.0139 | 0.1394 | 3.32 |
-| 120 | 0.0331 | 16.51 | 87.68 | 0.0031 | 6.62 | 7.47e-10 | 3.90e-08 | 0.8734 | 12.72 | 6.72e-06 | 4.17e-08 | 0.0196 | 3.13e-07 | 0.0068 | 0.0679 | 1.62 |
-| 150 | 0.0260 | 12.98 | 68.86 | 0.0024 | 5.20 | 5.89e-10 | 3.07e-08 | 0.6855 | 10.00 | 5.30e-06 | 3.29e-08 | 0.0154 | 2.46e-07 | 0.0053 | 0.0533 | 1.27 |
-| 170 | 0.0227 | 11.37 | 60.29 | 0.0021 | 4.55 | 5.18e-10 | 2.69e-08 | 0.5998 | 8.77 | 4.66e-06 | 2.88e-08 | 0.0135 | 2.16e-07 | 0.0047 | 0.0467 | 1.11 |
-| 200 | 0.0192 | 9.60 | 50.86 | 0.0018 | 3.84 | 4.39e-10 | 2.27e-08 | 0.5057 | 7.41 | 3.95e-06 | 2.44e-08 | 0.0114 | 1.82e-07 | 0.0039 | 0.0394 | 0.9383 |
-| 300 | 0.0127 | 6.36 | 33.55 | 0.0012 | 2.53 | 2.94e-10 | 1.50e-08 | 0.3329 | 4.91 | 2.65e-06 | 1.62e-08 | 0.0075 | 1.21e-07 | 0.0026 | 0.0260 | 0.6195 |
-| 330 | 0.0115 | 5.78 | 30.46 | 0.0011 | 2.30 | 2.68e-10 | 1.36e-08 | 0.3020 | 4.47 | 2.42e-06 | 1.47e-08 | 0.0068 | 1.10e-07 | 0.0024 | 0.0236 | 0.5626 |
-| 370 | 0.0102 | 5.15 | 27.10 | 9.60e-04 | 2.05 | 2.40e-10 | 1.21e-08 | 0.2684 | 3.98 | 2.16e-06 | 1.31e-08 | 0.0061 | 9.76e-08 | 0.0021 | 0.0210 | 0.5006 |
-
-### Polyamides (Nylon 6
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.1100 | 54.71 | 291.3 | 0.0103 | 21.99 | 2.45e-09 | 1.29e-07 | 2.91 | 42.06 | 2.20e-05 | 1.37e-07 | 0.0652 | 1.04e-06 | 0.0225 | 0.2254 | 5.37 |
-| 70 | 0.0637 | 31.73 | 168.8 | 0.0060 | 12.74 | 1.42e-09 | 7.50e-08 | 1.68 | 24.41 | 1.28e-05 | 7.96e-08 | 0.0378 | 6.02e-07 | 0.0131 | 0.1307 | 3.11 |
-| 120 | 0.0310 | 15.48 | 82.20 | 0.0029 | 6.21 | 7.00e-10 | 3.65e-08 | 0.8187 | 11.93 | 6.30e-06 | 3.89e-08 | 0.0184 | 2.94e-07 | 0.0064 | 0.0637 | 1.52 |
-| 150 | 0.0244 | 12.17 | 64.56 | 0.0023 | 4.87 | 5.53e-10 | 2.87e-08 | 0.6425 | 9.38 | 4.97e-06 | 3.06e-08 | 0.0145 | 2.31e-07 | 0.0050 | 0.0500 | 1.19 |
-| 170 | 0.0213 | 10.66 | 56.52 | 0.0020 | 4.27 | 4.85e-10 | 2.52e-08 | 0.5623 | 8.22 | 4.37e-06 | 2.68e-08 | 0.0127 | 2.02e-07 | 0.0044 | 0.0438 | 1.04 |
-| 200 | 0.0180 | 9.01 | 47.68 | 0.0017 | 3.60 | 4.11e-10 | 2.12e-08 | 0.4740 | 6.95 | 3.71e-06 | 2.27e-08 | 0.0107 | 1.71e-07 | 0.0037 | 0.0370 | 0.8797 |
-| 300 | 0.0119 | 5.96 | 31.46 | 0.0011 | 2.37 | 2.76e-10 | 1.40e-08 | 0.3120 | 4.61 | 2.49e-06 | 1.51e-08 | 0.0070 | 1.13e-07 | 0.0024 | 0.0244 | 0.5810 |
-| 330 | 0.0108 | 5.41 | 28.54 | 0.0010 | 2.15 | 2.51e-10 | 1.27e-08 | 0.2829 | 4.19 | 2.27e-06 | 1.37e-08 | 0.0064 | 1.03e-07 | 0.0022 | 0.0221 | 0.5272 |
-| 370 | 0.0096 | 4.82 | 25.36 | 8.98e-04 | 1.91 | 2.25e-10 | 1.13e-08 | 0.2511 | 3.73 | 2.03e-06 | 1.22e-08 | 0.0057 | 9.14e-08 | 0.0020 | 0.0197 | 0.4686 |
-
-### Polyester (PET
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0836 | 41.69 | 222.0 | 0.0079 | 16.76 | 1.87e-09 | 9.85e-08 | 2.21 | 32.05 | 1.69e-05 | 1.05e-07 | 0.0498 | 7.90e-07 | 0.0171 | 0.1715 | 4.08 |
-| 70 | 0.0485 | 24.25 | 129.0 | 0.0046 | 9.74 | 1.09e-09 | 5.72e-08 | 1.28 | 18.64 | 9.90e-06 | 6.13e-08 | 0.0290 | 4.59e-07 | 0.0099 | 0.0996 | 2.37 |
-| 120 | 0.0237 | 11.90 | 63.17 | 0.0022 | 4.77 | 5.42e-10 | 2.80e-08 | 0.6231 | 9.15 | 4.96e-06 | 3.04e-08 | 0.0143 | 2.25e-07 | 0.0049 | 0.0486 | 1.16 |
-| 150 | 0.0186 | 9.38 | 49.76 | 0.0017 | 3.75 | 4.30e-10 | 2.21e-08 | 0.4892 | 7.22 | 3.96e-06 | 2.41e-08 | 0.0113 | 1.77e-07 | 0.0038 | 0.0382 | 0.9106 |
-| 170 | 0.0163 | 8.24 | 43.65 | 0.0015 | 3.29 | 3.79e-10 | 1.94e-08 | 0.4282 | 6.34 | 3.50e-06 | 2.12e-08 | 0.0099 | 1.55e-07 | 0.0033 | 0.0335 | 0.7981 |
-| 200 | 0.0138 | 6.98 | 36.94 | 0.0013 | 2.79 | 3.23e-10 | 1.64e-08 | 0.3611 | 5.37 | 2.99e-06 | 1.80e-08 | 0.0084 | 1.31e-07 | 0.0028 | 0.0283 | 0.6744 |
-| 300 | 0.0091 | 4.66 | 24.61 | 8.55e-04 | 1.85 | 2.19e-10 | 1.09e-08 | 0.2381 | 3.59 | 2.07e-06 | 1.23e-08 | 0.0057 | 8.74e-08 | 0.0019 | 0.0188 | 0.4473 |
-| 330 | 0.0083 | 4.24 | 22.36 | 7.75e-04 | 1.68 | 2.01e-10 | 9.93e-09 | 0.2156 | 3.27 | 1.90e-06 | 1.12e-08 | 0.0052 | 7.94e-08 | 0.0017 | 0.0170 | 0.4058 |
-| 370 | 0.0074 | 3.80 | 20.00 | 6.91e-04 | 1.51 | 1.81e-10 | 8.88e-09 | 0.1920 | 2.93 | 1.72e-06 | 1.01e-08 | 0.0047 | 7.09e-08 | 0.0015 | 0.0152 | 0.3624 |
-
-### Spun Silk
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.1312 | 65.25 | 347.5 | 0.0123 | 26.23 | 2.92e-09 | 1.54e-07 | 3.47 | 50.16 | 2.62e-05 | 1.64e-07 | 0.0777 | 1.24e-06 | 0.0269 | 0.2689 | 6.40 |
-| 70 | 0.0760 | 37.84 | 201.4 | 0.0071 | 15.20 | 1.70e-09 | 8.94e-08 | 2.01 | 29.11 | 1.52e-05 | 9.49e-08 | 0.0451 | 7.18e-07 | 0.0156 | 0.1559 | 3.71 |
-| 120 | 0.0370 | 18.45 | 98.04 | 0.0035 | 7.40 | 8.33e-10 | 4.36e-08 | 0.9768 | 14.21 | 7.49e-06 | 4.64e-08 | 0.0219 | 3.50e-07 | 0.0076 | 0.0759 | 1.81 |
-| 150 | 0.0290 | 14.50 | 76.98 | 0.0027 | 5.81 | 6.56e-10 | 3.42e-08 | 0.7665 | 11.17 | 5.91e-06 | 3.65e-08 | 0.0172 | 2.75e-07 | 0.0060 | 0.0596 | 1.42 |
-| 170 | 0.0254 | 12.70 | 67.39 | 0.0024 | 5.09 | 5.76e-10 | 3.00e-08 | 0.6708 | 9.79 | 5.19e-06 | 3.19e-08 | 0.0151 | 2.41e-07 | 0.0052 | 0.0522 | 1.24 |
-| 200 | 0.0214 | 10.72 | 56.84 | 0.0020 | 4.29 | 4.88e-10 | 2.53e-08 | 0.5654 | 8.27 | 4.39e-06 | 2.70e-08 | 0.0127 | 2.03e-07 | 0.0044 | 0.0440 | 1.05 |
-| 300 | 0.0141 | 7.09 | 37.49 | 0.0013 | 2.83 | 3.26e-10 | 1.67e-08 | 0.3722 | 5.48 | 2.94e-06 | 1.79e-08 | 0.0084 | 1.35e-07 | 0.0029 | 0.0291 | 0.6919 |
-| 330 | 0.0128 | 6.44 | 33.99 | 0.0012 | 2.57 | 2.97e-10 | 1.52e-08 | 0.3373 | 4.98 | 2.68e-06 | 1.62e-08 | 0.0076 | 1.22e-07 | 0.0026 | 0.0264 | 0.6275 |
-| 370 | 0.0114 | 5.74 | 30.27 | 0.0011 | 2.28 | 2.66e-10 | 1.35e-08 | 0.3001 | 4.44 | 2.40e-06 | 1.45e-08 | 0.0068 | 1.09e-07 | 0.0023 | 0.0235 | 0.5589 |
-
-### Woollen Wool
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0666 | 33.57 | 178.8 | 0.0062 | 13.49 | 1.53e-09 | 7.92e-08 | 1.75 | 25.71 | 1.41e-05 | 8.71e-08 | 0.0410 | 6.31e-07 | 0.0136 | 0.1366 | 3.26 |
-| 70 | 0.0388 | 19.79 | 105.3 | 0.0036 | 7.94 | 9.18e-10 | 4.66e-08 | 1.02 | 15.12 | 8.63e-06 | 5.25e-08 | 0.0246 | 3.69e-07 | 0.0080 | 0.0797 | 1.90 |
-| 120 | 0.0192 | 10.04 | 53.35 | 0.0018 | 4.02 | 4.82e-10 | 2.35e-08 | 0.4970 | 7.63 | 4.72e-06 | 2.80e-08 | 0.0130 | 1.84e-07 | 0.0039 | 0.0395 | 0.9452 |
-| 150 | 0.0152 | 8.05 | 42.76 | 0.0014 | 3.22 | 3.94e-10 | 1.88e-08 | 0.3913 | 6.10 | 3.93e-06 | 2.30e-08 | 0.0106 | 1.47e-07 | 0.0031 | 0.0313 | 0.7501 |
-| 170 | 0.0134 | 7.15 | 37.93 | 0.0012 | 2.85 | 3.53e-10 | 1.67e-08 | 0.3431 | 5.40 | 3.57e-06 | 2.07e-08 | 0.0095 | 1.29e-07 | 0.0027 | 0.0276 | 0.6613 |
-| 200 | 0.0114 | 6.15 | 32.63 | 0.0011 | 2.45 | 3.09e-10 | 1.43e-08 | 0.2901 | 4.64 | 3.17e-06 | 1.82e-08 | 0.0083 | 1.10e-07 | 0.0023 | 0.0234 | 0.5635 |
-| 300 | 0.0077 | 4.33 | 22.89 | 7.14e-04 | 1.72 | 2.27e-10 | 9.98e-09 | 0.1930 | 3.24 | 2.44e-06 | 1.36e-08 | 0.0061 | 7.58e-08 | 0.0016 | 0.0159 | 0.3843 |
-| 330 | 0.0070 | 3.99 | 21.09 | 6.50e-04 | 1.58 | 2.12e-10 | 9.17e-09 | 0.1749 | 2.98 | 2.30e-06 | 1.28e-08 | 0.0057 | 6.94e-08 | 0.0014 | 0.0145 | 0.3510 |
-| 370 | 0.0063 | 3.65 | 19.27 | 5.86e-04 | 1.44 | 1.97e-10 | 8.37e-09 | 0.1568 | 2.71 | 2.16e-06 | 1.19e-08 | 0.0053 | 6.29e-08 | 0.0013 | 0.0131 | 0.3175 |
-
-### Worsted Wool
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0828 | 41.71 | 221.8 | 0.0078 | 16.74 | 1.91e-09 | 9.84e-08 | 2.18 | 31.94 | 1.75e-05 | 1.07e-07 | 0.0507 | 7.85e-07 | 0.0170 | 0.1699 | 4.05 |
-| 70 | 0.0483 | 24.56 | 130.4 | 0.0045 | 9.84 | 1.15e-09 | 5.78e-08 | 1.26 | 18.76 | 1.06e-05 | 6.44e-08 | 0.0302 | 4.60e-07 | 0.0099 | 0.0991 | 2.37 |
-| 120 | 0.0238 | 12.42 | 65.72 | 0.0022 | 4.95 | 6.06e-10 | 2.91e-08 | 0.6186 | 9.44 | 5.73e-06 | 3.39e-08 | 0.0157 | 2.29e-07 | 0.0049 | 0.0491 | 1.18 |
-| 150 | 0.0189 | 9.95 | 52.55 | 0.0018 | 3.96 | 4.96e-10 | 2.33e-08 | 0.4870 | 7.54 | 4.74e-06 | 2.77e-08 | 0.0128 | 1.82e-07 | 0.0039 | 0.0389 | 0.9349 |
-| 170 | 0.0166 | 8.83 | 46.54 | 0.0016 | 3.50 | 4.46e-10 | 2.06e-08 | 0.4271 | 6.68 | 4.29e-06 | 2.49e-08 | 0.0114 | 1.61e-07 | 0.0034 | 0.0342 | 0.8244 |
-| 200 | 0.0141 | 7.59 | 39.94 | 0.0013 | 3.01 | 3.90e-10 | 1.77e-08 | 0.3612 | 5.72 | 3.79e-06 | 2.18e-08 | 0.0100 | 1.38e-07 | 0.0029 | 0.0291 | 0.7028 |
-| 300 | 0.0095 | 5.31 | 27.83 | 8.90e-04 | 2.09 | 2.89e-10 | 1.23e-08 | 0.2402 | 3.98 | 2.88e-06 | 1.60e-08 | 0.0073 | 9.44e-08 | 0.0020 | 0.0197 | 0.4797 |
-| 330 | 0.0087 | 4.90 | 25.63 | 8.12e-04 | 1.93 | 2.71e-10 | 1.13e-08 | 0.2183 | 3.66 | 2.72e-06 | 1.50e-08 | 0.0068 | 8.65e-08 | 0.0018 | 0.0180 | 0.4391 |
-| 370 | 0.0078 | 4.46 | 23.27 | 7.28e-04 | 1.75 | 2.51e-10 | 1.03e-08 | 0.1947 | 3.32 | 2.54e-06 | 1.39e-08 | 0.0062 | 7.81e-08 | 0.0016 | 0.0162 | 0.3956 |
-
-> Full data with DQR scores: [impact-scores.csv](impact-scores.csv)
+> Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
 ## Methodology
 

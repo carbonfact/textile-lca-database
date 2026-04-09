@@ -2,97 +2,70 @@
 
 > Part of [Spinning](README.md)
 
-**54 datasets** | Functional unit: 1 kg yarn | 9 dtex levels (45--370) | 6 fibre families
+**54 datasets** | Functional unit: 1 kg yarn
 
 Open-end rotor spinning is faster and more energy-efficient than ring spinning. It produces bulkier yarns suited for casual knit and woven fabrics. The technology skips the roving step, feeding sliver directly into the spinning rotor.
 
-## Impact Scores
+## Datasets
 
-### Acrylic
+| Descriptor | Activity | GHG (kgCO2eq/kg) |
+|------------|----------|------------------:|
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=120@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 120 dtex, Open-End (Rotor) | 3.55 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=150@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 150 dtex, Open-End (Rotor) | 2.65 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=170@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 170 dtex, Open-End (Rotor) | 2.33 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=200@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 200 dtex, Open-End (Rotor) | 2.00 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=300@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 300 dtex, Open-End (Rotor) | 1.37 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=330@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 330 dtex, Open-End (Rotor) | 1.21 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=370@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 370 dtex, Open-End (Rotor) | 1.08 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=45@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 45 dtex, Open-End (Rotor) | 9.71 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/ACRYLIC?DTEX=70@WORLD` | Spinning to yarn, Acrylic, Modacrylic, PAN (Polyacrylonitrile), 70 dtex, Open-End (Rotor) | 6.49 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=120@WORLD` | Spinning to yarn, Cotton, 120 dtex, Open-End (Rotor) | 2.68 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=150@WORLD` | Spinning to yarn, Cotton, 150 dtex, Open-End (Rotor) | 2.00 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=170@WORLD` | Spinning to yarn, Cotton, 170 dtex, Open-End (Rotor) | 1.75 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=200@WORLD` | Spinning to yarn, Cotton, 200 dtex, Open-End (Rotor) | 1.51 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=300@WORLD` | Spinning to yarn, Cotton, 300 dtex, Open-End (Rotor) | 1.03 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=330@WORLD` | Spinning to yarn, Cotton, 330 dtex, Open-End (Rotor) | 0.9105 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=370@WORLD` | Spinning to yarn, Cotton, 370 dtex, Open-End (Rotor) | 0.8140 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=45@WORLD` | Spinning to yarn, Cotton, 45 dtex, Open-End (Rotor) | 7.32 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#PLANT_FIBERS/COTTON?DTEX=70@WORLD` | Spinning to yarn, Cotton, 70 dtex, Open-End (Rotor) | 4.89 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=120@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 120 dtex, Open-End (Rotor) | 3.27 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=150@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 150 dtex, Open-End (Rotor) | 2.44 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=170@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 170 dtex, Open-End (Rotor) | 2.14 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=200@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 200 dtex, Open-End (Rotor) | 1.84 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=300@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 300 dtex, Open-End (Rotor) | 1.26 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=330@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 330 dtex, Open-End (Rotor) | 1.11 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=370@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 370 dtex, Open-End (Rotor) | 0.9968 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=45@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 45 dtex, Open-End (Rotor) | 8.94 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#CELLULOSE_BASED_FIBERS/MMCF?DTEX=70@WORLD` | Spinning to yarn, MMCF (Rayon, Viscose, Lyocell), 70 dtex, Open-End (Rotor) | 5.97 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=120@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 120 dtex, Open-End (Rotor) | 3.86 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=150@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 150 dtex, Open-End (Rotor) | 2.88 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=170@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 170 dtex, Open-End (Rotor) | 2.53 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=200@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 200 dtex, Open-End (Rotor) | 2.18 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=300@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 300 dtex, Open-End (Rotor) | 1.49 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=330@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 330 dtex, Open-End (Rotor) | 1.32 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=370@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 370 dtex, Open-End (Rotor) | 1.18 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=45@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 45 dtex, Open-End (Rotor) | 10.56 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYAMIDE?DTEX=70@WORLD` | Spinning to yarn, Polyamides (Nylon 6, Nylon 6.6, PA 11, PA 12,…), 70 dtex, Open-End (Rotor) | 7.05 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=120@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 120 dtex, Open-End (Rotor) | 2.97 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=150@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 150 dtex, Open-End (Rotor) | 2.22 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=170@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 170 dtex, Open-End (Rotor) | 1.94 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=200@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 200 dtex, Open-End (Rotor) | 1.67 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=300@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 300 dtex, Open-End (Rotor) | 1.15 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=330@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 330 dtex, Open-End (Rotor) | 1.01 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=370@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 370 dtex, Open-End (Rotor) | 0.9106 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=45@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 45 dtex, Open-End (Rotor) | 8.10 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#SYNTHETIC_FIBERS/POLYESTER?DTEX=70@WORLD` | Spinning to yarn, Polyester (PET, PBT, PTT, PLA etc), 70 dtex, Open-End (Rotor) | 5.41 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=120@WORLD` | Spinning to yarn, Spun Silk, 120 dtex, Open-End (Rotor) | 4.14 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=150@WORLD` | Spinning to yarn, Spun Silk, 150 dtex, Open-End (Rotor) | 3.08 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=170@WORLD` | Spinning to yarn, Spun Silk, 170 dtex, Open-End (Rotor) | 2.70 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=200@WORLD` | Spinning to yarn, Spun Silk, 200 dtex, Open-End (Rotor) | 2.32 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=300@WORLD` | Spinning to yarn, Spun Silk, 300 dtex, Open-End (Rotor) | 1.58 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=330@WORLD` | Spinning to yarn, Spun Silk, 330 dtex, Open-End (Rotor) | 1.40 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=370@WORLD` | Spinning to yarn, Spun Silk, 370 dtex, Open-End (Rotor) | 1.25 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=45@WORLD` | Spinning to yarn, Spun Silk, 45 dtex, Open-End (Rotor) | 11.31 |
+| `MATERIAL_PROCESS_STEP:YARN_FORMATION/SPINNING/OPEN_END#ANIMAL_FIBERS/SILK?DTEX=70@WORLD` | Spinning to yarn, Spun Silk, 70 dtex, Open-End (Rotor) | 7.55 |
 
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0485 | 24.19 | 128.6 | 0.0046 | 9.71 | 1.09e-09 | 5.71e-08 | 1.28 | 18.60 | 9.81e-06 | 6.09e-08 | 0.0289 | 4.59e-07 | 0.0099 | 0.0995 | 2.37 |
-| 70 | 0.0324 | 16.18 | 85.97 | 0.0030 | 6.49 | 7.32e-10 | 3.82e-08 | 0.8542 | 12.45 | 6.61e-06 | 4.08e-08 | 0.0193 | 3.07e-07 | 0.0066 | 0.0664 | 1.58 |
-| 120 | 0.0177 | 8.89 | 47.10 | 0.0017 | 3.55 | 4.07e-10 | 2.09e-08 | 0.4662 | 6.85 | 3.69e-06 | 2.26e-08 | 0.0106 | 1.68e-07 | 0.0036 | 0.0364 | 0.8663 |
-| 150 | 0.0132 | 6.64 | 35.11 | 0.0012 | 2.65 | 3.06e-10 | 1.56e-08 | 0.3465 | 5.12 | 2.79e-06 | 1.69e-08 | 0.0079 | 1.26e-07 | 0.0027 | 0.0271 | 0.6455 |
-| 170 | 0.0116 | 5.84 | 30.84 | 0.0011 | 2.33 | 2.70e-10 | 1.37e-08 | 0.3039 | 4.50 | 2.46e-06 | 1.49e-08 | 0.0070 | 1.10e-07 | 0.0024 | 0.0238 | 0.5669 |
-| 200 | 0.0099 | 5.02 | 26.47 | 9.32e-04 | 2.00 | 2.34e-10 | 1.18e-08 | 0.2604 | 3.87 | 2.14e-06 | 1.28e-08 | 0.0060 | 9.48e-08 | 0.0020 | 0.0204 | 0.4866 |
-| 300 | 0.0068 | 3.46 | 18.19 | 6.38e-04 | 1.37 | 1.65e-10 | 8.12e-09 | 0.1779 | 2.68 | 1.51e-06 | 8.93e-09 | 0.0041 | 6.54e-08 | 0.0014 | 0.0140 | 0.3342 |
-| 330 | 0.0060 | 3.06 | 16.00 | 5.61e-04 | 1.21 | 1.46e-10 | 7.15e-09 | 0.1561 | 2.37 | 1.35e-06 | 7.90e-09 | 0.0036 | 5.76e-08 | 0.0012 | 0.0123 | 0.2941 |
-| 370 | 0.0054 | 2.75 | 14.35 | 5.03e-04 | 1.08 | 1.32e-10 | 6.42e-09 | 0.1398 | 2.13 | 1.22e-06 | 7.11e-09 | 0.0033 | 5.18e-08 | 0.0011 | 0.0111 | 0.2639 |
-
-### Cotton
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0366 | 18.25 | 96.98 | 0.0034 | 7.32 | 8.24e-10 | 4.31e-08 | 0.9655 | 14.04 | 7.41e-06 | 4.59e-08 | 0.0217 | 3.46e-07 | 0.0075 | 0.0750 | 1.79 |
-| 70 | 0.0244 | 12.22 | 64.84 | 0.0023 | 4.89 | 5.55e-10 | 2.88e-08 | 0.6446 | 9.41 | 5.00e-06 | 3.08e-08 | 0.0145 | 2.32e-07 | 0.0050 | 0.0502 | 1.19 |
-| 120 | 0.0134 | 6.72 | 35.52 | 0.0013 | 2.68 | 3.09e-10 | 1.58e-08 | 0.3518 | 5.18 | 2.80e-06 | 1.70e-08 | 0.0080 | 1.27e-07 | 0.0027 | 0.0275 | 0.6546 |
-| 150 | 0.0100 | 5.03 | 26.53 | 9.37e-04 | 2.00 | 2.34e-10 | 1.18e-08 | 0.2621 | 3.89 | 2.12e-06 | 1.28e-08 | 0.0060 | 9.53e-08 | 0.0020 | 0.0205 | 0.4891 |
-| 170 | 0.0087 | 4.42 | 23.26 | 8.21e-04 | 1.75 | 2.07e-10 | 1.04e-08 | 0.2295 | 3.42 | 1.87e-06 | 1.12e-08 | 0.0052 | 8.37e-08 | 0.0018 | 0.0180 | 0.4289 |
-| 200 | 0.0075 | 3.80 | 19.98 | 7.05e-04 | 1.51 | 1.79e-10 | 8.93e-09 | 0.1968 | 2.95 | 1.63e-06 | 9.70e-09 | 0.0045 | 7.20e-08 | 0.0015 | 0.0155 | 0.3686 |
-| 300 | 0.0051 | 2.63 | 13.71 | 4.83e-04 | 1.03 | 1.27e-10 | 6.15e-09 | 0.1343 | 2.04 | 1.16e-06 | 6.75e-09 | 0.0031 | 4.97e-08 | 0.0011 | 0.0106 | 0.2532 |
-| 330 | 0.0045 | 2.32 | 12.08 | 4.25e-04 | 0.9105 | 1.13e-10 | 5.43e-09 | 0.1179 | 1.81 | 1.03e-06 | 5.98e-09 | 0.0027 | 4.39e-08 | 9.29e-04 | 0.0094 | 0.2231 |
-| 370 | 0.0040 | 2.08 | 10.80 | 3.80e-04 | 0.8140 | 1.02e-10 | 4.86e-09 | 0.1052 | 1.62 | 9.37e-07 | 5.37e-09 | 0.0024 | 3.93e-08 | 8.30e-04 | 0.0084 | 0.1996 |
-
-### MMCF (Rayon
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0446 | 22.26 | 118.4 | 0.0042 | 8.94 | 1.00e-09 | 5.26e-08 | 1.18 | 17.13 | 9.03e-06 | 5.60e-08 | 0.0265 | 4.22e-07 | 0.0091 | 0.0916 | 2.18 |
-| 70 | 0.0298 | 14.89 | 79.07 | 0.0028 | 5.97 | 6.74e-10 | 3.51e-08 | 0.7861 | 11.46 | 6.07e-06 | 3.75e-08 | 0.0177 | 2.82e-07 | 0.0061 | 0.0612 | 1.46 |
-| 120 | 0.0163 | 8.19 | 43.39 | 0.0015 | 3.27 | 3.75e-10 | 1.93e-08 | 0.4299 | 6.32 | 3.40e-06 | 2.08e-08 | 0.0098 | 1.55e-07 | 0.0033 | 0.0335 | 0.7988 |
-| 150 | 0.0121 | 6.12 | 32.31 | 0.0011 | 2.44 | 2.83e-10 | 1.44e-08 | 0.3193 | 4.72 | 2.56e-06 | 1.55e-08 | 0.0073 | 1.16e-07 | 0.0025 | 0.0250 | 0.5948 |
-| 170 | 0.0107 | 5.38 | 28.40 | 0.0010 | 2.14 | 2.50e-10 | 1.27e-08 | 0.2803 | 4.16 | 2.27e-06 | 1.37e-08 | 0.0064 | 1.02e-07 | 0.0022 | 0.0220 | 0.5229 |
-| 200 | 0.0092 | 4.63 | 24.41 | 8.60e-04 | 1.84 | 2.16e-10 | 1.09e-08 | 0.2404 | 3.58 | 1.97e-06 | 1.18e-08 | 0.0055 | 8.76e-08 | 0.0019 | 0.0189 | 0.4493 |
-| 300 | 0.0062 | 3.18 | 16.68 | 5.86e-04 | 1.26 | 1.52e-10 | 7.46e-09 | 0.1633 | 2.47 | 1.39e-06 | 8.19e-09 | 0.0038 | 6.01e-08 | 0.0013 | 0.0129 | 0.3071 |
-| 330 | 0.0055 | 2.83 | 14.77 | 5.19e-04 | 1.11 | 1.36e-10 | 6.61e-09 | 0.1443 | 2.19 | 1.25e-06 | 7.29e-09 | 0.0033 | 5.33e-08 | 0.0011 | 0.0114 | 0.2720 |
-| 370 | 0.0049 | 2.54 | 13.22 | 4.64e-04 | 0.9968 | 1.23e-10 | 5.93e-09 | 0.1289 | 1.97 | 1.13e-06 | 6.55e-09 | 0.0030 | 4.78e-08 | 0.0010 | 0.0102 | 0.2435 |
-
-### Polyamides (Nylon 6
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0527 | 26.30 | 139.9 | 0.0050 | 10.56 | 1.18e-09 | 6.21e-08 | 1.39 | 20.22 | 1.07e-05 | 6.62e-08 | 0.0314 | 4.99e-07 | 0.0108 | 0.1082 | 2.58 |
-| 70 | 0.0352 | 17.58 | 93.41 | 0.0033 | 7.05 | 7.94e-10 | 4.15e-08 | 0.9285 | 13.52 | 7.17e-06 | 4.43e-08 | 0.0210 | 3.33e-07 | 0.0072 | 0.0722 | 1.72 |
-| 120 | 0.0193 | 9.66 | 51.18 | 0.0018 | 3.86 | 4.41e-10 | 2.28e-08 | 0.5070 | 7.44 | 3.99e-06 | 2.45e-08 | 0.0115 | 1.83e-07 | 0.0039 | 0.0395 | 0.9415 |
-| 150 | 0.0143 | 7.22 | 38.20 | 0.0013 | 2.88 | 3.32e-10 | 1.70e-08 | 0.3774 | 5.56 | 3.02e-06 | 1.84e-08 | 0.0086 | 1.37e-07 | 0.0029 | 0.0295 | 0.7024 |
-| 170 | 0.0126 | 6.33 | 33.47 | 0.0012 | 2.53 | 2.92e-10 | 1.49e-08 | 0.3302 | 4.88 | 2.66e-06 | 1.61e-08 | 0.0076 | 1.20e-07 | 0.0026 | 0.0258 | 0.6154 |
-| 200 | 0.0108 | 5.46 | 28.83 | 0.0010 | 2.18 | 2.54e-10 | 1.28e-08 | 0.2840 | 4.21 | 2.31e-06 | 1.40e-08 | 0.0065 | 1.03e-07 | 0.0022 | 0.0223 | 0.5300 |
-| 300 | 0.0074 | 3.75 | 19.73 | 6.93e-04 | 1.49 | 1.77e-10 | 8.81e-09 | 0.1933 | 2.90 | 1.63e-06 | 9.65e-09 | 0.0045 | 7.09e-08 | 0.0015 | 0.0152 | 0.3627 |
-| 330 | 0.0065 | 3.33 | 17.45 | 6.13e-04 | 1.32 | 1.58e-10 | 7.80e-09 | 0.1706 | 2.58 | 1.45e-06 | 8.58e-09 | 0.0040 | 6.28e-08 | 0.0013 | 0.0135 | 0.3208 |
-| 370 | 0.0058 | 2.98 | 15.62 | 5.48e-04 | 1.18 | 1.43e-10 | 6.99e-09 | 0.1525 | 2.31 | 1.31e-06 | 7.71e-09 | 0.0035 | 5.63e-08 | 0.0012 | 0.0121 | 0.2873 |
-
-### Polyester (PET
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0404 | 20.18 | 107.3 | 0.0038 | 8.10 | 9.10e-10 | 4.77e-08 | 1.07 | 15.53 | 8.21e-06 | 5.09e-08 | 0.0241 | 3.83e-07 | 0.0083 | 0.0830 | 1.98 |
-| 70 | 0.0270 | 13.51 | 71.71 | 0.0025 | 5.41 | 6.13e-10 | 3.19e-08 | 0.7119 | 10.39 | 5.54e-06 | 3.41e-08 | 0.0161 | 2.56e-07 | 0.0055 | 0.0554 | 1.32 |
-| 120 | 0.0148 | 7.44 | 39.38 | 0.0014 | 2.97 | 3.42e-10 | 1.75e-08 | 0.3892 | 5.73 | 3.11e-06 | 1.89e-08 | 0.0089 | 1.41e-07 | 0.0030 | 0.0304 | 0.7241 |
-| 150 | 0.0110 | 5.57 | 29.39 | 0.0010 | 2.22 | 2.58e-10 | 1.31e-08 | 0.2894 | 4.29 | 2.36e-06 | 1.42e-08 | 0.0066 | 1.05e-07 | 0.0023 | 0.0227 | 0.5402 |
-| 170 | 0.0097 | 4.88 | 25.75 | 9.06e-04 | 1.94 | 2.28e-10 | 1.15e-08 | 0.2532 | 3.77 | 2.08e-06 | 1.25e-08 | 0.0058 | 9.23e-08 | 0.0020 | 0.0199 | 0.4732 |
-| 200 | 0.0083 | 4.22 | 22.21 | 7.81e-04 | 1.67 | 1.98e-10 | 9.90e-09 | 0.2178 | 3.26 | 1.82e-06 | 1.08e-08 | 0.0050 | 7.96e-08 | 0.0017 | 0.0171 | 0.4080 |
-| 300 | 0.0057 | 2.90 | 15.19 | 5.32e-04 | 1.15 | 1.39e-10 | 6.79e-09 | 0.1480 | 2.25 | 1.28e-06 | 7.52e-09 | 0.0035 | 5.47e-08 | 0.0012 | 0.0117 | 0.2790 |
-| 330 | 0.0050 | 2.58 | 13.46 | 4.71e-04 | 1.01 | 1.25e-10 | 6.03e-09 | 0.1308 | 2.00 | 1.15e-06 | 6.70e-09 | 0.0031 | 4.86e-08 | 0.0010 | 0.0104 | 0.2472 |
-| 370 | 0.0045 | 2.32 | 12.08 | 4.22e-04 | 0.9106 | 1.13e-10 | 5.42e-09 | 0.1171 | 1.80 | 1.05e-06 | 6.05e-09 | 0.0028 | 4.37e-08 | 9.24e-04 | 0.0093 | 0.2221 |
-
-### Spun Silk
-
-| dtex | ACD | ETF | FRU | FWE | GHG | HTC | HTN | IOR | LDU | MRU | OZD | PCO | PMA | SWE | TRE | WTU |
-|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 45 | 0.0565 | 28.17 | 149.8 | 0.0053 | 11.31 | 1.27e-09 | 6.65e-08 | 1.49 | 21.66 | 1.14e-05 | 7.08e-08 | 0.0336 | 5.34e-07 | 0.0116 | 0.1159 | 2.76 |
-| 70 | 0.0377 | 18.82 | 100.0 | 0.0035 | 7.55 | 8.49e-10 | 4.44e-08 | 0.9955 | 14.48 | 7.64e-06 | 4.74e-08 | 0.0224 | 3.57e-07 | 0.0077 | 0.0774 | 1.84 |
-| 120 | 0.0206 | 10.33 | 54.79 | 0.0019 | 4.14 | 4.71e-10 | 2.44e-08 | 0.5440 | 7.96 | 4.25e-06 | 2.61e-08 | 0.0123 | 1.96e-07 | 0.0042 | 0.0424 | 1.01 |
-| 150 | 0.0154 | 7.71 | 40.81 | 0.0014 | 3.08 | 3.54e-10 | 1.82e-08 | 0.4044 | 5.95 | 3.20e-06 | 1.95e-08 | 0.0092 | 1.46e-07 | 0.0031 | 0.0316 | 0.7518 |
-| 170 | 0.0135 | 6.77 | 35.81 | 0.0013 | 2.70 | 3.12e-10 | 1.60e-08 | 0.3546 | 5.23 | 2.82e-06 | 1.72e-08 | 0.0081 | 1.28e-07 | 0.0028 | 0.0277 | 0.6598 |
-| 200 | 0.0116 | 5.82 | 30.73 | 0.0011 | 2.32 | 2.69e-10 | 1.37e-08 | 0.3038 | 4.49 | 2.44e-06 | 1.48e-08 | 0.0069 | 1.10e-07 | 0.0024 | 0.0238 | 0.5662 |
-| 300 | 0.0079 | 4.00 | 21.01 | 7.41e-04 | 1.58 | 1.88e-10 | 9.38e-09 | 0.2068 | 3.09 | 1.71e-06 | 1.02e-08 | 0.0047 | 7.56e-08 | 0.0016 | 0.0163 | 0.3872 |
-| 330 | 0.0070 | 3.54 | 18.55 | 6.54e-04 | 1.40 | 1.67e-10 | 8.30e-09 | 0.1823 | 2.74 | 1.52e-06 | 9.04e-09 | 0.0042 | 6.69e-08 | 0.0014 | 0.0144 | 0.3420 |
-| 370 | 0.0062 | 3.16 | 16.55 | 5.83e-04 | 1.25 | 1.51e-10 | 7.41e-09 | 0.1624 | 2.45 | 1.37e-06 | 8.10e-09 | 0.0037 | 5.98e-08 | 0.0013 | 0.0128 | 0.3052 |
-
-> Full data with DQR scores: [impact-scores.csv](impact-scores.csv)
+> Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
 ## Methodology
 
