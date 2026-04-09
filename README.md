@@ -80,17 +80,6 @@ Cross-cutting methodology docs (applicable to all processes):
 - [Capital goods](methodology/capital-goods.md) — Machine amortization approach
 - [Building infrastructure](methodology/building-infrastructure.md) — Building allocation approach
 
-## Data quality
-
-Every dataset includes a Data Quality Rating (DQR) based on the PEF framework. DQR scores are computed across four dimensions:
-
-- **P** -- Precision (measurement quality)
-- **TiR** -- Time representativeness (temporal relevance)
-- **TeR** -- Technological representativeness (technology match)
-- **GR** -- Geographical representativeness (regional relevance)
-
-Scores range from 1 (best) to 5 (worst). The overall DQR is the weighted average of these four dimensions. Datasets with a DQR below 3.0 are considered high quality under PEF guidelines.
-
 ## Background database & pre-calculated scores
 
 If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
