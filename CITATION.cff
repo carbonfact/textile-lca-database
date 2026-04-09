@@ -4,14 +4,22 @@ message: >-
   If you use this dataset, please cite it using the metadata from this file.
 type: dataset
 authors:
+  - given-names: Vincent
+    family-names: Carrières
+    affiliation: Carbonfact
+    alias: Science Associate
+  - given-names: Kishore
+    family-names: Ganesan
+    affiliation: Carbonfact
+    alias: Textile LCA Expert
   - given-names: Laurent
     family-names: Vandepaer
     affiliation: Carbonfact
-  - given-names: Vincent
-    family-names: Carrieres
+    alias: Textile LCA Expert
+  - given-names: Gustavo
+    family-names: Vieira
     affiliation: Carbonfact
-  - name: Carbonfact Science Team
-    website: https://www.carbonfact.com
+    alias: Textile LCA Expert
 url: https://github.com/carbonfact/textile-lca-database
 repository-code: https://github.com/carbonfact/textile-lca-database
 license: CC-BY-SA-4.0
