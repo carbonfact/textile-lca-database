@@ -7,9 +7,13 @@
 
 ## What is this?
 
-The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes. Carbonfact built this as a transparent, publicly auditable replacement for the closed-source datasets bundled with the EF 3.1 methodology -- enabling anyone to run rigorous textile LCA without paying for proprietary databases.
+The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes. It covers 230 datasets across 4 processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes GHG contribution breakdowns and data quality ratings.
 
-The database contains 230 datasets covering 4 textile processes. All impact scores are calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes full lifecycle inventory data, GHG contribution breakdowns, and data quality ratings, making this the most comprehensive open textile LCA resource available.
+### Background database & pre-calculated scores
+
+The lifecycle inventories in this repository are built on top of **ecoinvent 3.12** as the background database. If you want to run these inventories in an LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA), you will need a valid [ecoinvent license](https://ecoinvent.org/offerings/).
+
+If you simply want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository — no ecoinvent license required. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
 
 ## What's included
 
@@ -104,7 +108,20 @@ We welcome contributions from the LCA community. See [CONTRIBUTING.md](CONTRIBUT
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
 
-You are free to share and adapt this data for any purpose, including commercial use, as long as you give appropriate credit to Carbonfact and distribute any derivative works under the same license.
+### What you can do
+
+- **Use** the data for any purpose, including commercial use — no permission needed.
+- **Share** — copy and redistribute the data in any medium or format.
+- **Adapt** — remix, transform, modify, or build upon the datasets (e.g. improve an inventory, add new exchanges, recalculate with updated characterization factors).
+
+### What you must do
+
+- **Give credit** — cite Carbonfact as the original source (see [Citation](#citation) below). A link to this repository and an indication of any changes you made is sufficient.
+- **ShareAlike** — if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
+
+### What you cannot do
+
+- **Add restrictions** — you may not apply legal terms or technological measures that restrict others from doing anything the license permits.
 
 ## Citation
 
