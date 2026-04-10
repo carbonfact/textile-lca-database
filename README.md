@@ -108,12 +108,21 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ### What you must do
 
-- **Give credit** — cite Carbonfact as the original source (see [Citation](#citation) below). A link to this repository and an indication of any changes you made is sufficient.
+- **Give credit** — You must include the following attribution wherever the data or results derived from it are presented to end users:
+
+  > Data source: [Carbonfact Textile LCA Database](https://github.com/carbonfact/textile-lca-database), CC BY-SA 4.0
+
+  A citation buried in a bibliography, appendix, or "about" page that is not visible alongside the data does not satisfy this requirement. If you display emission factors or impact scores derived from this database, the attribution must appear on the same page or screen.
+
 - **ShareAlike** — if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
 ### What you cannot do
 
 - **Add restrictions** — you may not apply legal terms or technological measures that restrict others from doing anything the license permits.
+
+### Commercial licensing
+
+For companies that need different attribution terms or cannot comply with the ShareAlike requirement, a separate commercial license is available. Contact us at science@carbonfact.com.
 
 ## Citation
 
