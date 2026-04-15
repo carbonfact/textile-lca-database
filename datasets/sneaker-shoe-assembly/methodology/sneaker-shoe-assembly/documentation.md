@@ -68,7 +68,8 @@ Vietnam was selected as the primary scenario because it is the origin of the ava
 
 Across all processes, water was modelled as:
 
-- **water, decarbonised**
+- **water, decarbonised** (primary proxy)
+- **water, deionised** (where process requirements dictate higher purity)
 
 This choice was made to maintain internal consistency and reduce methodological noise until factory- or site-specific industrial water data are available.
 

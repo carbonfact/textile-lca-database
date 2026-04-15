@@ -62,7 +62,7 @@ Stock fit is driven primarily by **electricity** (35%) and **methyl ethyl ketone
 
 Stitching is dominated by **solvents** (methyl ethyl ketone + ethyl acetate = 72%), with electricity playing a minor role (3.4%).
 
-## 7. Limitations and open items
+## 8. Limitations and open items
 
 | Item | Status | Next step |
 |------|--------|-----------|
