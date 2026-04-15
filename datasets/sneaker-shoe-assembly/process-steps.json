@@ -81,8 +81,8 @@
             "sources": [
                 "INTERNAL"
             ],
-            "sourceDetailsInternal": "Name: Assembly Footwear - Process, Location: GLO Database: Assembly Footwear DB, Worksheet: Assembly Footwear DB",
-            "sourceDetailsPublic": "Name: Assembly Footwear - Process, Location: GLO"
+            "sourceDetailsInternal": "Name: Assembly Footwear - Process, Location: VN Database: Assembly Footwear DB, Worksheet: Assembly Footwear DB",
+            "sourceDetailsPublic": "Name: Assembly Footwear - Process, Location: VN"
         },
         "type": "value"
     },
