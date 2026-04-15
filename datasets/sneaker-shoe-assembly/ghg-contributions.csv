@@ -1,4 +1,4 @@
-Activity,Exchange,Amount,Unit,GHG Impact (kgCO2eq/kg),Contribution (%),Total Activity Impact (kgCO2eq/kg)
+Activity,Exchange,Amount,Unit,GHG Impact (kgCO2eq/pair),Contribution (%),Total Activity Impact (kgCO2eq/pair)
 "Sneaker Shoe Assembly, Vietnam electricity","market for electricity, medium voltage",1.4012446428571428,kilowatt hour,0.7197821690631676,48.04853819791596,1.6641292613878578
 "Sneaker Shoe Assembly, Vietnam electricity",market for methyl ethyl ketone,0.040845,kilogram,0.28154148627790315,18.794098324676174,1.6641292613878578
 "Sneaker Shoe Assembly, Vietnam electricity",market for vinyl acetate,0.03025,kilogram,0.13323172106357586,8.893787195408436,1.6641292613878578
