@@ -1,5 +1,5 @@
 {
-    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#GLO@WORLD": {
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/WOMENS_BOOTS#GLO@WORLD": {
         "ACD": {
             "unit": "molH+e/kg",
             "value": 0.005617352626022357
@@ -86,7 +86,7 @@
         },
         "type": "value"
     },
-    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#CN@WORLD": {
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/WOMENS_BOOTS#CN@WORLD": {
         "ACD": {
             "unit": "molH+e/kg",
             "value": 0.0076760270679723155
@@ -173,7 +173,7 @@
         },
         "type": "value"
     },
-    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#IT@WORLD": {
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/WOMENS_BOOTS#IT@WORLD": {
         "ACD": {
             "unit": "molH+e/kg",
             "value": 0.00314791513007312

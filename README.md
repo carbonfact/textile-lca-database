@@ -17,7 +17,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Knitting](datasets/knitting/) | 13 | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
 | [Weaving](datasets/weaving/) | 16 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
-| [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Collective (CN, GLO, IT) | 1 pair / 1 kg |
+| [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Women's Boots (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 
 **Upcoming**
