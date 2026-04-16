@@ -19,6 +19,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
 | [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Women's Boots (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
+| [Natural Rubber](datasets/natural-rubber/) | 4 | STR production (TH, ID, CI, VN) | 1 kg STR |
 
 **Upcoming**
 
@@ -27,7 +28,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 - [ ] Nonwoven Fabric Formation
 - [x] ~~Synthetic PU Leather (DMF-free & DMF-based)~~
 - [ ] Bovine Leather
-- [ ] Natural Rubber (STR Production)
+- [x] ~~Natural Rubber (STR Production)~~
 - [x] ~~Footwear Assembly~~
 - [ ] Use Phase
 
@@ -73,8 +74,9 @@ For a general introduction to the LCA approach, see the [methodology overview](m
 - [Knitting methodology](datasets/knitting/methodology/)
 - [Weaving methodology](datasets/weaving/methodology/)
 - [Dyeing methodology](datasets/dyeing/methodology/)
-- [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Collective)
+- [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Women's Boots)
 - [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
+- [Natural Rubber methodology](datasets/natural-rubber/methodology/)
 
 Cross-cutting methodology docs (applicable to all processes):
 

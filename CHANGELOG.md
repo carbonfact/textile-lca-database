@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Natural Rubber (STR Production): 4 datasets (TH, ID, CI, VN)
+  - Cradle-to-gate with country-specific LUC and peatland drainage emissions
+  - Economic allocation for plantation co-products (17.8% to field coagulum)
 - Women's Boots Assembly: 3 datasets (CN, GLO, IT electricity scenarios)
   - PU/Microfiber Upper + TPR/EVA/Rubber Outsole
   - 3 sub-processes: cutting, stitching, lasting (aggregated loss rate: 1.049)
