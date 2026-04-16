@@ -13,13 +13,13 @@ The top-level activity "Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outs
 
 ```
 Shoe Assembly (top-level, per location)
-├── Cutting (IOR = 1.038)  ×  1.010024  [= 1.038 × (1.006 × 1.004) / (1.006 × 1.004) ... cumulative upstream]
+├── Cutting (IOR = 1.0382)  ×  1.010024  [= 1.0382 × (1.006 × 1.004) / (1.006 × 1.004) ... cumulative upstream]
 ├── Stitching (IOR = 1.006)  ×  1.004000
 ├── Lasting (IOR = 1.004)  ×  1.000000
 └── Waste: market for waste yarn and waste textile  ×  -0.048607 kg
 ```
 
-The aggregated input/output ratio is 1.038 × 1.006 × 1.004 = **1.048607**.
+The aggregated input/output ratio is 1.0382 × 1.006 × 1.004 = **1.048607**.
 
 ## 3. Key exchanges (top-level activity)
 

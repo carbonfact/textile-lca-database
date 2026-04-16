@@ -10,7 +10,7 @@ This process category covers collective shoe assembly — the process-level oper
 
 The database was developed based on primary data from a shoe manufacturer in Wenzhou, China, using a modular approach by process and chemical families. Chemical sub-processes (stitching glue, primer, surface cleaner, oil paint) were modeled from MSDS/SDS documents.
 
-Lasting dominates the GHG impact across all scenarios (82–86%), driven by PU adhesive, primer chemicals, and electricity consumption. The aggregated material loss rate (input/output ratio) is 1.049, reflecting cumulative wastage across cutting (IOR=1.038), stitching (IOR=1.006), and lasting (IOR=1.004).
+Lasting dominates the GHG impact across all scenarios (82–86%), driven by PU adhesive, primer chemicals, and electricity consumption. The aggregated material loss rate (input/output ratio) is 1.049, reflecting cumulative wastage across cutting (IOR=1.0382), stitching (IOR=1.006), and lasting (IOR=1.004).
 
 ## Datasets
 

@@ -6,7 +6,7 @@ This dataset models the assembly of women's boots with PU/microfiber upper and T
 
 ### 1.1 Cutting
 
-Fabric cutting with oil paint printing for pattern marking. The cutting step has an input/output ratio of 1.038, meaning 1.038 kg of input material is needed per 1 kg of cut output, with 0.038 kg of textile waste generated.
+Fabric cutting with oil paint printing for pattern marking. The cutting step has an input/output ratio of 1.0382, meaning 1.0382 kg of input material is needed per 1 kg of cut output, with 0.0382 kg of textile waste generated.
 
 ### 1.2 Stitching
 
