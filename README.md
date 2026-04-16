@@ -1,7 +1,7 @@
 # Carbonfact Textile LCA Database
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
 
 **The open-source reference database for textile lifecycle assessment.**
 
@@ -17,17 +17,18 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Knitting](datasets/knitting/) | 13 | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
 | [Weaving](datasets/weaving/) | 16 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
+| [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Collective (CN, GLO, IT) | 1 pair / 1 kg |
+| [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 
 **Upcoming**
 
 - [ ] Printing
 - [ ] Fabric Finishing
 - [ ] Nonwoven Fabric Formation
-- [ ] Synthetic PU Leather (DMF-free & DMF-based)
+- [x] ~~Synthetic PU Leather (DMF-free & DMF-based)~~
 - [ ] Bovine Leather
 - [ ] Natural Rubber (STR Production)
-- [ ] Footwear Assembly
-- [ ] Snowboard Binding Assembly
+- [x] ~~Footwear Assembly~~
 - [ ] Use Phase
 
 ## Data files
@@ -72,6 +73,8 @@ For a general introduction to the LCA approach, see the [methodology overview](m
 - [Knitting methodology](datasets/knitting/methodology/)
 - [Weaving methodology](datasets/weaving/methodology/)
 - [Dyeing methodology](datasets/dyeing/methodology/)
+- [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Collective)
+- [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
 
 Cross-cutting methodology docs (applicable to all processes):
 
@@ -108,11 +111,11 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ### What you must do
 
-- **Give credit** — You must include the following attribution wherever the data or results derived from it are presented to end users:
+- **Give credit** — You must include the following attribution when sharing or using the data:
 
   > Data source: [Carbonfact Textile LCA Database](https://github.com/carbonfact/textile-lca-database), CC BY-SA 4.0
 
-  A citation buried in a bibliography, appendix, or "about" page that is not visible alongside the data does not satisfy this requirement. If you display emission factors or impact scores derived from this database, the attribution must appear on the same page or screen.
+  We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
 
 - **ShareAlike** — if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
@@ -133,7 +136,7 @@ If you use this database in your work, please cite it as:
   title     = {Carbonfact Textile LCA Database},
   author    = {Carrières, Vincent and Ganesan, Kishore and Vandepaer, Laurent and Vieira, Gustavo},
   year      = {2026},
-  version   = {1.0.0},
+  version   = {1.1.0},
   url       = {https://github.com/carbonfact/textile-lca-database},
   license   = {CC-BY-SA-4.0}
 }
