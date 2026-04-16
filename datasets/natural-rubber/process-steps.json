@@ -1,0 +1,346 @@
+{
+    "MATERIAL:NATURAL_RUBBER/STR#ANY@TH": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.014276024251417389
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 37.205628745329
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 20.87082467817683
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0007365549029505392
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 2.986460751367609
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.6910658566205424e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.0035694661932781e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.04682584847901286
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 8.944010137003467
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.1216200119507247e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.2626153972328888e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.02025677305032279
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 9.93995300343292e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0047013063227423525
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.05119430108048144
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.9591281028669625
+        },
+        "dqr": {
+            "ger": null,
+            "p": null,
+            "ter": null,
+            "tir": null,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.0,
+        "source": {
+            "sourceDetailsInternal": "STR production, Location: TH, Database: rubberdb",
+            "sourceDetailsPublic": "STR production [TH]",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL:NATURAL_RUBBER/STR#ANY@ID": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.017687431053650993
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 42.91180457660249
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 24.293368661006575
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0011862450938903949
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 6.592969617731839
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 4.474821026239265e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 1.217057559013476e-07
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.054603935968066196
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 10.361196758564237
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.5344039160730187e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 2.662007395262301e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.024516777978883478
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.352018273569733e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.005721797057269707
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.06246182920333363
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 1.170144806284288
+        },
+        "dqr": {
+            "ger": null,
+            "p": null,
+            "ter": null,
+            "tir": null,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.0,
+        "source": {
+            "sourceDetailsInternal": "STR production, Location: ID, Database: rubberdb",
+            "sourceDetailsPublic": "STR production [ID]",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL:NATURAL_RUBBER/STR#ANY@CI": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.010581051716521411
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 30.10702856746384
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 16.804994175902554
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0005281097595110212
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 5.360121846368074
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 2.6850275112599632e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.399703325476072e-08
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.03637706125822678
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 7.080377692139651
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.5724216021363758e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.6740875954413633e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.015214761280085785
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 7.554795045373862e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.003617518681015989
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.038389847279758846
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.6985535243158021
+        },
+        "dqr": {
+            "ger": null,
+            "p": null,
+            "ter": null,
+            "tir": null,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.0,
+        "source": {
+            "sourceDetailsInternal": "STR production, Location: CI, Database: rubberdb",
+            "sourceDetailsPublic": "STR production [CI]",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    },
+    "MATERIAL:NATURAL_RUBBER/STR#ANY@VN": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.013146980148571357
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 33.57732764815388
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 17.91342095287358
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0006411629489614363
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 3.7446226527642144
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.1820337851607537e-09
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 8.725264313262305e-08
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.04151347324116038
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 8.183558422631872
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 1.8409549896587174e-05
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 1.9350049452228165e-07
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.01781771417705905
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 8.825958324148972e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.004222665269236758
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.04552641107957431
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.8198448954371101
+        },
+        "dqr": {
+            "ger": null,
+            "p": null,
+            "ter": null,
+            "tir": null,
+            "source": "INTERNAL"
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.0,
+        "source": {
+            "sourceDetailsInternal": "STR production, Location: VN, Database: rubberdb",
+            "sourceDetailsPublic": "STR production [VN]",
+            "sources": [
+                "CARBONFACT_SCIENCE"
+            ]
+        },
+        "type": "value"
+    }
+}

@@ -9,8 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Collective Shoe Assembly: 3 datasets (CN, GLO, IT electricity scenarios)
-  - Women's boots assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole)
+- Natural Rubber (STR Production): 4 datasets (TH, ID, CI, VN)
+  - Cradle-to-gate with country-specific LUC and peatland drainage emissions
+  - Economic allocation for plantation co-products (17.8% to field coagulum)
+- Women's Boots Assembly: 3 datasets (CN, GLO, IT electricity scenarios)
+  - PU/Microfiber Upper + TPR/EVA/Rubber Outsole
   - 3 sub-processes: cutting, stitching, lasting (aggregated loss rate: 1.049)
 - Sneaker Shoe Assembly: 2 datasets (VN and GLO electricity scenarios)
 - Synthetic PU Leather: 2 datasets (DMF-free water-borne, DMF-based solvent-based)
@@ -21,7 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Restructured footwear assembly into `datasets/shoe-assembly/` with `sneaker/` and `collective/` subfolders (previously `datasets/sneaker-shoe-assembly/`)
+- Restructured footwear assembly into `datasets/shoe-assembly/` with `sneaker/` and `womens-boots/` subfolders (previously `datasets/sneaker-shoe-assembly/`)
 
 ## [1.0.0] - 2026-04-08
 
