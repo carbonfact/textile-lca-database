@@ -23,6 +23,10 @@ The DMF-based process shows ~1.9x higher climate change impact (37.0 vs 19.5 kgC
 
 Detailed methodology documentation: [methodology/](methodology/)
 
+## Credits
+
+This dataset was produced by **Piltan Gundogan**.
+
 ## Data Files
 
 | File | Description |
