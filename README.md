@@ -1,7 +1,7 @@
 # Carbonfact Textile LCA Database
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
 
 **The open-source reference database for textile lifecycle assessment.**
 
@@ -18,13 +18,14 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Weaving](datasets/weaving/) | 16 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
 | [Sneaker Shoe Assembly](datasets/sneaker-shoe-assembly/) | 2 | VN and GLO electricity scenarios | 1 pair of footwear |
+| [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 
 **Upcoming**
 
 - [ ] Printing
 - [ ] Fabric Finishing
 - [ ] Nonwoven Fabric Formation
-- [ ] Synthetic PU Leather (DMF-free & DMF-based)
+- [x] ~~Synthetic PU Leather (DMF-free & DMF-based)~~
 - [ ] Bovine Leather
 - [ ] Natural Rubber (STR Production)
 - [x] ~~Footwear Assembly~~
@@ -74,6 +75,7 @@ For a general introduction to the LCA approach, see the [methodology overview](m
 - [Weaving methodology](datasets/weaving/methodology/)
 - [Dyeing methodology](datasets/dyeing/methodology/)
 - [Sneaker Shoe Assembly methodology](datasets/sneaker-shoe-assembly/methodology/)
+- [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
 
 Cross-cutting methodology docs (applicable to all processes):
 
@@ -135,7 +137,7 @@ If you use this database in your work, please cite it as:
   title     = {Carbonfact Textile LCA Database},
   author    = {Carrières, Vincent and Ganesan, Kishore and Vandepaer, Laurent and Vieira, Gustavo},
   year      = {2026},
-  version   = {1.0.0},
+  version   = {1.1.0},
   url       = {https://github.com/carbonfact/textile-lca-database},
   license   = {CC-BY-SA-4.0}
 }
