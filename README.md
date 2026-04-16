@@ -17,7 +17,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Knitting](datasets/knitting/) | 13 | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
 | [Weaving](datasets/weaving/) | 16 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
-| [Sneaker Shoe Assembly](datasets/sneaker-shoe-assembly/) | 2 | VN and GLO electricity scenarios | 1 pair of footwear |
+| [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Collective (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 
 **Upcoming**
@@ -73,7 +73,7 @@ For a general introduction to the LCA approach, see the [methodology overview](m
 - [Knitting methodology](datasets/knitting/methodology/)
 - [Weaving methodology](datasets/weaving/methodology/)
 - [Dyeing methodology](datasets/dyeing/methodology/)
-- [Sneaker Shoe Assembly methodology](datasets/sneaker-shoe-assembly/methodology/)
+- [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Collective)
 - [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
 
 Cross-cutting methodology docs (applicable to all processes):

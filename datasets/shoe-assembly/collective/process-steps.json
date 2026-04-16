@@ -1,0 +1,263 @@
+{
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#GLO@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.005617352626022357
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 7.112729233114929
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 16.860719827505953
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0004846960030121583
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 1.2024962619408195
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 4.0444142668152826e-10
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 7.806442444071592e-09
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.12720596983030363
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 2.4338844422631345
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.924486616243362e-06
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.498183290793905e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.003966183726784602
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 6.732639363183385e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.001702484360083885
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.01241178307316532
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.2825951412403537
+        },
+        "dqr": {
+            "p": 1.31,
+            "tir": 2.15,
+            "ter": 2.15,
+            "ger": 2.15,
+            "source": "INTERNAL",
+            "comments": "PEF DQR (GHG-weighted). Top contributors scored: Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots. Others default to 3."
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.048607,
+        "source": {
+            "sources": [
+                "INTERNAL"
+            ],
+            "sourceDetailsInternal": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: GLO Database: shoe assembly collective, Worksheet: refined",
+            "sourceDetailsPublic": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: GLO"
+        },
+        "type": "value"
+    },
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#CN@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.0076760270679723155
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 8.340501546739912
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 16.884164774564095
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.0002676184876585405
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 1.4253286353093673
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.9807560805709685e-10
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 9.040183122881916e-09
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.06058679440173283
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 3.077421108508153
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 2.889730074570637e-06
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 3.1900975180295507e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.005197704097915807
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 1.1758021583663462e-07
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0021714389283926543
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.017999989896504816
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.2053263854920289
+        },
+        "dqr": {
+            "p": 1.29,
+            "tir": 2.14,
+            "ter": 2.14,
+            "ger": 2.14,
+            "source": "INTERNAL",
+            "comments": "PEF DQR (GHG-weighted). Top contributors scored: Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots. Others default to 3."
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.048607,
+        "source": {
+            "sources": [
+                "INTERNAL"
+            ],
+            "sourceDetailsInternal": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: CN Database: shoe assembly collective, Worksheet: refined",
+            "sourceDetailsPublic": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: CN"
+        },
+        "type": "value"
+    },
+    "PRODUCT_PROCESS_STEP:FOOTWEAR_ASSEMBLY/COLLECTIVE_SHOE#IT@WORLD": {
+        "ACD": {
+            "unit": "molH+e/kg",
+            "value": 0.00314791513007312
+        },
+        "ETF": {
+            "unit": "CTUe/kg",
+            "value": 5.633844471158574
+        },
+        "FRU": {
+            "unit": "MJ/kg",
+            "value": 13.852955926162892
+        },
+        "FWE": {
+            "unit": "kgPe/kg",
+            "value": 0.00021821350500736867
+        },
+        "GHG": {
+            "unit": "kgCO2eq/kg",
+            "value": 0.8553406525698066
+        },
+        "HTC": {
+            "unit": "CTUhtc/kg",
+            "value": 3.7269810153305563e-10
+        },
+        "HTN": {
+            "unit": "CTUhtn/kg",
+            "value": 4.793118080653927e-09
+        },
+        "IOR": {
+            "unit": "kBqU235e/kg",
+            "value": 0.07697975964011156
+        },
+        "LDU": {
+            "unit": "Pt/kg",
+            "value": 2.038716614015849
+        },
+        "MRU": {
+            "unit": "kgSbe/kg",
+            "value": 3.0585204792977205e-06
+        },
+        "OZD": {
+            "unit": "kgCFC11e/kg",
+            "value": 4.2318880123685403e-08
+        },
+        "PCO": {
+            "unit": "kgNMVOCe/kg",
+            "value": 0.0027101630122388478
+        },
+        "PMA": {
+            "unit": "dis.inc./kg",
+            "value": 3.2250643352961135e-08
+        },
+        "SWE": {
+            "unit": "kgNe/kg",
+            "value": 0.0011521963255079174
+        },
+        "TRE": {
+            "unit": "molNe/kg",
+            "value": 0.007019873072399171
+        },
+        "WTU": {
+            "unit": "m3Weq/kg",
+            "value": 0.3049817104997747
+        },
+        "dqr": {
+            "p": 1.36,
+            "tir": 2.18,
+            "ter": 2.18,
+            "ger": 2.18,
+            "source": "INTERNAL",
+            "comments": "PEF DQR (GHG-weighted). Top contributors scored: Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots. Others default to 3."
+        },
+        "energyShare": {
+            "electricity": 0.0,
+            "heat": 0.0
+        },
+        "inputOutputRatio": 1.048607,
+        "source": {
+            "sources": [
+                "INTERNAL"
+            ],
+            "sourceDetailsInternal": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: IT Database: shoe assembly collective, Worksheet: refined",
+            "sourceDetailsPublic": "Name: Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots, Location: IT"
+        },
+        "type": "value"
+    }
+}
