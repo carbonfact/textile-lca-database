@@ -29,7 +29,6 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 - [ ] Bovine Leather
 - [ ] Natural Rubber (STR Production)
 - [x] ~~Footwear Assembly~~
-- [ ] Snowboard Binding Assembly
 - [ ] Use Phase
 
 ## Data files
@@ -112,11 +111,11 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ### What you must do
 
-- **Give credit** — You must include the following attribution wherever the data or results derived from it are presented to end users:
+- **Give credit** — You must include the following attribution when sharing or using the data:
 
   > Data source: [Carbonfact Textile LCA Database](https://github.com/carbonfact/textile-lca-database), CC BY-SA 4.0
 
-  A citation buried in a bibliography, appendix, or "about" page that is not visible alongside the data does not satisfy this requirement. If you display emission factors or impact scores derived from this database, the attribution must appear on the same page or screen.
+  We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
 
 - **ShareAlike** — if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
