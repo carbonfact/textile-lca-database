@@ -25,7 +25,7 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 ## Credits
 
-This dataset was produced by **Piltan Gundogan**.
+A first version of this dataset was prepared by **Piltan Gundogan**.
 
 ## Data Files
 

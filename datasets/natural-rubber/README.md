@@ -14,7 +14,7 @@ Key GHG drivers vary significantly by country: LUC dominates in CI (68%) and VN 
 
 ## Credits
 
-This dataset was produced by **Simone Roncin**.
+A first version of this dataset was prepared by **Simone Cornago**.
 
 ## Datasets
 
