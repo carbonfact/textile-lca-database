@@ -34,13 +34,12 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 
 ## Data files
 
-Each process directory contains 4 files:
+Each process directory contains 3 files:
 
 | File | Description |
 |------|-------------|
 | `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes the **Input required (kg)** loss factor — the amount of input material needed to produce 1 kg of output (e.g., 1.18 means you need 1.18 kg of input per 1 kg of output). Multiply your upstream material impact by this factor to account for process losses. This is the primary results file. |
 | `ghg-contributions.csv` | Per-exchange GHG contribution analysis showing which inputs and emissions drive the climate change impact of each dataset. |
-| `process-steps.json` | Machine-readable emission factor format. Structured JSON containing process parameters, exchange amounts, and metadata suitable for programmatic use. |
 | `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
 
 ## Impact indicators
