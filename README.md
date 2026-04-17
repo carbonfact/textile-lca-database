@@ -135,7 +135,7 @@ If you use this database in your work, please cite it as:
 ```bibtex
 @dataset{carbonfact_textile_lca_2026,
   title     = {Carbonfact Textile LCA Database},
-  author    = {Carrières, Vincent and Ganesan, Kishore and Vandepaer, Laurent and Vieira, Gustavo},
+  author    = {Carrières, Vincent and Vandepaer, Laurent and Vieira, Gustavo},
   year      = {2026},
   version   = {1.1.0},
   url       = {https://github.com/carbonfact/textile-lca-database},
