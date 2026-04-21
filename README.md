@@ -20,6 +20,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Women's Boots (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 | [Natural Rubber](datasets/natural-rubber/) | 4 | STR production (TH, ID, CI, VN) | 1 kg STR |
+| [Use Phase](datasets/use-phase/) | 15 | Dry cleaning, Hand washing, Machine washing (30/40/60°), Tumble drying, Ironing, Detergents | 1 kg textile / 1 min / 1 kg detergent |
 
 **Upcoming**
 
@@ -30,7 +31,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 - [ ] Bovine Leather
 - [x] ~~Natural Rubber (STR Production)~~
 - [x] ~~Footwear Assembly~~
-- [ ] Use Phase
+- [x] ~~Use Phase (Laundry)~~
 
 ## Data files
 
@@ -76,6 +77,7 @@ For a general introduction to the LCA approach, see the [methodology overview](m
 - [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Women's Boots)
 - [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
 - [Natural Rubber methodology](datasets/natural-rubber/methodology/)
+- [Use Phase methodology](datasets/use-phase/methodology/)
 
 Cross-cutting methodology docs (applicable to all processes):
 
