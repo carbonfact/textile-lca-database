@@ -1,0 +1,86 @@
+Activity,Exchange,Amount,Unit,GHG Impact (kgCO2eq/FU),Contribution (%),Total Activity Impact (kgCO2eq/FU)
+Hand wash (liquid),"market group for electricity, low voltage",0.165,kilowatt hour,0.0573468079843376,72.1016560352617,0.0795360483208484
+Hand wash (liquid),liquid detergent,0.0169,kilogram,0.0227385340396532,28.58896628598646,0.0795360483208484
+Hand wash (liquid),market for tap water,7.1,kilogram,0.0021989836436468,2.764763512987407,0.0795360483208484
+Hand wash (liquid),"market for wastewater, average",0.0070995,cubic meter,-0.002748276982181,-3.455385375816697,0.0795360483208484
+Hand wash (powder),powder detergent,0.0196,kilogram,0.0608375959966609,51.71720835988795,0.1176351120371895
+Hand wash (powder),"market group for electricity, low voltage",0.165,kilowatt hour,0.0573468079843376,48.74973720959087,0.1176351120371895
+Hand wash (powder),market for tap water,7.1,kilogram,0.0021989836436468,1.869325922817719,0.1176351120371895
+Hand wash (powder),"market for wastewater, average",0.0070995,cubic meter,-0.002748276982181,-2.336272677933311,0.1176351120371895
+Ironing (1 min),"market group for electricity, low voltage",0.027,kilowatt hour,0.0093840231729277,92.01241761835374,0.0101986486344164
+Ironing (1 min),market for electric kettle,0.0001170039500533,unit,0.0008146252935485,7.987580734956834,0.0101986486344164
+Liquid detergent (1 kg),market for alkyl sulfate (C12-14),0.1038,kilogram,0.3947148217974051,29.33645800051711,1.345475386941558
+Liquid detergent (1 kg),market for non-ionic surfactant,0.0591,kilogram,0.257340357774765,19.12635194016692,1.345475386941558
+Liquid detergent (1 kg),market for citric acid,0.0228,kilogram,0.1276102609099463,9.484399502841976,1.345475386941558
+Liquid detergent (1 kg),"market for polyethylene, linear low density, granulate",0.0466,kilogram,0.1193676677892424,8.871783828062497,1.345475386941558
+Liquid detergent (1 kg),"market for polyethylene, high density, granulate",0.0466,kilogram,0.1117580189392869,8.306210579840299,1.345475386941558
+Liquid detergent (1 kg),"market group for electricity, medium voltage",0.25,kilowatt hour,0.0873767401122318,6.494116574726102,1.345475386941558
+Liquid detergent (1 kg),market for glycerine,0.0285,kilogram,0.0831210102587741,6.177817228430992,1.345475386941558
+Liquid detergent (1 kg),enzymes production,0.0058,kilogram,0.0574858973908918,4.272534298941344,1.345475386941558
+Liquid detergent (1 kg),soap production,0.0241,kilogram,0.0567552864222012,4.218232973492995,1.345475386941558
+Liquid detergent (1 kg),"market for polypropylene, granulate",0.0101,kilogram,0.0236598825615517,1.75847754564532,1.345475386941558
+Liquid detergent (1 kg),"market for sodium hydroxide, without water, in 50% solution state",0.0231,kilogram,0.022803219178013,1.69480760475654,1.345475386941558
+Liquid detergent (1 kg),market for printed paper,0.00126,kilogram,0.0031985587767098,0.2377270374287979,1.345475386941558
+Liquid detergent (1 kg),"market for water, deionised",0.7022,kilogram,0.0002836810076853,0.0210840726213648,1.345475386941558
+Powder detergent (1 kg),"market for zeolite, powder",0.201,kilogram,1.017445853151586,32.77897227045113,3.103958979424048
+Powder detergent (1 kg),"market for sodium perborate, monohydrate, powder",0.087,kilogram,0.3970803372110286,12.79270569757041,3.103958979424048
+Powder detergent (1 kg),market for ethoxylated alcohol (AE7),0.118,kilogram,0.3232939716244426,10.41553621576633,3.103958979424048
+Powder detergent (1 kg),market for citric acid,0.052,kilogram,0.2910409459349652,9.376443047870724,3.103958979424048
+Powder detergent (1 kg),"market group for electricity, medium voltage",0.69,kilowatt hour,0.2411598027027169,7.76942621669134,3.103958979424048
+Powder detergent (1 kg),"market for sodium perborate, tetrahydrate, powder",0.115,kilogram,0.2133909545137796,6.874799439307512,3.103958979424048
+Powder detergent (1 kg),"market for soda ash, dense",0.17,kilogram,0.2108120968713336,6.791716587390296,3.103958979424048
+Powder detergent (1 kg),market for corrugated board box,0.1082,kilogram,0.1121085975293643,3.611793785695149,3.103958979424048
+Powder detergent (1 kg),market for ethoxylated alcohol (AE11),0.02,kilogram,0.0695475596679891,2.240608208066395,3.103958979424048
+Powder detergent (1 kg),"market for layered sodium silicate, SKS-6, powder",0.03,kilogram,0.0606951096754437,1.955409529500481,3.103958979424048
+Powder detergent (1 kg),"polyethylene production, high density, granulate",0.0081,kilogram,0.0191908966368095,0.618271593278932,3.103958979424048
+Powder detergent (1 kg),market for kraft paper,0.0217,kilogram,0.0120792255532545,0.3891554506141015,3.103958979424048
+Powder detergent (1 kg),"market for sodium sulfate, anhydrite",0.004,kilogram,0.003068725588862,0.0988648886536335,3.103958979424048
+Powder detergent (1 kg),"market for water, completely softened",0.142,kilogram,4.487827700049802e-05,0.0014458398869957,3.103958979424048
+"Tumble dry (cotton, closet dry)","market group for electricity, low voltage",0.3582,kilowatt hour,0.1244947071536604,79.79673434006,0.1560147895565707
+"Tumble dry (cotton, closet dry)",market for dryer,0.0001216216216216,unit,0.026466405877701,16.9640365204636,0.1560147895565707
+"Tumble dry (cotton, closet dry)","market group for electricity, low voltage",0.0145405933277027,kilowatt hour,0.0050536764674414,3.239229102449287,0.1560147895565707
+"Tumble dry (cotton, iron dry)","market group for electricity, low voltage",0.2718,kilowatt hour,0.0944658337184005,74.98126588774198,0.1259859147481317
+"Tumble dry (cotton, iron dry)",market for dryer,0.0001216216216216,unit,0.026466405877701,21.00743240275085,0.1259859147481317
+"Tumble dry (cotton, iron dry)","market group for electricity, low voltage",0.0145405933277027,kilowatt hour,0.0050536764674414,4.011302753601185,0.1259859147481317
+"Tumble dry (synthetics, closet dry)","market group for electricity, low voltage",0.2892857142857143,kilowatt hour,0.1005431046800172,75.99412331858471,0.1323037891476392
+"Tumble dry (synthetics, closet dry)",market for dryer,0.0001227272727272,unit,0.0267070095631452,20.18612598717229,0.1323037891476392
+"Tumble dry (synthetics, closet dry)","market group for electricity, low voltage",0.0145405933277027,kilowatt hour,0.0050536764674414,3.819751875588383,0.1323037891476392
+Machine 30° (liquid),"market group for electricity, low voltage",0.1869158878504673,kilowatt hour,0.0649638155613832,56.22738133309265,0.1155376864814951
+Machine 30° (liquid),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,25.93772898410467,0.1155376864814951
+Machine 30° (liquid),liquid detergent,0.0169,kilogram,0.0227385340396532,19.6806208710914,0.1155376864814951
+Machine 30° (liquid),market for tap water,37.3831775700934,kilogram,0.0115781765041151,10.02112544980688,0.1155376864814951
+Machine 30° (liquid),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.5578639978776809,0.1155376864814951
+Machine 30° (liquid),"market for wastewater, average",0.0370831775700934,cubic meter,-0.0143552142183397,-12.42470284415716,0.1155376864814951
+Machine 30° (powder),"market group for electricity, low voltage",0.1869158878504673,kilowatt hour,0.0649638155613832,42.31598807471678,0.1535207341647736
+Machine 30° (powder),powder detergent,0.0196,kilogram,0.0608375959966609,39.62826020058243,0.1535207341647736
+Machine 30° (powder),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,19.52039387846483,0.1535207341647736
+Machine 30° (powder),market for tap water,37.3831775700934,kilogram,0.0115781765041151,7.541767284468778,0.1535207341647736
+Machine 30° (powder),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.4198411116046787,0.1535207341647736
+Machine 30° (powder),"market for wastewater, average",0.0373828775700934,cubic meter,-0.0144712306540752,-9.426238568233568,0.1535207341647736
+Machine 40° (liquid),"market group for electricity, low voltage",0.2693602693602694,kilowatt hour,0.0936178885806668,64.38402224013247,0.1454054675731521
+Machine 40° (liquid),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,20.60985222512227,0.1454054675731521
+Machine 40° (liquid),liquid detergent,0.0169,kilogram,0.0227385340396532,15.63801858290763,0.1454054675731521
+Machine 40° (liquid),market for tap water,20.2020202020202,kilogram,0.0062568807839367,4.30305743543584,0.1454054675731521
+Machine 40° (liquid),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.4432729852725694,0.1454054675731521
+Machine 40° (liquid),"market for wastewater, average",0.0202016702020202,cubic meter,-0.0078202387771727,-5.378228829832981,0.1454054675731521
+Machine 40° (powder),"market group for electricity, low voltage",0.2693602693602694,kilowatt hour,0.0936178885806668,51.01666328292958,0.1835045307872807
+Machine 40° (powder),powder detergent,0.0196,kilogram,0.0608375959966609,33.15318468467907,0.1835045307872807
+Machine 40° (powder),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,16.33085126863358,0.1835045307872807
+Machine 40° (powder),market for tap water,20.2020202020202,kilogram,0.0062568807839367,3.409660108714033,0.1835045307872807
+Machine 40° (powder),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.3512410042933526,0.1835045307872807
+Machine 40° (powder),"market for wastewater, average",0.0202016702020202,cubic meter,-0.0078202387771727,-4.261605282235767,0.1835045307872807
+Machine 60° (liquid),"market group for electricity, low voltage",0.2389705882352941,kilowatt hour,0.0830557608529261,61.32342277948632,0.135438886298939
+Machine 60° (liquid),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,22.12647549975424,0.135438886298939
+Machine 60° (liquid),liquid detergent,0.0169,kilogram,0.0227385340396532,16.7887780688517,0.135438886298939
+Machine 60° (liquid),market for tap water,14.7058823529411,kilogram,0.0045546521908987,3.362883670532956,0.135438886298939
+Machine 60° (liquid),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.4758922451846081,0.135438886298939
+Machine 60° (liquid),"market for wastewater, average",0.0142658823529411,cubic meter,-0.0055224446932263,-4.077443963203674,0.135438886298939
+Machine 60° (powder),"market group for electricity, low voltage",0.2389705882352941,kilowatt hour,0.0830557608529261,47.8602869350693,0.1735379500871057
+Machine 60° (powder),powder detergent,0.0196,kilogram,0.0608375959966609,35.05722867310816,0.1735379500871057
+Machine 60° (powder),market for washing machine,7.67813267813267e-05,unit,0.0299678519940747,17.26875993350887,0.1735379500871057
+Machine 60° (powder),market for tap water,14.7058823529411,kilogram,0.0045546521908987,2.62458568204393,0.1735379500871057
+Machine 60° (powder),"market group for electricity, low voltage",0.0018544993857493,kilowatt hour,0.000644543156861,0.3714133747330352,0.1735379500871057
+Machine 60° (powder),"market for wastewater, average",0.0142658823529411,cubic meter,-0.0055224446932263,-3.182269175390419,0.1735379500871057
+Dry cleaning,"market group for electricity, medium voltage",0.5860000000000001,kilowatt hour,0.2083952022596051,80.26164189813193,0.2596448282532026
+Dry cleaning,tetrachloroethylene production,0.0307,kilogram,0.1265747562589789,48.74919216012448,0.2596448282532026
+Dry cleaning,"market for hazardous waste, for incineration",0.0307,kilogram,-0.0753251391131877,-29.01083746591383,0.2596448282532026
