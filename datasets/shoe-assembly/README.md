@@ -24,6 +24,6 @@
 
 | Activity | GHG (kgCO2eq/kg) | Input required (kg) |
 |----------|------------------:|--------------------:|
-| Women's Boots Assembly, Global average electricity | 1.20 | 1.049 |
-| Women's Boots Assembly, China electricity | 1.43 | 1.049 |
-| Women's Boots Assembly, Italy electricity | 0.86 | 1.049 |
+| Women's Boots Assembly, Global average electricity | 1.15 | 1.049 |
+| Women's Boots Assembly, China electricity | 1.38 | 1.049 |
+| Women's Boots Assembly, Italy electricity | 0.81 | 1.049 |
