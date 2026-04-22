@@ -10,24 +10,26 @@ This process category covers weaving — the interlacing of warp and weft yarns 
 
 ## Datasets
 
-| Activity | GHG (kgCO2eq/kg) |
-|----------|------------------:|
-| weaving of carpet production, at plant Carpet, Weaved | 5.90 |
-| weaving of primary backing service, Backing fabric, weaved production mix, at plant service, Backing fabric, weaved | 1.49 |
-| weaving, 120 dtex-108 denier-49/1 ne-83 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 9.10 |
-| weaving, 150 dtex-135 denier-40/1 ne-67 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 7.59 |
-| weaving, 170 dtex-153 denier-34/1 ne-59 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.89 |
-| weaving, 200 dtex-180 denier-30/1 ne-50 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.09 |
-| weaving, 300 dtex-270 denier-20/1 ne-33 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.62 |
-| weaving, 330 dtex-297 denier-18/1 ne-30 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.36 |
-| weaving, 370 dtex-333 denier-16/1 ne-27 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.08 |
-| weaving, 45 dtex-41 denier- 130/1 ne-222 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 21.69 |
-| weaving, 70 dtex-63 denier-84/1 ne-143 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 14.50 |
-| weaving, generic water-jet service, Fabric,Weaved water-jet loom production mix, at plant service, Fabric,Weaved water-jet loom | 3.60 |
-| weaving, jacquard service, Fabric, Weaved by jacquard loom production mix, at plant service, Fabric, Weaved by jacquard loom | 9.40 |
-| weaving, rapier service, Fabric, Weaved by rapier loom production mix, at plant service, Fabric, Weaved by rapier loom | 8.59 |
-| weaving, shuttle service, Fabric, Weaved by shuttle loom production mix, at plant service, Fabric, Weaved by shuttle loom | 6.82 |
-| weaving, silk service, Fabric, Silk production mix, at plant service, Fabric, Silk | 10.84 |
+Yarn IOR (Input-Output Ratio) is the kg of input yarn required per 1 kg of finished woven fabric, accounting for loom-specific yarn losses. Callers scale the upstream yarn input by this factor. See [methodology](methodology/) §3.2.3 for derivation.
+
+| Activity | GHG (kgCO2eq/kg) | Yarn IOR (kg/kg) |
+|----------|------------------:|------------------:|
+| weaving of carpet production, at plant Carpet, Weaved | 5.90 | 1.136363636 |
+| weaving of primary backing service, Backing fabric, weaved production mix, at plant service, Backing fabric, weaved | 1.49 | 1.136363636 |
+| weaving, 120 dtex-108 denier-49/1 ne-83 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 9.10 | 1.063829787 |
+| weaving, 150 dtex-135 denier-40/1 ne-67 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 7.59 | 1.063829787 |
+| weaving, 170 dtex-153 denier-34/1 ne-59 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.89 | 1.063829787 |
+| weaving, 200 dtex-180 denier-30/1 ne-50 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 6.09 | 1.063829787 |
+| weaving, 300 dtex-270 denier-20/1 ne-33 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.62 | 1.063829787 |
+| weaving, 330 dtex-297 denier-18/1 ne-30 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.36 | 1.063829787 |
+| weaving, 370 dtex-333 denier-16/1 ne-27 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 4.08 | 1.063829787 |
+| weaving, 45 dtex-41 denier- 130/1 ne-222 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 21.69 | 1.063829787 |
+| weaving, 70 dtex-63 denier-84/1 ne-143 nm service, Fabric, Weaved production, at plant service, Fabric, Weaved | 14.50 | 1.063829787 |
+| weaving, generic water-jet service, Fabric,Weaved water-jet loom production mix, at plant service, Fabric,Weaved water-jet loom | 3.60 | 1.041666667 |
+| weaving, jacquard service, Fabric, Weaved by jacquard loom production mix, at plant service, Fabric, Weaved by jacquard loom | 9.40 | 1.098901099 |
+| weaving, rapier service, Fabric, Weaved by rapier loom production mix, at plant service, Fabric, Weaved by rapier loom | 8.59 | 1.075268817 |
+| weaving, shuttle service, Fabric, Weaved by shuttle loom production mix, at plant service, Fabric, Weaved by shuttle loom | 6.82 | 1.136363636 |
+| weaving, silk service, Fabric, Silk production mix, at plant service, Fabric, Silk | 10.84 | 1.063829787 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
@@ -39,6 +41,6 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 | File | Description |
 |------|-------------|
-| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores |
+| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + yarn IOR |
 | [ghg-contributions.csv](ghg-contributions.csv) | Per-exchange GHG contribution analysis |
 | [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |
