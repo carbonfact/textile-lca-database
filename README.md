@@ -33,6 +33,9 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 - [ ] Printing
 - [ ] Fabric Finishing
 - [ ] Nonwoven Fabric Formation
+- [ ] Viscose
+- [ ] Apparel Assembly
+- [ ] Dyeing and Printing Chemicals
 - [x] ~~Synthetic PU Leather (DMF-free & DMF-based)~~
 - [ ] Bovine Leather
 - [x] ~~Natural Rubber (STR Production)~~
