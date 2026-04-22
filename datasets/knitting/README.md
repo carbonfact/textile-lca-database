@@ -26,7 +26,7 @@ Yarn IOR (Input-Output Ratio) is the kg of input yarn required per 1 kg of finis
 | Circular Knitting, 70 dtex | 3.48 | 1.052631579 |
 | Flat Knitting, Average | 3.97 | 1.030927835 |
 | Hosiery Knitting, Average | 3.96 | 1.020408163 |
-| Seamless Knitting, Average | 4.14 | 1.025641026 |
+| Seamless Knitting, Average | 4.15 | 1.025641026 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
