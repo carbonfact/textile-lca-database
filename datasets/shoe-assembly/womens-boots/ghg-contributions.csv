@@ -1,13 +1,10 @@
 Activity,Exchange,Amount,Unit,GHG Impact (kgCO2eq/kg),Contribution (%),Total Activity Impact (kgCO2eq/kg)
-"Women's Boots Assembly, Global average electricity","Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.000000,unit,1.016563,84.537724,1.202496
-"Women's Boots Assembly, Global average electricity","Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.004000,unit,0.076162,6.333673,1.202496
-"Women's Boots Assembly, Global average electricity","Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.010024,unit,0.061311,5.098679,1.202496
-"Women's Boots Assembly, Global average electricity","market for waste yarn and waste textile",-0.048607,kilogram,0.048460,4.029925,1.202496
-"Women's Boots Assembly, China electricity","Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.000000,unit,1.219046,85.527345,1.425329
-"Women's Boots Assembly, China electricity","Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.004000,unit,0.093103,6.532054,1.425329
-"Women's Boots Assembly, China electricity","Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.010024,unit,0.064720,4.540705,1.425329
-"Women's Boots Assembly, China electricity","market for waste yarn and waste textile",-0.048607,kilogram,0.048460,3.399896,1.425329
-"Women's Boots Assembly, Italy electricity","Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.000000,unit,0.701110,81.968565,0.855341
-"Women's Boots Assembly, Italy electricity","Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.010024,unit,0.056001,6.547237,0.855341
-"Women's Boots Assembly, Italy electricity","Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots",1.004000,unit,0.049769,5.818655,0.855341
-"Women's Boots Assembly, Italy electricity","market for waste yarn and waste textile",-0.048607,kilogram,0.048460,5.665543,0.855341
+"Women's Boots Assembly, Global average electricity",Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.0,unit,1.0165629733261752,88.08758701792986,1.1540365762536529
+"Women's Boots Assembly, Global average electricity",Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.004,unit,0.0761621778188258,6.599632922040563,1.1540365762536529
+"Women's Boots Assembly, Global average electricity",Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.010024,unit,0.0613114251086519,5.312780060029562,1.1540365762536529
+"Women's Boots Assembly, China electricity",Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.0,unit,1.219045751650294,88.53752916672266,1.3768689539039893
+"Women's Boots Assembly, China electricity",Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.004,unit,0.0931032363079425,6.761953346682452,1.3768689539039893
+"Women's Boots Assembly, China electricity",Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.010024,unit,0.064719965945753,4.700517486594884,1.3768689539039893
+"Women's Boots Assembly, Italy electricity",Lasting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.0,unit,0.701110465084955,86.89143686040207,0.80688096597061
+"Women's Boots Assembly, Italy electricity",Cutting – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.010024,unit,0.0560011820387926,6.94045149168043,0.80688096597061
+"Women's Boots Assembly, Italy electricity",Stitching – Shoe Assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) – Women's Boots,1.004,unit,0.0497693188468624,6.168111647917495,0.80688096597061
