@@ -5,6 +5,12 @@
 
 **The open-source reference database for textile lifecycle assessment.**
 
+> ⚠️ **Soft release.** This is an initial release shared with a small group of practitioners in the field to gather feedback from the LCA and textile communities before communicating more openly. Datasets, methodology, and documentation may still evolve over the coming weeks based on the feedback we receive — please treat version numbers below `1.x` as preview and check the [changelog](CHANGELOG.md) before re-using results across releases.
+>
+> In particular, the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) is a key secondary data source for several process datasets (notably dyeing, and wet-processing energy/water more broadly). The Aii benchmark itself is actively being updated, and we plan to refresh the affected Carbonfact datasets as new Aii releases become available.
+>
+> If you spot something worth improving or have data to contribute, see the [Contributing](#contributing) section below — we'd love to hear from you.
+
 ## What is this?
 
 The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes GHG contribution breakdowns and data quality ratings.
@@ -100,7 +106,14 @@ See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
 ## Contributing
 
-We welcome contributions from the LCA community. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting data errors, requesting new datasets, proposing methodology improvements, and contributing data.
+We welcome contributions from the LCA and textile communities. See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines; in short, here's what we're actively looking for:
+
+- **Report data errors or methodology issues** — open an [issue](https://github.com/carbonfact/textile-lca-database/issues) or start a [discussion](https://github.com/carbonfact/textile-lca-database/discussions).
+- **Submit a new dataset** — if you've modelled a process that fits the scope (textile manufacturing or use phase), open a PR following the structure of an existing process folder.
+- **Point us at a good non-LCA source** — if you don't have an LCI but know of a solid technical reference (industry benchmark, academic paper, supplier disclosure) for a process we don't yet cover, get in touch and we can talk about modelling it together.
+- **Suppliers: share primary data** — most of the current datasets are built on secondary data. Our vision is to progressively collect primary data from manufacturers to improve quality. If you're a supplier willing to share process data for one of the existing processes, we'll run an LCA of your process in return. Your data can remain anonymous and be averaged with other suppliers' data so the published dataset stays fully anonymised.
+
+For supplier data-sharing or any other partnership questions, contact us at science@carbonfact.com.
 
 ## License
 
