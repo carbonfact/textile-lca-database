@@ -27,6 +27,7 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
 | [Natural Rubber](datasets/natural-rubber/) | 4 | STR production (TH, ID, CI, VN) | 1 kg STR |
 | [Use Phase](datasets/use-phase/) | 15 | Dry cleaning, Hand washing, Machine washing (30/40/60°), Tumble drying, Ironing, Detergents | 1 kg textile / 1 min / 1 kg detergent |
+| **Total** | **252** | | |
 
 **Upcoming**
 
