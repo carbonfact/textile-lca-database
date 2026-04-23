@@ -50,8 +50,9 @@ Many process parameters (electricity consumption, lubricant use, yarn waste) are
 |----------|-------------|
 | [Impact indicators](impact-indicators.md) | Full table of 16 EF 3.1 indicators with codes, names, and units |
 | [Data Quality Rating framework](dqr-framework.md) | PEF DQR scoring methodology and calculation steps |
-| [Capital goods](capital-goods.md) | Machine amortisation approach |
-| [Building infrastructure](building-infrastructure.md) | Building allocation approach |
+| [Capital goods](capital-goods.md) ([PDF](capital-goods.pdf)) | Machine amortisation approach |
+| [Building infrastructure](building-infrastructure.md) ([PDF](building-infrastructure.pdf)) | Building allocation approach |
+| [Indirect energy (PDF)](indirect-energy.pdf) | HVAC, compressors, lighting and auxiliaries allocation (knitting) |
 
 ### Process-specific methodology
 
