@@ -13,12 +13,12 @@
 
 **📄 [Download full methodology (PDF)](sneaker-shoe-assembly.pdf)**
 
-The PDF contains the complete methodology documentation, including modelling strategy, chemical input construction, proxy decisions, contribution analysis, and material loss treatment (IOR and defect rates).
+The PDF contains the complete methodology documentation, including modelling strategy, chemical input construction, proxy decisions, and material loss treatment (IOR and defect rates).
 
 ### Markdown reference
 
 | Tab | Description |
 |---|---|
 | [Documentation](documentation.md) | Scope, modelling strategy, cross-process inventory, chemical inputs, proxy decisions |
-| [Life Cycle Inventory](lci.md) | Results, contribution analysis, limitations, reference flow |
+| [Life Cycle Inventory](lci.md) | Results, limitations, reference flow |
 | [Annexes](annexes.md) | Methodological decisions record, IOR and defect rate treatment |

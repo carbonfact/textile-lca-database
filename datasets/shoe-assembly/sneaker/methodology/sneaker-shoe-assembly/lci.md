@@ -30,39 +30,7 @@ Key findings:
 - Electricity-intensive processes (Assembly −70%, HF Welding −71%, Nosew −60%) are most sensitive to grid choice.
 - Chemistry-dominated processes (Lamination, Screen Printing) are virtually unaffected.
 
-## 7. Contribution analysis
-
-### 7.1 Stock fit (VN scenario, 0.658 kg CO₂-eq)
-
-| Input | Amount | Unit | GWP (kg CO₂-eq) | Share |
-|-------|-------:|------|------------------:|------:|
-| **Electricity (medium voltage, VN)** | 0.454 | kWh | 0.233 | 35.4% |
-| **Methyl ethyl ketone** | 0.028 | kg | 0.194 | 29.4% |
-| Ethyl acetate | 0.014 | kg | 0.056 | 8.5% |
-| Oxalic acid | 0.003 | kg | 0.052 | 7.9% |
-| Corrugated board box (packaging) | 0.027 | kg | 0.036 | 5.4% |
-| PU adhesive | 0.006 | kg | 0.030 | 4.5% |
-| PU flexible foam | 0.004 | kg | 0.024 | 3.7% |
-| Other (11 inputs) | | | 0.033 | 5.2% |
-
-Stock fit is driven primarily by **electricity** (35%) and **methyl ethyl ketone** (29%). Together these two inputs account for nearly two-thirds of the process footprint. Methyl ethyl ketone (butan-2-one, CAS 78-93-3) has a high emission factor in ecoinvent 3.12 (~7.1 kg CO₂-eq/kg for RoW, ~6.3 for RER) — roughly 2× higher than acetone and 1.8× higher than ethyl acetate — due to petrochemical-intensive production from butane oxidation.
-
-### 7.2 Stitching (VN scenario, 0.154 kg CO₂-eq)
-
-| Input | Amount | Unit | GWP (kg CO₂-eq) | Share |
-|-------|-------:|------|------------------:|------:|
-| **Methyl ethyl ketone** | 0.009 | kg | 0.058 | 37.6% |
-| **Ethyl acetate** | 0.013 | kg | 0.053 | 34.2% |
-| Rosin size | 0.003 | kg | 0.010 | 6.3% |
-| Synthetic rubber | 0.003 | kg | 0.009 | 6.0% |
-| Methylcyclohexane | 0.003 | kg | 0.007 | 4.9% |
-| LDPE granulate (packaging) | 0.002 | kg | 0.007 | 4.8% |
-| Electricity (medium voltage, VN) | 0.010 | kWh | 0.005 | 3.4% |
-| Other (3 inputs) | | | 0.004 | 2.9% |
-
-Stitching is dominated by **solvents** (methyl ethyl ketone + ethyl acetate = 72%), with electricity playing a minor role (3.4%).
-
-## 8. Limitations and open items
+## 7. Limitations and open items
 
 | Item | Status | Next step |
 |------|--------|-----------|
