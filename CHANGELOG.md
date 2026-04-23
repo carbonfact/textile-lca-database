@@ -5,6 +5,13 @@ All notable changes to the Carbonfact Textile LCA Database will be documented in
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Removed
+
+- Per-dataset `ghg-contributions.csv` files across all processes — these exposed individual ecoinvent dataset impact scores and have been withdrawn from the repository.
+- Markdown versions of the shared `capital-goods` and `building-infrastructure` methodology documents (duplicated the canonical PDFs).
+
 ## [1.1.0] - 2026-04-15
 
 ### Added
