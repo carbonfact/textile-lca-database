@@ -9,3 +9,13 @@ Process methodology documentation for all knitting technologies. Each technology
 | [Seamless Knitting](seamless-knitting/) | [📄 PDF](seamless-knitting/seamless-knitting.pdf) | Complete garment knitting (Shima Seiki WHOLEGARMENT, Santoni SM8) |
 | [Hosiery Knitting](hosiery-knitting/) | [📄 PDF](hosiery-knitting/hosiery-knitting.pdf) | Small-diameter circular knitting for socks and hosiery |
 | [3D Knitting](3d-knitting/) | [📄 PDF](3d-knitting/3d-knitting.pdf) | 3D / WHOLEGARMENT knitting for complete garments |
+
+## Shared methodology
+
+The following cross-cutting methodology documents apply to all knitting datasets:
+
+| Document | PDF | Description |
+|---|---|---|
+| [Capital Goods & End-of-Life (Machinery)](../../../methodology/capital-goods.md) | [📄 PDF](../../../methodology/capital-goods.pdf) | Machine amortisation and EoL allocation framework |
+| [Building Infrastructure](../../../methodology/building-infrastructure.md) | [📄 PDF](../../../methodology/building-infrastructure.pdf) | Building area amortisation over lifetime output |
+| Indirect Energy | [📄 PDF](../../../methodology/indirect-energy.pdf) | HVAC, compressors, lighting and auxiliaries allocation |
