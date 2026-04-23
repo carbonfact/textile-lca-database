@@ -10,9 +10,9 @@ This process category covers weaving — the interlacing of warp and weft yarns 
 
 ## Datasets
 
-Yarn IOR (Input-Output Ratio) is the kg of input yarn required per 1 kg of finished woven fabric, accounting for loom-specific yarn losses. Callers scale the upstream yarn input by this factor. See [methodology](methodology/) §3.2.3 for derivation.
+**Input required (kg)** is the kg of input yarn required per 1 kg of finished woven fabric, accounting for loom-specific yarn losses. Callers scale the upstream yarn input by this factor and add a yarn-waste flow for the lost fraction — see the repo-level [Handling material losses](../../README.md#handling-material-losses) note. See [methodology](methodology/) §3.2.3 for derivation.
 
-| Activity | GHG (kgCO2eq/kg) | Yarn IOR (kg/kg) |
+| Activity | GHG (kgCO2eq/kg) | Input required (kg) |
 |----------|------------------:|------------------:|
 | Fabric production, nonwoven, cellulosic, wetlaid spunlace | 2.16 | — |
 | Fabric production, nonwoven, polypropylene, meltblown | 1.94 | — |
@@ -44,5 +44,5 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 | File | Description |
 |------|-------------|
-| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + yarn IOR |
+| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + Input required (kg) |
 | [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |
