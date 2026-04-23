@@ -2,6 +2,8 @@
 
 > Lifecycle assessment datasets for yarn and filament production across ring spinning, open-end rotor, and filament spinning technologies for all major fibre types.
 
+> ⚠️ **Under active revision — refreshed release expected 2026-04-24.** Methodology, inventory, and scores in this folder are being rebuilt. Values below may not match the next release; please wait for the next update before re-using results.
+
 **159 datasets** | Functional unit: 1 kg yarn | All 16 EF 3.1 impact indicators
 
 ## Process Categories
@@ -39,5 +41,4 @@ Detailed methodology documentation: [methodology/](methodology/)
 | File | Description |
 |------|-------------|
 | [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + **Input required (kg)** loss factor |
-| [ghg-contributions.csv](ghg-contributions.csv) | Per-exchange GHG contribution analysis |
 | [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |

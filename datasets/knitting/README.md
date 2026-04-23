@@ -39,5 +39,4 @@ Detailed methodology documentation: [methodology/](methodology/)
 | File | Description |
 |------|-------------|
 | [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + yarn IOR |
-| [ghg-contributions.csv](ghg-contributions.csv) | Per-exchange GHG contribution analysis |
 | [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |

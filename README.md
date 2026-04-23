@@ -13,7 +13,7 @@
 
 ## What is this?
 
-The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes GHG contribution breakdowns and data quality ratings.
+The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes data quality ratings.
 
 ## What's included
 
@@ -45,12 +45,11 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 
 ## Data files
 
-Each process directory contains 3 files:
+Each process directory contains 2 files:
 
 | File | Description |
 |------|-------------|
 | `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes the **Input required (kg)** loss factor — the amount of input material needed to produce 1 kg of output (e.g., 1.18 means you need 1.18 kg of input per 1 kg of output). Multiply your upstream material impact by this factor to account for process losses. This is the primary results file. |
-| `ghg-contributions.csv` | Per-exchange GHG contribution analysis showing which inputs and emissions drive the climate change impact of each dataset. |
 | `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
 
 ## Impact indicators
@@ -93,12 +92,13 @@ Cross-cutting methodology docs (applicable to all processes):
 
 - [Impact indicators](methodology/impact-indicators.md) — Full table of 16 EF 3.1 indicators
 - [Data Quality Rating framework](methodology/dqr-framework.md) — PEF DQR scoring methodology
-- [Capital goods](methodology/capital-goods.md) — Machine amortization approach
-- [Building infrastructure](methodology/building-infrastructure.md) — Building allocation approach
+- [Capital goods (PDF)](methodology/capital-goods.pdf) — Machine amortization approach
+- [Building infrastructure (PDF)](methodology/building-infrastructure.pdf) — Building allocation approach
+- [Indirect energy (PDF)](methodology/indirect-energy.pdf) — HVAC, compressors, lighting and auxiliaries allocation
 
 ## Background database & pre-calculated scores
 
-If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` and `ghg-contributions.csv` files in each process directory give you ready-to-use results.
+If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` file in each process directory gives you ready-to-use results.
 
 The lifecycle inventories in this repository are built on top of **ecoinvent 3.12** as the background database. If you want to run these inventories in an LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA), you will need a valid [ecoinvent license](https://ecoinvent.org/offerings/).
 

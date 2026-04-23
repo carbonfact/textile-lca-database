@@ -16,6 +16,6 @@ The following cross-cutting methodology documents apply to all knitting datasets
 
 | Document | PDF | Description |
 |---|---|---|
-| [Capital Goods & End-of-Life (Machinery)](../../../methodology/capital-goods.md) | [📄 PDF](../../../methodology/capital-goods.pdf) | Machine amortisation and EoL allocation framework |
-| [Building Infrastructure](../../../methodology/building-infrastructure.md) | [📄 PDF](../../../methodology/building-infrastructure.pdf) | Building area amortisation over lifetime output |
+| Capital Goods & End-of-Life (Machinery) | [📄 PDF](../../../methodology/capital-goods.pdf) | Machine amortisation and EoL allocation framework |
+| Building Infrastructure | [📄 PDF](../../../methodology/building-infrastructure.pdf) | Building area amortisation over lifetime output |
 | Indirect Energy | [📄 PDF](../../../methodology/indirect-energy.pdf) | HVAC, compressors, lighting and auxiliaries allocation |
