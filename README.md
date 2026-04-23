@@ -49,8 +49,19 @@ Each process directory contains 2 files:
 
 | File | Description |
 |------|-------------|
-| `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes the **Input required (kg)** loss factor — the amount of input material needed to produce 1 kg of output (e.g., 1.18 means you need 1.18 kg of input per 1 kg of output). Multiply your upstream material impact by this factor to account for process losses. This is the primary results file. |
+| `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes an **Input required (kg)** column — the kg of input material needed to produce 1 kg of output (e.g. 1.18 means 1.18 kg of input per 1 kg of output). See [Handling material losses](#handling-material-losses) for how to apply it. This is the primary results file. |
 | `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
+
+### Handling material losses
+
+Yarn and other material losses are **not modelled inside the process datasets** — the process inventories contain no waste-yarn or waste-material exchanges. They are meant to be applied externally by the caller using the **Input required (kg)** value (this is the column name in the CSV files; it is sometimes referred to as the *Input-Output Ratio*, or IOR, in methodology docs).
+
+To correctly account for material losses, the caller must:
+
+1. **Scale the upstream material input** by the process-specific Input required (kg), so the material-production burden reflects the actual loss rate. For example, 1 kg of knitted fabric at `Input required (kg) = 1.05` means modelling 1.05 kg of upstream yarn production.
+2. **Add a material waste flow** for the lost material (e.g. textile waste to recycling, landfill, or incineration) to account for the end-of-life treatment of the fraction that did not end up in the product.
+
+Auxiliary and chemical waste flows (oils, cleaning agents, wastewater treatment, etc.) are already embedded in the process emission factors and do **not** need to be added separately.
 
 ## Impact indicators
 

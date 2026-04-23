@@ -10,9 +10,9 @@ This process category covers knitting — the interlocking of yarn loops to form
 
 ## Datasets
 
-Yarn IOR (Input-Output Ratio) is the kg of input yarn required per 1 kg of finished knitted fabric, accounting for technology- and fineness-specific yarn losses. Callers scale the upstream yarn input by this factor. See [methodology](methodology/) for per-technology derivation.
+**Input required (kg)** is the kg of input yarn required per 1 kg of finished knitted fabric, accounting for technology- and fineness-specific yarn losses. Callers scale the upstream yarn input by this factor and add a yarn-waste flow for the lost fraction — see the repo-level [Handling material losses](../../README.md#handling-material-losses) note. See [methodology](methodology/) for per-technology derivation.
 
-| Activity | GHG (kgCO2eq/kg) | Yarn IOR (kg/kg) |
+| Activity | GHG (kgCO2eq/kg) | Input required (kg) |
 |----------|------------------:|------------------:|
 | 3D Knitting, Average | 6.59 | 1.020408163 |
 | Circular Knitting, 120 dtex | 3.33 | 1.041666667 |
@@ -38,5 +38,5 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 | File | Description |
 |------|-------------|
-| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + yarn IOR |
+| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores + Input required (kg) |
 | [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |
