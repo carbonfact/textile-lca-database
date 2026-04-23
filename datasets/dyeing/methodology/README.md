@@ -3,6 +3,7 @@
 | Technology | PDF | Description |
 |---|---|---|
 | Dyeing | [PDF](Dyeing_DB_Methodology.pdf) | Exhaust, semi-continuous, and continuous dyeing processes |
+| Dyeing chemicals | [PDF](Dyeing_Chemicals_Methodology.pdf) | LCI methodology for dyes and speciality wet-processing chemicals |
 
 | Item | Detail |
 | --- | --- |
