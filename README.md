@@ -43,6 +43,8 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 - [x] ~~Footwear Assembly~~
 - [x] ~~Use Phase (Laundry)~~
 
+> Beyond new datasets, see [ROADMAP.md](ROADMAP.md) for planned improvements to data formats, methodology, and external verification.
+
 ## Data files
 
 Each process directory contains 2 files:
