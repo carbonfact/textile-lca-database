@@ -21,7 +21,7 @@ If you'd like to help with any of these, or think something is missing, open an 
 ## External verification
 
 - [ ] **Independent critical review** — submit selected process datasets and the cross-cutting methodology to an independent ISO 14040/14044-aligned critical review, and publish the reviewer's statement alongside the affected datasets.
-- [ ] **Community peer review** — open a structured review window (via GitHub Discussions) for LCA practitioners to comment on assumptions, proxies, and impact-category coverage before each minor release.
+- [x] **Community feedback channel** — [GitHub Discussions](https://github.com/carbonfact/textile-lca-database/discussions) is open continuously for LCA practitioners to comment on assumptions, proxies, impact-category coverage, or anything else. No fixed review windows at this stage; feedback is welcome at any time.
 
 ## Aii benchmark refresh
 
