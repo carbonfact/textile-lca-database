@@ -18,7 +18,7 @@
 | Activity | GHG (kgCO2eq/pair) |
 |----------|--------------------:|
 | Sneaker Shoe Assembly, Vietnam electricity | 1.66 |
-| Sneaker Shoe Assembly, Global average electricity | 1.01 |
+| Sneaker Shoe Assembly, Global average electricity | 1.90 |
 
 ### Women's boots assembly (per kg)
 
