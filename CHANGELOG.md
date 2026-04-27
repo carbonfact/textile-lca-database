@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Sneaker Shoe Assembly — GLO electricity scenario: updated impact scores to use a more carbon-intensive global market mix (`market group for electricity, medium voltage, GLO` in ecoinvent 3.12). GHG total moves from 1.014 → 1.905 kg CO₂-eq/pair (+88%); switching VN→GLO now **increases** GWP by +14% (previously −39%). VN values unchanged.
+- Sneaker Shoe Assembly — `inventory-brightway.xlsx` restructured into two scenario-specific sheets (`Assembly Footwear DB VN`, `Assembly Footwear DB GLO`) instead of a single sheet, so each sheet directly references its corresponding ecoinvent electricity market. Methodology PDF and `lci.md` results table updated accordingly.
+
 ### Removed
 
 - Per-dataset `ghg-contributions.csv` files across all processes — these exposed individual ecoinvent dataset impact scores and have been withdrawn from the repository.

@@ -15,7 +15,7 @@ The database was developed based on primary data from a supplier in Vietnam usin
 | Activity | GHG (kgCO2eq/pair) |
 |----------|--------------------:|
 | Sneaker Shoe Assembly, Vietnam electricity | 1.66 |
-| Sneaker Shoe Assembly, Global average electricity | 1.01 |
+| Sneaker Shoe Assembly, Global average electricity | 1.90 |
 
 > Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
