@@ -30,4 +30,4 @@ Filament spinning covers the extrusion of polymer melts or solutions into contin
 
 ## Methodology
 
-Detailed methodology: [methodology/melt-spinning/](methodology/melt-spinning/)
+Detailed methodology: [methodology/filament/](methodology/filament/)
