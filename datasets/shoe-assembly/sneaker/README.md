@@ -2,7 +2,7 @@
 
 > Lifecycle assessment datasets for sneaker footwear assembly operations, covering chemicals, energy, water, packaging, emissions and waste across 9 sub-processes.
 
-**2 datasets** | Functional unit: 1 pair of footwear | All 16 EF 3.1 impact indicators
+**2 datasets** | Functional unit: 1 pair of footwear | Methodology covers all 16 EF 3.1 impact indicators
 
 ## Overview
 
@@ -12,12 +12,10 @@ The database was developed based on primary data from a supplier in Vietnam usin
 
 ## Datasets
 
-| Activity | GHG (kgCO2eq/pair) |
-|----------|--------------------:|
-| Sneaker Shoe Assembly, Vietnam electricity | 1.66 |
-| Sneaker Shoe Assembly, Global average electricity | 1.90 |
-
-> Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
+| Activity |
+|----------|
+| Sneaker Shoe Assembly, Vietnam electricity |
+| Sneaker Shoe Assembly, Global average electricity |
 
 ## Methodology
 
@@ -27,5 +25,4 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 | File | Description |
 |------|-------------|
-| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators + DQR scores |
-| [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory |
+| [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible foreground inventory |

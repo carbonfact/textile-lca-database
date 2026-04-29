@@ -1,11 +1,11 @@
 # Carbonfact Textile LCA Database
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.1.1-blue.svg)](CHANGELOG.md)
 
-**The open-source reference database for textile lifecycle assessment.**
+**The open-source reference database of foreground lifecycle inventories for textile manufacturing.**
 
-> ⚠️ **Soft release.** This is an initial release shared with a small group of practitioners in the field to gather feedback from the LCA and textile communities before communicating more openly. Datasets, methodology, and documentation may still evolve over the coming weeks based on the feedback we receive — please treat version numbers below `1.x` as preview and check the [changelog](CHANGELOG.md) before re-using results across releases.
+> ⚠️ **Soft release.** This is an initial release shared with a small group of practitioners in the field to gather feedback from the LCA and textile communities before communicating more openly. Datasets, methodology, and documentation may still evolve over the coming weeks based on the feedback we receive — please check the [changelog](CHANGELOG.md) before re-using results across releases.
 >
 > In particular, the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) is a key secondary data source for several process datasets (notably dyeing, and wet-processing energy/water more broadly). The Aii benchmark itself is actively being updated, and we plan to refresh the affected Carbonfact datasets as new Aii releases become available.
 >
@@ -13,7 +13,9 @@
 
 ## What is this?
 
-The Carbonfact Textile LCA Database is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes data quality ratings.
+The Carbonfact Textile LCA Database is a free, open-source collection of **foreground lifecycle inventories** (LCI) for core textile manufacturing processes. Each process is published as a Carbonfact-built foreground unit process referencing the [ecoinvent 3.12](https://ecoinvent.org/) background database by activity name, ready to import into Brightway, Activity Browser, SimaPro, or openLCA on top of your own ecoinvent license. Methodology and Data Quality Ratings are published alongside the inventories.
+
+> ℹ️ **No pre-calculated impact scores are published in this repository.** The repo ships foreground inventories only. To compute LCIA results across the 16 EF 3.1 indicators, import the inventories into your LCA tool with a valid [ecoinvent v3.12 license](https://ecoinvent.org/offerings/). See [Background data](#background-data) below.
 
 ## What's included
 
@@ -47,27 +49,26 @@ The Carbonfact Textile LCA Database is a free, open-source collection of lifecyc
 
 ## Data files
 
-Each process directory contains 2 files:
+Each process directory contains one file:
 
 | File | Description |
 |------|-------------|
-| `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes an **Input required (kg)** column — the kg of input material needed to produce 1 kg of output (e.g. 1.18 means 1.18 kg of input per 1 kg of output). See [Handling material losses](#handling-material-losses) for how to apply it. This is the primary results file. |
-| `inventory-brightway.xlsx` | Brightway/Activity Browser compatible lifecycle inventory (LCI). Can be directly imported into Brightway2 for further LCA modeling. |
+| `inventory-brightway.xlsx` | Brightway/Activity Browser compatible foreground inventory. Contains the Carbonfact process exchanges (electricity, heat, chemicals, water, capital goods, etc.) referencing ecoinvent 3.12 activities by name. Ready to import into Brightway2 and run with your own ecoinvent licence. Includes the `Input required (kg)` parameter where applicable — see [Handling material losses](#handling-material-losses). |
 
 ### Handling material losses
 
-Yarn and other material losses are **not modelled inside the process datasets** — the process inventories contain no waste-yarn or waste-material exchanges. They are meant to be applied externally by the caller using the **Input required (kg)** value (this is the column name in the CSV files; it is sometimes referred to as the *Input-Output Ratio*, or IOR, in methodology docs).
+Yarn and other material losses are **not modelled inside the process datasets** — the process inventories contain no waste-yarn or waste-material exchanges. They are meant to be applied externally by the caller using the **Input required (kg)** value (this is the column name in the per-process README dataset tables; it is sometimes referred to as the *Input-Output Ratio*, or IOR, in methodology docs).
 
 To correctly account for material losses, the caller must:
 
 1. **Scale the upstream material input** by the process-specific Input required (kg), so the material-production burden reflects the actual loss rate. For example, 1 kg of knitted fabric at `Input required (kg) = 1.05` means modelling 1.05 kg of upstream yarn production.
 2. **Add a material waste flow** for the lost material (e.g. textile waste to recycling, landfill, or incineration) to account for the end-of-life treatment of the fraction that did not end up in the product.
 
-Auxiliary and chemical waste flows (oils, cleaning agents, wastewater treatment, etc.) are already embedded in the process emission factors and do **not** need to be added separately.
+Auxiliary and chemical waste flows (oils, cleaning agents, wastewater treatment, etc.) are already embedded in the process inventories and do **not** need to be added separately.
 
 ## Impact indicators
 
-All datasets report results for the 16 EF 3.1 impact indicators:
+The methodology behind the inventories targets the 16 EF 3.1 impact indicators listed below — but **no pre-calculated scores are published in this repository**. To compute them, import an `inventory-brightway.xlsx` into your LCA tool with a valid ecoinvent 3.12 license and apply EF 3.1 characterization factors.
 
 | Code | Indicator | Unit |
 |------|-----------|------|
@@ -109,15 +110,15 @@ Cross-cutting methodology docs (applicable to all processes):
 - [Building infrastructure (PDF)](methodology/building-infrastructure.pdf) — Building allocation approach
 - [Indirect energy (PDF)](methodology/indirect-energy.pdf) — HVAC, compressors, lighting and auxiliaries allocation
 
-## Background database & pre-calculated scores
+## Background data
 
-If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` file in each process directory gives you ready-to-use results.
+The foreground inventories published here reference the [**ecoinvent v3.12**](https://ecoinvent.org/) (cut-off system model) database for all upstream inputs (electricity, heat, chemicals, water, waste treatment). The inventories ship with activity *names* only — they do not contain ecoinvent's underlying data values. Running an inventory therefore requires a valid [ecoinvent licence](https://ecoinvent.org/offerings/) loaded into your LCA tool of choice (Brightway, Activity Browser, SimaPro, openLCA).
 
-The lifecycle inventories in this repository are built on top of **ecoinvent 3.12** as the background database. If you want to run these inventories in an LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA), you will need a valid [ecoinvent license](https://ecoinvent.org/offerings/).
+We use ecoinvent's global market group for medium voltage electricity (`market group for electricity, medium voltage, GLO`) by default, unless a region-specific market is justified by the process methodology.
 
 ## Versioning & changelog
 
-This project follows [Semantic Versioning](https://semver.org/). Major versions indicate breaking schema changes, minor versions add new datasets or processes, and patch versions fix data errors.
+This project follows [Semantic Versioning](https://semver.org/). Major versions indicate breaking schema changes (e.g. adding/removing data files), minor versions add new datasets or processes, and patch versions fix data errors.
 
 See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
@@ -138,9 +139,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ### What you can do
 
-- **Use** the data for any purpose, including commercial use — no permission needed.
-- **Share** — copy and redistribute the data in any medium or format.
-- **Adapt** — remix, transform, modify, or build upon the datasets (e.g. improve an inventory, add new exchanges, recalculate with updated characterization factors).
+- **Use** the inventories for any purpose, including commercial use — no permission needed.
+- **Share** — copy and redistribute the inventories in any medium or format.
+- **Adapt** — remix, transform, modify, or build upon the inventories (e.g. extend an inventory, add new exchanges, recalculate using updated background databases or characterization factors).
 
 ### What you must do
 
@@ -148,9 +149,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
   > Data source: [Carbonfact Textile LCA Database](https://github.com/carbonfact/textile-lca-database), CC BY-SA 4.0
 
-  We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
+  We strongly encourage displaying this attribution on the same page or screen where results derived from these inventories are shown, rather than burying it in a bibliography or appendix.
 
-- **ShareAlike** — if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
+- **ShareAlike** — if you modify or improve the inventories and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
 ### What you cannot do
 
@@ -169,18 +170,8 @@ If you use this database in your work, please cite it as:
   title     = {Carbonfact Textile LCA Database},
   author    = {Carrières, Vincent and Vandepaer, Laurent and Vieira, Gustavo},
   year      = {2026},
-  version   = {1.1.0},
+  version   = {1.1.1},
   url       = {https://github.com/carbonfact/textile-lca-database},
   license   = {CC-BY-SA-4.0}
 }
 ```
-
-## Quick start (Python)
-
-```python
-import pandas as pd
-
-knitting = pd.read_csv("datasets/knitting/impact-scores.csv")
-print(knitting[["Activity", "GHG"]].to_string(index=False))
-```
-

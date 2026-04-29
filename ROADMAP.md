@@ -7,12 +7,7 @@ If you'd like to help with any of these, or think something is missing, open an 
 ## Data formats & exports
 
 - [ ] **EcoSpold 1 export** — provide inventories in EcoSpold 1 format alongside the current Brightway/Activity Browser xlsx, for compatibility with SimaPro and other tools.
-- [ ] **Consolidated workbook** — a single Excel file bundling every dataset's impact scores, DQR breakdown, and key energy inputs (electricity, heat) across all processes, so users can compare processes without stitching CSVs together.
-
-## Impact scores file
-
-- [ ] **Energy input columns** — add electricity (kWh) and heat (MJ) per functional unit directly in each process's `impact-scores.csv`, so these key inventory values are visible without opening the Brightway inventory.
-- [ ] **GHG sub-category breakdown** — split the climate change (GHG) result into fossil, biogenic, and land use change sub-totals, so users can see the composition of each dataset's carbon footprint rather than only the aggregated kgCO2eq value.
+- [ ] **Consolidated inventory workbook** — a single Excel file bundling every process's foreground inventory and DQR breakdown across all processes, so users can browse the full database without opening one xlsx per process.
 
 ## Methodology
 
