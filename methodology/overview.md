@@ -58,7 +58,7 @@ Many process parameters (electricity consumption, lubricant use, yarn waste) are
 
 | Process | Documentation |
 |---------|---------------|
-| Spinning | [Ring Spun](../datasets/spinning/methodology/ring-spun/) · [Melt Spinning](../datasets/spinning/methodology/melt-spinning/) · [Open End Rotor](../datasets/spinning/methodology/open-end-rotor/) |
+| Spinning | [Ring Spun](../datasets/spinning/methodology/ring-spun/) · [Filament](../datasets/spinning/methodology/filament/) · [Open End Rotor](../datasets/spinning/methodology/open-end-rotor/) |
 | Knitting | [Flat](../datasets/knitting/methodology/flat-knitting/) · [Circular](../datasets/knitting/methodology/circular-knitting/) · [Seamless](../datasets/knitting/methodology/seamless-knitting/) · [Hosiery](../datasets/knitting/methodology/hosiery-knitting/) · [3D](../datasets/knitting/methodology/3d-knitting/) |
 | Weaving | [Weaving](../datasets/weaving/methodology/) |
 | Dyeing | [Dyeing](../datasets/dyeing/methodology/) |
