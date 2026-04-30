@@ -7,20 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.1.1] - 2026-04-29
-
-The repository now publishes foreground inventories only; users compute scores in their own LCA tool.
-
 ### Changed
 
-- README, methodology docs, CONTRIBUTING, ROADMAP, and the data-error issue template reframed around the foreground-inventory-only distribution.
-- Sneaker Shoe Assembly — GLO electricity scenario regenerated using a more carbon-intensive global market mix (`market group for electricity, medium voltage, GLO` in ecoinvent 3.12). VN inventory unchanged.
-- Sneaker Shoe Assembly — `inventory-brightway.xlsx` restructured into two scenario-specific sheets (`Assembly Footwear DB VN`, `Assembly Footwear DB GLO`) so each sheet directly references its corresponding ecoinvent electricity market.
+- Sneaker Shoe Assembly — GLO electricity scenario: updated impact scores to use a more carbon-intensive global market mix (`market group for electricity, medium voltage, GLO` in ecoinvent 3.12). GHG total moves from 1.014 → 1.905 kg CO₂-eq/pair (+88%); switching VN→GLO now **increases** GWP by +14% (previously −39%). VN values unchanged.
+- Sneaker Shoe Assembly — `inventory-brightway.xlsx` restructured into two scenario-specific sheets (`Assembly Footwear DB VN`, `Assembly Footwear DB GLO`) instead of a single sheet, so each sheet directly references its corresponding ecoinvent electricity market. Methodology PDF and `lci.md` results table updated accordingly.
 
 ### Removed
 
-- Per-process `impact-scores.csv` files (one per process directory).
-- Per-dataset `ghg-contributions.csv` files across all processes.
+- Per-dataset `ghg-contributions.csv` files across all processes — these exposed individual ecoinvent dataset impact scores and have been withdrawn from the repository.
 - Markdown versions of the shared `capital-goods` and `building-infrastructure` methodology documents (duplicated the canonical PDFs).
 
 ## [1.1.0] - 2026-04-15

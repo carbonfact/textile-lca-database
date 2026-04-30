@@ -1,8 +1,6 @@
 # Impact Indicators
 
-The methodology behind the foreground inventories in the Carbonfact Textile LCA Database targets the 16 impact indicators defined in the **Environmental Footprint (EF) 3.1** method, as recommended by the European Commission for Product Environmental Footprint (PEF) studies.
-
-> ℹ️ **Reference only — no pre-calculated scores are published in this repository.** This page documents the methodological framework. To compute the indicators, import an `inventory-brightway.xlsx` foreground inventory into your LCA tool with a valid [ecoinvent v3.12 license](https://ecoinvent.org/offerings/) and apply EF 3.1 characterization factors. See [README §Background data](../README.md#background-data).
+All datasets in the Carbonfact Textile LCA Database report results for the 16 impact indicators defined in the **Environmental Footprint (EF) 3.1** method, as recommended by the European Commission for Product Environmental Footprint (PEF) studies.
 
 ## Indicator table
 
@@ -27,7 +25,7 @@ The methodology behind the foreground inventories in the Carbonfact Textile LCA 
 
 ## Notes
 
-- Indicator units are reported per **1 kg** of output product (yarn, fabric, or dyed textile), matching the functional unit of each process — adapt to your product's functional unit when computing scores in your LCA tool.
+- All impact scores are expressed per **1 kg** of output product (yarn, fabric, or dyed textile), matching the functional unit of each process.
 - The GHG indicator uses the IPCC 2013 Global Warming Potential with a 100-year time horizon (GWP100), excluding biogenic carbon.
-- Characterization factors are sourced from the EF 3.1 method as implemented in ecoinvent 3.12 — you need your own ecoinvent license to apply them.
+- Characterization factors are sourced from the EF 3.1 method as implemented in ecoinvent 3.12.
 - The codes used in this database (e.g., GHG, ACD) are short-form aliases used by the Carbonfact Emission Factor System (EFS). They map one-to-one to the official EF 3.1 indicator names listed above.

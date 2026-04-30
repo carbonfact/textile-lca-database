@@ -53,7 +53,16 @@
 | market for N,N-dimethylformamide | 0.0426 | kg | Top layer |
 | market for polyether polyols, long chain | 0.0403 | kg | Top layer |
 
-## 2. Biosphere emissions
+## 2. Results summary
+
+| Variant | GHG (kgCO2eq/m²) |
+|---------|-------------------|
+| DMF-free (water-borne) | 19.51 |
+| DMF-based (solvent-based) | 37.02 |
+
+The DMF-based process has ~1.9x higher climate change impact, primarily due to the 24 kWh/m² electricity demand in the top layer process step (vs 6.11 kWh/m² for DMF-free).
+
+## 3. Biosphere emissions
 
 The DMF-based process includes direct N,N-Dimethylformamide emissions to water:
 - Foam layer: 0.043 kg DMF to water
