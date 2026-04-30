@@ -4,9 +4,7 @@
 
 The Carbonfact Textile LCA Database follows a **gate-to-gate** modelling approach for each textile manufacturing process. Datasets represent the environmental impact of transforming an input material (yarn, greige fabric, etc.) into an output product (yarn, fabric, dyed textile) at the factory gate.
 
-Each process is published as a standalone **foreground unit process** referencing the ecoinvent 3.12 background database for upstream inputs (electricity, heat, chemicals, water, waste treatment). The methodology targets the **Environmental Footprint (EF) 3.1** method across 16 impact indicators when characterising results.
-
-> ℹ️ **No pre-calculated impact scores are published in this repository.** The repo ships foreground inventories (`inventory-brightway.xlsx`) only. To compute the EF 3.1 indicators, import the inventories into your LCA tool with a valid [ecoinvent v3.12 license](https://ecoinvent.org/offerings/). See [README §Background data](../README.md#background-data).
+Each process is modelled as a standalone foreground unit process, linked to the ecoinvent 3.12 background database for upstream inputs (electricity, heat, chemicals, water, waste treatment) and characterised using the **Environmental Footprint (EF) 3.1** method across 16 impact indicators.
 
 ## Functional unit
 
@@ -33,7 +31,7 @@ All datasets use **ecoinvent 3.12** (cut-off system model) as the background dat
 
 ## Impact assessment method
 
-Life Cycle Impact Assessment (LCIA) targets the **EF 3.1** characterisation method across all 16 PEF impact indicators. See [impact-indicators.md](impact-indicators.md) for the full indicator list with codes, names, and units. Pre-calculated scores are not shipped in this repository — apply EF 3.1 in your own LCA tool with an ecoinvent v3.12 license to compute results from the foreground inventories.
+Life Cycle Impact Assessment (LCIA) is performed using the **EF 3.1** characterisation method, reporting results for all 16 PEF impact indicators. See [impact-indicators.md](impact-indicators.md) for the full indicator list with codes, names, and units.
 
 ## Parameterisation
 

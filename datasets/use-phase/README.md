@@ -2,7 +2,7 @@
 
 > Lifecycle assessment datasets for the garment use phase — dry cleaning, hand washing, machine washing, tumble drying, ironing, and detergents.
 
-**15 datasets** | Functional units: 1 kg textile (wash/dry/clean), 1 min (ironing), 1 kg detergent | Methodology covers all 16 EF 3.1 impact indicators
+**15 datasets** | Functional units: 1 kg textile (wash/dry/clean), 1 min (ironing), 1 kg detergent | All 16 EF 3.1 impact indicators
 
 ## Overview
 
@@ -16,23 +16,25 @@ Datasets prepared by **Emelie Westall Lundqvist**.
 
 ## Datasets
 
-| Activity | Functional unit |
-|----------|-----------------|
-| Hand wash (liquid) | 1 kg textile |
-| Hand wash (powder) | 1 kg textile |
-| Machine 30° (liquid) | 1 kg textile |
-| Machine 30° (powder) | 1 kg textile |
-| Machine 40° (liquid) | 1 kg textile |
-| Machine 40° (powder) | 1 kg textile |
-| Machine 60° (liquid) | 1 kg textile |
-| Machine 60° (powder) | 1 kg textile |
-| Dry cleaning | 1 kg textile |
-| Tumble dry (cotton, closet dry) | 1 kg textile |
-| Tumble dry (cotton, iron dry) | 1 kg textile |
-| Tumble dry (synthetics, closet dry) | 1 kg textile |
-| Ironing (1 min) | 1 min ironing |
-| Liquid detergent (1 kg) | 1 kg detergent |
-| Powder detergent (1 kg) | 1 kg detergent |
+| Activity | Functional unit | GHG (kgCO2eq / FU) |
+|----------|-----------------|-------------------:|
+| Hand wash (liquid) | 1 kg textile | 0.080 |
+| Hand wash (powder) | 1 kg textile | 0.118 |
+| Machine 30° (liquid) | 1 kg textile | 0.116 |
+| Machine 30° (powder) | 1 kg textile | 0.154 |
+| Machine 40° (liquid) | 1 kg textile | 0.145 |
+| Machine 40° (powder) | 1 kg textile | 0.184 |
+| Machine 60° (liquid) | 1 kg textile | 0.135 |
+| Machine 60° (powder) | 1 kg textile | 0.174 |
+| Dry cleaning | 1 kg textile | 0.260 |
+| Tumble dry (cotton, closet dry) | 1 kg textile | 0.156 |
+| Tumble dry (cotton, iron dry) | 1 kg textile | 0.126 |
+| Tumble dry (synthetics, closet dry) | 1 kg textile | 0.132 |
+| Ironing (1 min) | 1 min ironing | 0.010 |
+| Liquid detergent (1 kg) | 1 kg detergent | 1.345 |
+| Powder detergent (1 kg) | 1 kg detergent | 3.104 |
+
+> Full results across all 16 EF 3.1 impact indicators: [impact-scores.csv](impact-scores.csv)
 
 ## Methodology
 
@@ -42,4 +44,5 @@ Detailed methodology documentation: [methodology/](methodology/)
 
 | File | Description |
 |------|-------------|
-| [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible foreground inventory (parameter values, formulas, exchanges) |
+| [impact-scores.csv](impact-scores.csv) | Emission factors (LCIA results) for 16 EF 3.1 indicators, with per-activity functional unit |
+| [inventory-brightway.xlsx](inventory-brightway.xlsx) | Brightway/Activity Browser compatible inventory (parameter values, formulas, exchanges) |

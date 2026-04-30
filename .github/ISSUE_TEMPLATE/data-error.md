@@ -8,7 +8,7 @@ labels: bug, data-quality
 ## Affected dataset
 
 - **Process:** (e.g., Knitting, Spinning, Weaving, Dyeing)
-- **File:** (e.g., `datasets/knitting/inventory-brightway.xlsx`)
+- **File:** (e.g., `datasets/knitting/impact-scores.csv`)
 - **Dataset/Activity name:** (e.g., "Flat Knitting, Average")
 
 ## What is incorrect?

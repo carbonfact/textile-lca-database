@@ -47,7 +47,7 @@ The following procedure is applied to each process dataset, following the PEFCR 
 
 All exchanges below the 80% cumulative threshold receive a default score of 3 on all four dimensions.
 
-DQR scores per dataset are derived following the framework above — see each process's methodology documentation for the per-dataset breakdown.
+DQR scores for each dataset are available in the `impact-scores.csv` files.
 
 ---
 

@@ -55,7 +55,7 @@ To discuss data sharing, contact us at **science@carbonfact.com**. We'll walk yo
 
 Contributed datasets should:
 
-- Be compatible with the 16 EF 3.1 impact indicators (the methodology supports computing them; pre-calculated scores are not published in the repo)
+- Cover at least 16 EF 3.1 impact indicators
 - Include Data Quality Rating (DQR) scores
 - Be accompanied by methodology documentation
 - Reference primary literature or data sources
