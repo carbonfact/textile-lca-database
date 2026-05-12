@@ -2,7 +2,7 @@
 
 > Lifecycle assessment datasets for textile finishing and pre-treatment processes across mechanical, chemical, and thermal technologies applied to fabric.
 
-**19 datasets** | Functional unit: 1 kg finished fabric | All 16 EF 3.1 impact indicators
+**18 datasets** | Functional unit: 1 kg finished fabric | All 16 EF 3.1 impact indicators
 
 ## Overview
 
@@ -23,7 +23,6 @@ This process category covers fabric finishing — mechanical, chemical, and ther
 | Fabric finishing, Flame retardant, Proban THPC, Pad-Cure-Oxidize | 0.88 |
 | Fabric finishing, Flame retardant, Pyrovatex N-P, Pad-Dry-Cure | 0.63 |
 | Fabric finishing, Heat setting, Stenter, PES 190°C | 0.46 |
-| Fabric finishing, Heat-setting, Polyester, Stenter | 1.03 |
 | Fabric finishing, Raising-Brushing, Mechanical | 0.14 |
 | Fabric finishing, Sanforization, Compressive shrinkage | 0.23 |
 | Fabric finishing, Softening, Exhaust, Jet | 0.31 |
