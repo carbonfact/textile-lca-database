@@ -34,7 +34,7 @@ This process category covers textile assembly — the conversion of finished fab
 
 ## Methodology
 
-Detailed methodology documentation: [methodology/](methodology/)
+Detailed methodology documentation: _Coming in a future PR._
 
 ## Data Files
 
