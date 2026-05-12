@@ -35,7 +35,7 @@ This process category covers textile printing — the localised application of c
 
 ## Methodology
 
-Detailed methodology documentation: [methodology/](methodology/)
+Detailed methodology documentation: _to be added in a future PR_.
 
 ## Data Files
 
